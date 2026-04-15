@@ -77,3 +77,17 @@
     - output-format.md - 输出格式规范（工作流、代码示例、链接规范）
 - 更新：index.md（添加 Brand Foundation 分类，Total pages: 7）
 - 更新：queries/wiki-health-check-improvements.md（标记已完成项）
+
+## [2026-04-15] cron | 定时任务配置
+- 每日健康检查 (lint) ✅
+  - job_id: 1f5b328fca1b
+  -  schedule: 每天 9:00 AM (UTC)
+  - 功能：扫描 wiki 页面，检查孤立/损坏链接/未审查页面等
+  - deliver: local（保存到 ~/.hermes/cron/output/）
+- 自动同步 GitHub ✅
+  - job_id: a785c944a85b
+  - schedule: 每小时
+  - 功能：检测更改并提交推送
+- Ingest 说明
+  - 需要用户提供来源（URL/文件）
+  - 方案：用户手动提供链接，或存到 raw/clippings/ 由 cron 处理
