@@ -31,3 +31,9 @@
 - 创建页面：concepts/agent-memory-architecture.md
 - 内容：Agent Memory 架构演进完整分析（Python List → Markdown → 向量搜索 → 图向量混合 → Cognee）
 - 更新：index.md（Total pages: 2）
+
+## [2026-04-15] preference | 英文内容处理规范
+- 用户要求：ingest 英文来源时
+  1. 开头提供一句话总结
+  2. 内容翻译成中文
+- 已保存到 memory
