@@ -81,7 +81,7 @@
 ## [2026-04-15] cron | 定时任务配置
 - 每日健康检查 (lint) ✅
   - job_id: 1f5b328fca1b
-  -  schedule: 每天 9:00 AM (UTC)
+  -  schedule: 每天 9:00 AM (UTC+8 下午 5 点)
   - 功能：扫描 wiki 页面，检查孤立/损坏链接/未审查页面等
   - deliver: local（保存到 ~/.hermes/cron/output/）
 - 自动同步 GitHub ✅
@@ -91,3 +91,19 @@
 - Ingest 说明
   - 需要用户提供来源（URL/文件）
   - 方案：用户手动提供链接，或存到 raw/clippings/ 由 cron 处理
+
+## [2026-04-15] improve | GBrain 模式借鉴
+- Compiled Truth + Timeline ✅
+  - 更新 SCHEMA.md：添加页面格式规范
+  - 核心思想：编译知识（可更新）+ 时间线（只追加）
+  - 优势：快速查阅 + 证据链追溯
+- 创建模板文件 ✅
+  - references/person-template.md - 人物实体模板
+  - references/company-template.md - 公司实体模板
+  - references/concept-template.md - 概念页面模板
+- 更新现有页面 ✅
+  - concepts/agent-memory-architecture.md - 添加编译知识 + 时间线
+  - concepts/ai-knowledge-layer-two-tier.md - 添加编译知识 + 时间线
+- 更新 index.md ✅
+  - 添加 References 分类
+  - Total pages: 10

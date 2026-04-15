@@ -2,7 +2,7 @@
 
 > 内容目录。每个 wiki 页面在其类型下列出，附带一行摘要。
 > 先读这里找到相关页面。
-> Last updated: 2026-04-15 | Total pages: 7
+> Last updated: 2026-04-15 | Total pages: 10
 
 ## Entities
 <!-- 按字母顺序排列 -->
@@ -23,6 +23,12 @@
 - [[banned-words]] - AI 禁用词列表
 - [[voice-profile]] - 声音画像
 - [[output-format]] - 输出格式规范
+
+## References
+
+- [[person-template]] - 人物实体页面模板
+- [[company-template]] - 公司实体页面模板
+- [[concept-template]] - 概念页面模板（Compiled Truth + Timeline）
 
 ## Configs
 
