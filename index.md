@@ -2,7 +2,7 @@
 
 > 内容目录。每个 wiki 页面在其类型下列出，附带一行摘要。
 > 先读这里找到相关页面。
-> Last updated: 2026-04-15 | Total pages: 15
+> Last updated: 2026-04-15 | Total pages: 18
 
 ## Entities
 <!-- 按字母顺序排列 -->
@@ -33,6 +33,10 @@
 - [[person-template]] - 人物实体页面模板
 - [[company-template]] - 公司实体页面模板
 - [[concept-template]] - 概念页面模板（Compiled Truth + Timeline）
+- [[hooks-collection]] - 爆款钩子库（8 种开头方式）
+- [[quotes-collection]] - 写作金句库（22 条可引用句子）
+- [[case-studies]] - 实战案例库（3 个故事）
+- [[industry-data]] - 行业数据库（15 条数据）
 
 ## Configs
 

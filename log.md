@@ -129,10 +129,13 @@
   - 创建钩子库：references/hooks-collection.md
     - 8 种爆款开头方式（对话式、反差对比、数字承诺等）
     - 来源：kilroy-cdn/writing-materials/01-钩子库.md
-- P1 进行中：
+- P1 已完成：
   - ✅ 迁移 summaries（6 篇 AI/Agent 文章）到 raw/articles/
   - ✅ 创建概念页面：
     - concepts/second-brain-karpathy-style.md - Karpathy 风格第二大脑
     - concepts/llm-knowledge-base-complete-guide.md - LLM 知识库完整教程
-  - 待执行：迁移金句库、案例库、数据库
-- 更新：index.md（Total pages: 15）
+  - ✅ 迁移写作素材库：
+    - references/quotes-collection.md - 金句库（22 条）
+    - references/case-studies.md - 案例库（3 个故事）
+    - references/industry-data.md - 数据库（15 条数据）
+- 更新：index.md（Total pages: 18）
