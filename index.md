@@ -2,7 +2,7 @@
 
 > 内容目录。每个 wiki 页面在其类型下列出，附带一行摘要。
 > 先读这里找到相关页面。
-> Last updated: 2026-04-15 | Total pages: 19
+> Last updated: 2026-04-15 | Total pages: 22
 
 ## Entities
 <!-- 按字母顺序排列 -->
@@ -14,6 +14,9 @@
 - [[hermes-system-prompt-structure]] - Hermes Agent 系统提示词结构：9 层架构 + 50% token 优化方案
 - [[second-brain-karpathy-style]] - Karpathy 风格第二大脑：极简个人知识库（raw/wiki/outputs 三层）
 - [[llm-knowledge-base-complete-guide]] - LLM 知识库完整教程：3 级别（初学者/舒适用户/构建者）
+- [[12-agentic-harness-patterns]] - 12 个 Agentic Harness 模式：4 类代理设计模式（记忆/工作流/工具/自动化）
+- [[claude-md-three-blocks-learning-system]] - Claude MD 三模块学习系统：知识架构 + 决策日志 + 质量门
+- [[ai-engineering-from-scratch]] - AI Engineering From Scratch：260+ 课完整课程（用 AI 学习 AI）
 
 ## Comparisons
 
