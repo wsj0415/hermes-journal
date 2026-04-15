@@ -48,3 +48,18 @@
   - 20 分钟搭建指南
   - 与 Agent Memory 架构的关联
 - 更新：index.md（Total pages: 3）
+
+## [2026-04-15] lint | Wiki 健康检查
+- 触发：用户要求检查流程规范性和借鉴价值
+- 检查项目：
+  - 孤立页面：1 个（ai-knowledge-layer-two-tier，正常新页面）
+  - 损坏 wikilinks：4 个（指向 raw 来源，应改为外部链接）
+  - 缺少 frontmatter：无
+  - 超过 200 行：2 个（agent-memory-architecture 304 行，ai-knowledge-layer-two-tier 365 行）
+  - 少于 2 个 wikilinks：无
+  - 标签不在 SCHEMA 中：9 个（已更新 SCHEMA 添加）
+- 创建页面：queries/wiki-health-check-improvements.md
+- 对比分析：两篇文章核心洞察对比表
+- 改进建议：8 项（P0-P3 优先级排序）
+- 更新：SCHEMA.md（添加架构/内容标签分类）
+- 更新：index.md（Total pages: 4）

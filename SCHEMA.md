@@ -29,6 +29,8 @@ sources: [raw/articles/来源名称.md]
 - 任务类型：config, troubleshooting, best-practice, workflow, api-reference
 - 模型：model-config, provider, quantization, inference
 - 开发：skill-development, debugging, testing, deployment
+- 架构：architecture, agent-architecture, knowledge-base, vector-search, graph
+- 内容：brand-foundation
 
 规则：页面上的每个标签必须出现在此分类法中。需要新标签时，先添加到这里再使用。
 
