@@ -138,4 +138,7 @@
     - references/quotes-collection.md - 金句库（22 条）
     - references/case-studies.md - 案例库（3 个故事）
     - references/industry-data.md - 数据库（15 条数据）
-- 更新：index.md（Total pages: 18）
+- P2 批量迁移：
+  - ✅ 复制 53 篇 raw 来源到 raw/articles/
+  - ✅ 创建迁移清单：queries/kilroy-cdn-batch-migration-complete.md
+- 更新：index.md（Total pages: 19）
