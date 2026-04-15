@@ -67,22 +67,12 @@ sources: []
 
 ## 8 项改进建议
 
-### 1. 添加 Brand Foundation 层 ⭐⭐⭐
+### 1. 添加 Brand Foundation 层 ⭐⭐⭐ ✅ 已完成
 
-**当前缺失**：只有 KBL（动态知识库），没有 BF（静态品牌基础）
-
-**建议创建**：
-```
-hermes-journal/
-├── brand-foundation/     ← 新增
-│   ├── voice-profile.md       # 声音画像
-│   ├── banned-words.md        # AI 禁用词/短语
-│   ├── style-guide.md         # 视觉/内容风格指南
-│   └── audience-definition.md # 受众定义
-├── raw/
-├── concepts/
-└── ...
-```
+**创建文件**：
+- `brand-foundation/banned-words.md` - AI 禁用词列表
+- `brand-foundation/voice-profile.md` - 声音画像
+- `brand-foundation/output-format.md` - 输出格式规范
 
 **规则**：
 - 只有人类编辑，Agent 永不修改
@@ -91,19 +81,19 @@ hermes-journal/
 
 ---
 
-### 2. 实现 Validation Gate ⭐⭐⭐
+### 2. 实现 Validation Gate ⭐⭐⭐ ✅ 已完成
 
-**问题**：无法区分 AI 生成内容和人类验证内容
-
-**建议**：在 frontmatter 添加：
+**SCHEMA.md 已更新**：
 ```yaml
----
-title: 页面标题
-reviewed: false  # ← 新增：只有人类能改为 true
-reviewed_at:     # ← 人类验证时填写
-explored: true   # ← AI 已探索
----
+reviewed: false          # AI 生成时为 false，人类审查后改为 true
+reviewed_at:             # 人类审查时填写日期
+confidence: medium       # high | medium | low | uncertain
+confidence_reason:       # 填写置信度依据
 ```
+
+**已更新页面**：
+- `concepts/agent-memory-architecture.md` - 添加质量控制字段
+- `concepts/ai-knowledge-layer-two-tier.md` - 添加质量控制字段
 
 **工作流**：
 1. AI 生成页面 → `reviewed: false`
@@ -112,21 +102,9 @@ explored: true   # ← AI 已探索
 
 ---
 
-### 3. 添加 Confidence Levels ⭐⭐
+### 3. 添加 Confidence Levels ⭐⭐ ✅ 已完成
 
-**问题**：AI 生成的内容可信度不透明
-
-**建议**：在 frontmatter 添加：
-```yaml
-confidence: high  # high | medium | low | uncertain
-confidence_reason: "基于 3 个独立来源交叉验证"
-```
-
-**规则**：
-- `high`: 3+ 来源交叉验证
-- `medium`: 2 来源或 1 个权威来源
-- `low`: 单一来源
-- `uncertain`: 有矛盾信息
+已集成到 SCHEMA.md frontmatter 模板中。
 
 ---
 
@@ -143,9 +121,6 @@ confidence_reason: "基于 3 个独立来源交叉验证"
 - **数据缺口**：[缺少什么信息]
 - **未解决问题**：[开放性问题]
 ```
-
----
-
 ### 5. 拆分超过 200 行的页面 ⭐
 
 **当前问题**：

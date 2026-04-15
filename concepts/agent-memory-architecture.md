@@ -5,6 +5,11 @@ updated: 2026-04-15
 type: concept
 tags: [memory, architecture, vector-search, graph, best-practice]
 sources: [raw/articles/akshay-pachaar-agent-memory-2026.md]
+# 质量控制
+reviewed: false
+reviewed_at:
+confidence: high
+confidence_reason: 基于单一权威来源完整翻译，内容结构忠实原文
 ---
 
 # Agent Memory 架构演进

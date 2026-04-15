@@ -5,6 +5,11 @@ updated: 2026-04-15
 type: concept
 tags: [knowledge-base, agent-architecture, brand-foundation, best-practice]
 sources: [raw/articles/shannholmberg-ai-knowledge-layer-2026.md]
+# 质量控制
+reviewed: false
+reviewed_at:
+confidence: high
+confidence_reason: 基于单一权威来源完整翻译，内容结构忠实原文
 ---
 
 # AI Knowledge Layer 两层系统

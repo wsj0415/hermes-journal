@@ -20,6 +20,11 @@ updated: YYYY-MM-DD
 type: entity | concept | comparison | query | summary | config | troubleshooting
 tags: [来自下方分类法]
 sources: [raw/articles/来源名称.md]
+# 质量控制（新增）
+reviewed: false          # AI 生成时为 false，人类审查后改为 true
+reviewed_at:             # 人类审查时填写日期
+confidence: medium       # high | medium | low | uncertain
+confidence_reason:       # 填写置信度依据
 ---
 ```
 

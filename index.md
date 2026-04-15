@@ -2,7 +2,7 @@
 
 > 内容目录。每个 wiki 页面在其类型下列出，附带一行摘要。
 > 先读这里找到相关页面。
-> Last updated: 2026-04-15 | Total pages: 4
+> Last updated: 2026-04-15 | Total pages: 7
 
 ## Entities
 <!-- 按字母顺序排列 -->
@@ -17,6 +17,12 @@
 ## Queries
 
 - [[wiki-health-check-improvements]] - Wiki 健康检查与改进方案：6 个问题 + 8 项改进建议
+
+## Brand Foundation
+
+- [[banned-words]] - AI 禁用词列表
+- [[voice-profile]] - 声音画像
+- [[output-format]] - 输出格式规范
 
 ## Configs
 

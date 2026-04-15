@@ -63,3 +63,17 @@
 - 改进建议：8 项（P0-P3 优先级排序）
 - 更新：SCHEMA.md（添加架构/内容标签分类）
 - 更新：index.md（Total pages: 4）
+
+## [2026-04-15] improve | Validation Gate + Brand Foundation 实施
+- P0: Validation Gate ✅
+  - 更新 SCHEMA.md frontmatter 模板
+  - 添加 reviewed, reviewed_at, confidence, confidence_reason 字段
+  - 更新现有页面：agent-memory-architecture.md, ai-knowledge-layer-two-tier.md
+- P1: Brand Foundation 层 ✅
+  - 创建目录：brand-foundation/
+  - 创建文件：
+    - banned-words.md - AI 禁用词列表（客服话术、填充词、AI 味短语）
+    - voice-profile.md - 声音画像（核心原则、输出格式偏好、长度控制）
+    - output-format.md - 输出格式规范（工作流、代码示例、链接规范）
+- 更新：index.md（添加 Brand Foundation 分类，Total pages: 7）
+- 更新：queries/wiki-health-check-improvements.md（标记已完成项）
