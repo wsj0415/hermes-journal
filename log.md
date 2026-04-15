@@ -107,3 +107,14 @@
 - 更新 index.md ✅
   - 添加 References 分类
   - Total pages: 10
+
+## [2026-04-15] ingest | lufzzliz-hermes-system-prompt-analysis-2026
+- 来源：https://x.com/lufzzliz/status/2044258384556556743
+- 保存到：raw/articles/lufzzliz-hermes-system-prompt-analysis-2026.md
+- 创建页面：concepts/hermes-system-prompt-structure.md
+- 内容：Hermes Agent 系统提示词 9 层结构分析
+  - 总大小：~36,700 chars（~10K tokens）
+  - AGENTS.md 占 50%（截断机制：头 70% + 尾 30%）
+  - 优化方案：配置 TERMINAL CWD，减少 5K tokens/对话
+  - 工具加载机制：51 个注册，30 个按需加载
+- 更新：index.md（Total pages: 11）
