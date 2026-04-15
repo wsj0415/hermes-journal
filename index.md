@@ -2,7 +2,7 @@
 
 > 内容目录。每个 wiki 页面在其类型下列出，附带一行摘要。
 > 先读这里找到相关页面。
-> Last updated: 2026-04-15 | Total pages: 13
+> Last updated: 2026-04-15 | Total pages: 15
 
 ## Entities
 <!-- 按字母顺序排列 -->
@@ -12,6 +12,8 @@
 - [[agent-memory-architecture]] - Agent Memory 架构演进：从 Python List 到图向量混合的第一性原理分析
 - [[ai-knowledge-layer-two-tier]] - AI Knowledge Layer 两层系统：KBL（动态知识库）+ BF（静态品牌基础），20 分钟搭建
 - [[hermes-system-prompt-structure]] - Hermes Agent 系统提示词结构：9 层架构 + 50% token 优化方案
+- [[second-brain-karpathy-style]] - Karpathy 风格第二大脑：极简个人知识库（raw/wiki/outputs 三层）
+- [[llm-knowledge-base-complete-guide]] - LLM 知识库完整教程：3 级别（初学者/舒适用户/构建者）
 
 ## Comparisons
 
