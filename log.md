@@ -37,3 +37,14 @@
   1. 开头提供一句话总结
   2. 内容翻译成中文
 - 已保存到 memory
+
+## [2026-04-15] ingest | shannholmberg-ai-knowledge-layer-2026
+- 来源：https://x.com/shannholmberg/status/2044111115878326444
+- 保存到：raw/articles/shannholmberg-ai-knowledge-layer-2026.md
+- 创建页面：concepts/ai-knowledge-layer-two-tier.md
+- 内容：AI Knowledge Layer 两层系统（KBL 动态知识库 + BF 静态品牌基础）
+  - 为什么不是 RAG（编译式 vs 查询时检索）
+  - 内容创作者/公司/个人生活三种应用场景
+  - 20 分钟搭建指南
+  - 与 Agent Memory 架构的关联
+- 更新：index.md（Total pages: 3）
