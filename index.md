@@ -2,7 +2,7 @@
 
 > 内容目录。每个 wiki 页面在其类型下列出，附带一行摘要。
 > 先读这里找到相关页面。
-> Last updated: 2026-04-15 | Total pages: 22
+> Last updated: 2026-04-15 | Total pages: 25
 
 ## Entities
 <!-- 按字母顺序排列 -->
@@ -17,6 +17,9 @@
 - [[12-agentic-harness-patterns]] - 12 个 Agentic Harness 模式：4 类代理设计模式（记忆/工作流/工具/自动化）
 - [[claude-md-three-blocks-learning-system]] - Claude MD 三模块学习系统：知识架构 + 决策日志 + 质量门
 - [[ai-engineering-from-scratch]] - AI Engineering From Scratch：260+ 课完整课程（用 AI 学习 AI）
+- [[agentmemory-persistent-memory]] - AgentMemory：AI 编码代理持久记忆系统（92% token 节省）
+- [[how-to-make-money-with-claude-code]] - 如何用 Claude Code 赚钱：三个关键转变（练习→构建、劳动→产品、实践者→向导）
+- [[llm-wiki-karpathy]] - Karpathy LLM Wiki：编译式知识库模式（vs RAG）
 
 ## Comparisons
 

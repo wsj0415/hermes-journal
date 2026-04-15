@@ -142,8 +142,12 @@
   - ✅ 复制 53 篇 raw 来源到 raw/articles/
   - ✅ 创建迁移清单：queries/kilroy-cdn-batch-migration-complete.md
 - P3 按需编译：
-  - ✅ 创建概念页面（3 个）：
+  - ✅ 第一轮（3 个）：
     - concepts/12-agentic-harness-patterns.md - 12 个代理设计模式
     - concepts/claude-md-three-blocks-learning-system.md - Claude MD 学习系统
     - concepts/ai-engineering-from-scratch.md - AI Engineering 完整课程
-- 更新：index.md（Total pages: 22）
+  - ✅ 第二轮（3 个）：
+    - concepts/agentmemory-persistent-memory.md - AgentMemory 持久记忆系统
+    - concepts/how-to-make-money-with-claude-code.md - Claude Code 赚钱指南
+    - concepts/llm-wiki-karpathy.md - Karpathy LLM Wiki 原始模式
+- 更新：index.md（Total pages: 25）
