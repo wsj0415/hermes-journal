@@ -13,3 +13,14 @@
 ## [2026-04-15] rename | wiki → hermes-journal
 - 用户反馈：wiki 名字太泛，没有描述清楚内容
 - 重命名目录：/root/wiki → /root/hermes-journal
+
+## [2026-04-15] ingest | hermes-bailian-api-key-排查指南.md
+- 来源：用户提供的 Bailian API Key 配置故障排查文章
+- 保存到：raw/articles/hermes-bailian-api-key-排查指南.md
+- 内容：完整的 401 错误排查过程、两种解决方案、常见问题 FAQ
+
+## [2026-04-15] sync | GitHub 仓库同步设置
+- 创建仓库：https://github.com/wsj0415/hermes-journal
+- 添加同步脚本：sync-journal.sh
+- 配置 cron 任务：每小时自动同步 (job_id: a785c944a85b)
+- 首次推送：4 个文件（SCHEMA.md, index.md, log.md, raw/articles/*.md, sync-journal.sh）
