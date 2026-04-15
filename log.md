@@ -24,3 +24,10 @@
 - 添加同步脚本：sync-journal.sh
 - 配置 cron 任务：每小时自动同步 (job_id: a785c944a85b)
 - 首次推送：4 个文件（SCHEMA.md, index.md, log.md, raw/articles/*.md, sync-journal.sh）
+
+## [2026-04-15] ingest | akshay-pachaar-agent-memory-2026
+- 来源：https://x.com/akshay_pachaar/status/2043745099792953508
+- 保存到：raw/articles/akshay-pachaar-agent-memory-2026.md
+- 创建页面：concepts/agent-memory-architecture.md
+- 内容：Agent Memory 架构演进完整分析（Python List → Markdown → 向量搜索 → 图向量混合 → Cognee）
+- 更新：index.md（Total pages: 2）
