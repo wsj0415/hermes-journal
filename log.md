@@ -118,3 +118,18 @@
   - 优化方案：配置 TERMINAL CWD，减少 5K tokens/对话
   - 工具加载机制：51 个注册，30 个按需加载
 - 更新：index.md（Total pages: 11）
+
+## [2026-04-15] migrate | kilroy-cdn 知识库迁移（P0）
+- 发现：/root/.openclaw/workspace/kilroy-cdn/ 包含大量有价值内容
+- 迁移计划：queries/kilroy-cdn-migration-plan.md
+- P0 已完成：
+  - 合并禁词库：brand-foundation/banned-words.md
+    - 新增 10 条详细示例（AI 写法 vs 人类写法）
+    - 来源：kilroy-cdn/writing-materials/05-禁词库.md
+  - 创建钩子库：references/hooks-collection.md
+    - 8 种爆款开头方式（对话式、反差对比、数字承诺等）
+    - 来源：kilroy-cdn/writing-materials/01-钩子库.md
+- P1 待执行：
+  - 迁移 summaries（6 篇 AI/Agent 文章）
+  - 迁移金句库、案例库、数据库
+- 更新：index.md（Total pages: 13）

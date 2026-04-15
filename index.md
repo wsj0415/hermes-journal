@@ -2,7 +2,7 @@
 
 > 内容目录。每个 wiki 页面在其类型下列出，附带一行摘要。
 > 先读这里找到相关页面。
-> Last updated: 2026-04-15 | Total pages: 11
+> Last updated: 2026-04-15 | Total pages: 13
 
 ## Entities
 <!-- 按字母顺序排列 -->
@@ -18,6 +18,7 @@
 ## Queries
 
 - [[wiki-health-check-improvements]] - Wiki 健康检查与改进方案：6 个问题 + 8 项改进建议
+- [[kilroy-cdn-migration-plan]] - kilroy-cdn 迁移计划：核心资产和内容迁移方案
 
 ## Brand Foundation
 
