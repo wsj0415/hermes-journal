@@ -2,7 +2,7 @@
 
 > 内容目录。每个 wiki 页面在其类型下列出，附带一行摘要。
 > 先读这里找到相关页面。
-> Last updated: 2026-04-15 | Total pages: 35
+> Last updated: 2026-04-15 | Total pages: 40
 
 ## Entities
 <!-- 按字母顺序排列 -->
@@ -30,6 +30,11 @@
 - [[awesome-openclaw-tips]] - OpenClaw 26 个实用技巧：记忆/可靠性/成本/架构
 - [[visual-explainer]] - Visual Explainer：终结 ASCII 艺术，生成富 HTML 页面
 - [[llm-council-method-karpathy]] - Karpathy LLM 委员会：5 个顾问争论得出可信任答案
+- [[smf-semantic-memory-framework]] - SMF 语义记忆框架：symlink 图谱 + 8 实体类型 + 14 检索通道
+- [[knowledge-base-vs-memory]] - 知识库 vs 记忆系统：核心区别 + 效用函数问题
+- [[filesystem-as-knowledge-graph]] - 文件系统即知识图谱：POSIX symlink 作为零成本关系指针
+- [[bjork-disuse-theory]] - Bjork 失用理论：记忆生命周期的心理学基础（存储强度 vs 检索强度）
+- [[memory-utility-function]] - 记忆效用函数：金门大桥思想实验 + 目的驱动压缩
 
 ## Comparisons
 

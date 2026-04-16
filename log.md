@@ -160,6 +160,16 @@
     - concepts/notebooklm-content-factory-workflow.md - NotebookLM 内容工厂
     - concepts/cli-design-for-agents-and-humans.md - CLI 设计指南
     - concepts/awesome-openclaw-tips.md - OpenClaw 26 个技巧
-    - concepts/visual-explainer.md - Visual Explainer（终结 ASCII 艺术）
-    - concepts/llm-council-method-karpathy.md - LLM 委员会方法
-- 更新：index.md（Total pages: 35）
+   163|    - concepts/visual-explainer.md - Visual Explainer（终结 ASCII 艺术）
+   164|    - concepts/llm-council-method-karpathy.md - LLM 委员会方法
+   165|
+## [2026-04-15] ingest | SMF Semantic Memory Framework (Ashwin Gopinath)
+- 来源：https://x.com/ashwingop/status/2044085923185602747
+- 保存到：raw/articles/ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14.md
+- 编译 5 个概念页面：
+  - concepts/smf-semantic-memory-framework.md - SMF 核心架构（symlink 图谱 + 8 实体类型 + 14 检索通道）
+  - concepts/knowledge-base-vs-memory.md - 知识库 vs 记忆系统区别
+  - concepts/filesystem-as-knowledge-graph.md - 文件系统即知识图谱
+  - concepts/bjork-disuse-theory.md - Bjork 失用理论（记忆生命周期）
+  - concepts/memory-utility-function.md - 记忆效用函数（金门大桥思想实验）
+- 核心价值：⭐⭐⭐⭐⭐ SMF 是 Karpathy Wiki 的架构演进，解决组织记忆的可扩展性、访问控制、遗忘机制问题
