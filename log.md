@@ -173,3 +173,101 @@
   - concepts/bjork-disuse-theory.md - Bjork 失用理论（记忆生命周期）
   - concepts/memory-utility-function.md - 记忆效用函数（金门大桥思想实验）
 - 核心价值：⭐⭐⭐⭐⭐ SMF 是 Karpathy Wiki 的架构演进，解决组织记忆的可扩展性、访问控制、遗忘机制问题
+
+## [2026-04-16] lint | Wiki 健康检查
+
+**扫描范围**: concepts/, entities/, comparisons/, queries/
+**扫描页面数**: 29
+
+### 问题摘要
+- 高严重性：23 (损坏的 wikilinks)
+- 中严重性：49 (无效标签 28 + 页面过长 20 + 链接过少 1)
+- 低严重性：28 (未审查页面)
+- **总计**: 100 个问题
+
+### 详细问题
+
+#### 高严重性 - 损坏的 Wikilinks (23 个)
+指向不存在页面的链接，需要修复或创建目标页面：
+
+| 文件 | 损坏链接 |
+|------|----------|
+| hermes-system-prompt-structure.md | [[lufzzliz-hermes-system-prompt-analysis-2026]] (2 次) |
+| llm-knowledge-base-complete-guide.md | [[wikilinks]] (6 次), [[linked concept]] |
+| filesystem-as-knowledge-graph.md | [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]] |
+| memory-utility-function.md | [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]] |
+| smf-semantic-memory-framework.md | [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]] |
+| llm-wiki-karpathy.md | [[wikilinks]] |
+| knowledge-base-vs-memory.md | [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]] |
+| bjork-disuse-theory.md | [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]] |
+| second-brain-karpathy-style.md | [[second-brain-part2-system]] |
+| agent-memory-architecture.md | [[akshay-pachaar-agent-memory-2026]] (3 次) |
+| ai-knowledge-layer-two-tier.md | [[shannholmberg-ai-knowledge-layer-2026]] (3 次) |
+| kilroy-cdn-migration-plan.md | [[ ]] (空链接，2 次) |
+
+**建议操作**:
+1. 将 raw/articles 中的来源文件链接改为正确路径（如 `raw/articles/xxx.md`）
+2. 或创建对应的 wiki 页面
+3. 或删除无效链接
+
+#### 中严重性 - 无效标签 (28 个)
+以下标签不在 SCHEMA.md 分类法中：
+
+| 标签 | 出现文件 |
+|------|----------|
+| monetization, career | how-to-make-money-with-claude-code.md |
+| openclaw, tips | awesome-openclaw-tips.md |
+| content-creation, youtube, notebooklm | notebooklm-content-factory-workflow.md |
+| decision-making, agent-design, karpathy | llm-council-method-karpathy.md |
+| career, ai-trends | dario-amodei-ai-career-predictions.md |
+| education, curriculum | ai-engineering-from-scratch.md |
+| openclaw, agent-setup | openclaw-complete-guide.md |
+| visualization, agent-design, html | visual-explainer.md |
+| system-prompt, agent-design | self-improving-agent-system-prompt.md, most-capable-agent-system-prompt.md |
+| agent-design | 12-agentic-harness-patterns.md, agentmemory-persistent-memory.md |
+| cli, agent-design, ux | cli-design-for-agents-and-humans.md |
+
+**建议操作**: 更新 SCHEMA.md 添加新标签类别，或修改页面使用现有标签
+
+#### 中严重性 - 页面过长 (20 个)
+超过 200 行建议拆分的页面：
+
+| 文件 | 行数 |
+|------|------|
+| awesome-openclaw-tips.md | 474 |
+| dario-amodei-ai-career-predictions.md | 412 |
+| llm-knowledge-base-complete-guide.md | 402 |
+| most-capable-agent-system-prompt.md | 402 |
+| ai-knowledge-layer-two-tier.md | 396 |
+| cli-design-for-agents-and-humans.md | 356 |
+| claude-md-three-blocks-learning-system.md | 348 |
+| 12-agentic-harness-patterns.md | 338 |
+| agent-memory-architecture.md | 330 |
+| how-to-make-money-with-claude-code.md | 333 |
+| openclaw-complete-guide.md | 306 |
+| claude-alternatives-guide.md | 307 |
+| second-brain-karpathy-style.md | 301 |
+| llm-council-method-karpathy.md | 294 |
+| llm-wiki-karpathy.md | 267 |
+| agentmemory-persistent-memory.md | 248 |
+| visual-explainer.md | 242 |
+| notebooklm-content-factory-workflow.md | 254 |
+| ai-engineering-from-scratch.md | 223 |
+| wiki-health-check-improvements.md | 212 |
+
+**建议操作**: 按主题拆分为子页面，添加交叉链接
+
+#### 中严重性 - 链接过少 (1 个)
+- kilroy-cdn-batch-migration-complete.md: 只有 1 个 wikilink
+
+**建议操作**: 添加更多相关页面链接
+
+#### 低严重性 - 未审查页面 (28 个)
+所有 concepts/ 和 queries/ 下的页面 reviewed 均为 false
+
+**建议操作**: 人工审查后设置 reviewed: true 和 reviewed_at 日期
+
+### 自动修复
+- 无自动修复执行（需要人工审查标签和链接修复）
+
+---
