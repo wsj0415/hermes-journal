@@ -154,4 +154,12 @@
     - concepts/dario-amodei-ai-career-predictions.md - Dario Amodei AI 职业预测
     - concepts/most-capable-agent-system-prompt.md - 最强 Agent 系统提示词
     - concepts/claude-alternatives-guide.md - Claude 替代方案指南
-- 更新：index.md（Total pages: 28）
+  - ✅ 第四轮（7 个）：
+    - concepts/self-improving-agent-system-prompt.md - 自改进代理系统
+    - concepts/openclaw-complete-guide.md - OpenClaw 完整指南
+    - concepts/notebooklm-content-factory-workflow.md - NotebookLM 内容工厂
+    - concepts/cli-design-for-agents-and-humans.md - CLI 设计指南
+    - concepts/awesome-openclaw-tips.md - OpenClaw 26 个技巧
+    - concepts/visual-explainer.md - Visual Explainer（终结 ASCII 艺术）
+    - concepts/llm-council-method-karpathy.md - LLM 委员会方法
+- 更新：index.md（Total pages: 35）

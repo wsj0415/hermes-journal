@@ -2,7 +2,7 @@
 
 > 内容目录。每个 wiki 页面在其类型下列出，附带一行摘要。
 > 先读这里找到相关页面。
-> Last updated: 2026-04-15 | Total pages: 28
+> Last updated: 2026-04-15 | Total pages: 35
 
 ## Entities
 <!-- 按字母顺序排列 -->
@@ -23,6 +23,13 @@
 - [[dario-amodei-ai-career-predictions]] - Dario Amodei AI 职业预测：50% 入门级白领工作将被颠覆
 - [[most-capable-agent-system-prompt]] - Most Capable Agent System Prompt：雄心勃勃的代理操作系统
 - [[claude-alternatives-guide]] - Claude 最佳替代方案：GLM 5.1/Minimax 2.7/Codex 对比
+- [[self-improving-agent-system-prompt]] - 自改进代理系统提示词：6 步闭环工作流
+- [[openclaw-complete-guide]] - OpenClaw 完整指南：从安装到运行 9 个代理团队
+- [[notebooklm-content-factory-workflow]] - NotebookLM 内容工厂：7 步 YouTube 逆向工程
+- [[cli-design-for-agents-and-humans]] - CLI 设计指南：7 个模式服务人类和代理
+- [[awesome-openclaw-tips]] - OpenClaw 26 个实用技巧：记忆/可靠性/成本/架构
+- [[visual-explainer]] - Visual Explainer：终结 ASCII 艺术，生成富 HTML 页面
+- [[llm-council-method-karpathy]] - Karpathy LLM 委员会：5 个顾问争论得出可信任答案
 
 ## Comparisons
 
