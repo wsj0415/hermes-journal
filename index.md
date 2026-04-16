@@ -2,7 +2,7 @@
 
 > 内容目录。每个 wiki 页面在其类型下列出，附带一行摘要。
 > 先读这里找到相关页面。
-> Last updated: 2026-04-15 | Total pages: 25
+> Last updated: 2026-04-15 | Total pages: 28
 
 ## Entities
 <!-- 按字母顺序排列 -->
@@ -20,6 +20,9 @@
 - [[agentmemory-persistent-memory]] - AgentMemory：AI 编码代理持久记忆系统（92% token 节省）
 - [[how-to-make-money-with-claude-code]] - 如何用 Claude Code 赚钱：三个关键转变（练习→构建、劳动→产品、实践者→向导）
 - [[llm-wiki-karpathy]] - Karpathy LLM Wiki：编译式知识库模式（vs RAG）
+- [[dario-amodei-ai-career-predictions]] - Dario Amodei AI 职业预测：50% 入门级白领工作将被颠覆
+- [[most-capable-agent-system-prompt]] - Most Capable Agent System Prompt：雄心勃勃的代理操作系统
+- [[claude-alternatives-guide]] - Claude 最佳替代方案：GLM 5.1/Minimax 2.7/Codex 对比
 
 ## Comparisons
 

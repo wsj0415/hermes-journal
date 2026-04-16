@@ -150,4 +150,8 @@
     - concepts/agentmemory-persistent-memory.md - AgentMemory 持久记忆系统
     - concepts/how-to-make-money-with-claude-code.md - Claude Code 赚钱指南
     - concepts/llm-wiki-karpathy.md - Karpathy LLM Wiki 原始模式
-- 更新：index.md（Total pages: 25）
+  - ✅ 第三轮（3 个）：
+    - concepts/dario-amodei-ai-career-predictions.md - Dario Amodei AI 职业预测
+    - concepts/most-capable-agent-system-prompt.md - 最强 Agent 系统提示词
+    - concepts/claude-alternatives-guide.md - Claude 替代方案指南
+- 更新：index.md（Total pages: 28）
