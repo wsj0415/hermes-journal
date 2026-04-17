@@ -1,3 +1,15 @@
+---
+title: 输出格式规范
+created: 2026-04-15
+updated: 2026-04-15
+type: config
+tags: [brand-foundation]
+reviewed: true
+reviewed_at: 2026-04-15
+confidence: high
+confidence_reason: Human-defined brand guidelines
+---
+
 # 输出格式规范
 
 **规则**：Agent 生成内容时遵循此规范。

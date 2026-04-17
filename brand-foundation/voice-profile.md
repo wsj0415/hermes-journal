@@ -1,3 +1,15 @@
+---
+title: 声音画像 (Voice Profile)
+created: 2026-04-15
+updated: 2026-04-15
+type: config
+tags: [brand-foundation]
+reviewed: true
+reviewed_at: 2026-04-15
+confidence: high
+confidence_reason: Human-defined brand guidelines
+---
+
 # 声音画像 (Voice Profile)
 
 **规则**：Agent 生成内容时必须遵循以下风格指南。

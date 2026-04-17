@@ -36,6 +36,11 @@ confidence_reason:       # 填写置信度依据
 - 开发：skill-development, debugging, testing, deployment
 - 架构：architecture, agent-architecture, knowledge-base, vector-search, graph
 - 内容：brand-foundation
+- 人物/来源：karpathy, amodei
+- 主题：monetization, career, ai-trends, education, curriculum, decision-making
+- 工具/框架：openclaw, notebooklm, youtube
+- 设计：agent-design, system-prompt, cli, ux, visualization, html, agent-setup
+- 元数据：tips, content-creation, company, person
 
 规则：页面上的每个标签必须出现在此分类法中。需要新标签时，先添加到这里再使用。
 

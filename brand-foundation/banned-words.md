@@ -1,3 +1,15 @@
+---
+title: AI 禁用词列表
+created: 2026-04-15
+updated: 2026-04-15
+type: config
+tags: [brand-foundation]
+reviewed: true
+reviewed_at: 2026-04-15
+confidence: high
+confidence_reason: Human-defined brand guidelines
+---
+
 # AI 禁用词列表
 
 **规则**：Agent 生成内容时禁止使用以下词汇和短语。违反即重写。

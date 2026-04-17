@@ -271,3 +271,2515 @@
 - 无自动修复执行（需要人工审查标签和链接修复）
 
 ---
+
+
+---
+
+## Wiki Health Check - 2026-04-17 09:04:25
+
+
+Generated: 2026-04-17 09:04:25
+
+## Summary
+Total pages scanned: 30
+Total issues found: 100
+
+## 损坏的 wikilinks (23 个)
+
+### [高] /root/hermes-journal/concepts/hermes-system-prompt-structure.md
+- 损坏链接: [[lufzzliz-hermes-system-prompt-analysis-2026]]
+- 建议: 链接 [[lufzzliz-hermes-system-prompt-analysis-2026]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/llm-knowledge-base-complete-guide.md
+- 损坏链接: [[linked concept]]
+- 建议: 链接 [[linked concept]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/llm-knowledge-base-complete-guide.md
+- 损坏链接: [[wikilinks]]
+- 建议: 链接 [[wikilinks]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/filesystem-as-knowledge-graph.md
+- 损坏链接: [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]]
+- 建议: 链接 [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/memory-utility-function.md
+- 损坏链接: [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]]
+- 建议: 链接 [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/smf-semantic-memory-framework.md
+- 损坏链接: [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]]
+- 建议: 链接 [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/llm-wiki-karpathy.md
+- 损坏链接: [[wikilinks]]
+- 建议: 链接 [[wikilinks]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/knowledge-base-vs-memory.md
+- 损坏链接: [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]]
+- 建议: 链接 [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/bjork-disuse-theory.md
+- 损坏链接: [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]]
+- 建议: 链接 [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/second-brain-karpathy-style.md
+- 损坏链接: [[second-brain-part2-system]]
+- 建议: 链接 [[second-brain-part2-system]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/agent-memory-architecture.md
+- 损坏链接: [[akshay-pachaar-agent-memory-2026]]
+- 建议: 链接 [[akshay-pachaar-agent-memory-2026]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/ai-knowledge-layer-two-tier.md
+- 损坏链接: [[shannholmberg-ai-knowledge-layer-2026]]
+- 建议: 链接 [[shannholmberg-ai-knowledge-layer-2026]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/queries/kilroy-cdn-migration-plan.md
+- 损坏链接: [[ ]]
+- 建议: 链接 [[ ]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/index.md
+- 损坏链接: [[person-template]]
+- 建议: 链接 [[person-template]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/index.md
+- 损坏链接: [[hooks-collection]]
+- 建议: 链接 [[hooks-collection]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/index.md
+- 损坏链接: [[banned-words]]
+- 建议: 链接 [[banned-words]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/index.md
+- 损坏链接: [[concept-template]]
+- 建议: 链接 [[concept-template]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/index.md
+- 损坏链接: [[case-studies]]
+- 建议: 链接 [[case-studies]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/index.md
+- 损坏链接: [[quotes-collection]]
+- 建议: 链接 [[quotes-collection]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/index.md
+- 损坏链接: [[output-format]]
+- 建议: 链接 [[output-format]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/index.md
+- 损坏链接: [[company-template]]
+- 建议: 链接 [[company-template]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/index.md
+- 损坏链接: [[voice-profile]]
+- 建议: 链接 [[voice-profile]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/index.md
+- 损坏链接: [[industry-data]]
+- 建议: 链接 [[industry-data]] 指向不存在的页面，需要创建该页面或移除链接
+
+## 超过 200 行的页面 (20 个)
+
+### [中] /root/hermes-journal/concepts/llm-knowledge-base-complete-guide.md
+- 行数: 402
+- 建议: 页面有 402 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/how-to-make-money-with-claude-code.md
+- 行数: 333
+- 建议: 页面有 333 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/awesome-openclaw-tips.md
+- 行数: 474
+- 建议: 页面有 474 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/notebooklm-content-factory-workflow.md
+- 行数: 254
+- 建议: 页面有 254 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/llm-council-method-karpathy.md
+- 行数: 294
+- 建议: 页面有 294 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/dario-amodei-ai-career-predictions.md
+- 行数: 412
+- 建议: 页面有 412 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/ai-engineering-from-scratch.md
+- 行数: 223
+- 建议: 页面有 223 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/openclaw-complete-guide.md
+- 行数: 306
+- 建议: 页面有 306 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/llm-wiki-karpathy.md
+- 行数: 267
+- 建议: 页面有 267 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/claude-alternatives-guide.md
+- 行数: 307
+- 建议: 页面有 307 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/visual-explainer.md
+- 行数: 242
+- 建议: 页面有 242 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/most-capable-agent-system-prompt.md
+- 行数: 402
+- 建议: 页面有 402 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/12-agentic-harness-patterns.md
+- 行数: 338
+- 建议: 页面有 338 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/cli-design-for-agents-and-humans.md
+- 行数: 356
+- 建议: 页面有 356 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/agentmemory-persistent-memory.md
+- 行数: 248
+- 建议: 页面有 248 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/claude-md-three-blocks-learning-system.md
+- 行数: 348
+- 建议: 页面有 348 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/second-brain-karpathy-style.md
+- 行数: 301
+- 建议: 页面有 301 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/agent-memory-architecture.md
+- 行数: 330
+- 建议: 页面有 330 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/ai-knowledge-layer-two-tier.md
+- 行数: 396
+- 建议: 页面有 396 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/queries/wiki-health-check-improvements.md
+- 行数: 212
+- 建议: 页面有 212 行，建议拆分为多个子主题页面
+
+## 少于 2 个 wikilinks (1 个)
+
+### [中] /root/hermes-journal/queries/kilroy-cdn-batch-migration-complete.md
+- 链接数: 1
+- 当前链接: kilroy-cdn-migration-plan
+- 建议: 页面只有 1 个 wikilinks，建议至少添加 2 个内部链接
+
+## 标签不在 SCHEMA 分类法中 (28 个)
+
+### [中] /root/hermes-journal/concepts/how-to-make-money-with-claude-code.md
+- 问题标签: monetization
+- 建议: 标签 'monetization' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/how-to-make-money-with-claude-code.md
+- 问题标签: career
+- 建议: 标签 'career' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/awesome-openclaw-tips.md
+- 问题标签: openclaw
+- 建议: 标签 'openclaw' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/awesome-openclaw-tips.md
+- 问题标签: tips
+- 建议: 标签 'tips' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/notebooklm-content-factory-workflow.md
+- 问题标签: content-creation
+- 建议: 标签 'content-creation' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/notebooklm-content-factory-workflow.md
+- 问题标签: youtube
+- 建议: 标签 'youtube' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/notebooklm-content-factory-workflow.md
+- 问题标签: notebooklm
+- 建议: 标签 'notebooklm' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/llm-council-method-karpathy.md
+- 问题标签: decision-making
+- 建议: 标签 'decision-making' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/llm-council-method-karpathy.md
+- 问题标签: agent-design
+- 建议: 标签 'agent-design' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/llm-council-method-karpathy.md
+- 问题标签: karpathy
+- 建议: 标签 'karpathy' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/dario-amodei-ai-career-predictions.md
+- 问题标签: career
+- 建议: 标签 'career' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/dario-amodei-ai-career-predictions.md
+- 问题标签: ai-trends
+- 建议: 标签 'ai-trends' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/ai-engineering-from-scratch.md
+- 问题标签: education
+- 建议: 标签 'education' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/ai-engineering-from-scratch.md
+- 问题标签: curriculum
+- 建议: 标签 'curriculum' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/openclaw-complete-guide.md
+- 问题标签: openclaw
+- 建议: 标签 'openclaw' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/openclaw-complete-guide.md
+- 问题标签: agent-setup
+- 建议: 标签 'agent-setup' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/visual-explainer.md
+- 问题标签: visualization
+- 建议: 标签 'visualization' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/visual-explainer.md
+- 问题标签: agent-design
+- 建议: 标签 'agent-design' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/visual-explainer.md
+- 问题标签: html
+- 建议: 标签 'html' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/self-improving-agent-system-prompt.md
+- 问题标签: system-prompt
+- 建议: 标签 'system-prompt' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/self-improving-agent-system-prompt.md
+- 问题标签: agent-design
+- 建议: 标签 'agent-design' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/most-capable-agent-system-prompt.md
+- 问题标签: system-prompt
+- 建议: 标签 'system-prompt' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/most-capable-agent-system-prompt.md
+- 问题标签: agent-design
+- 建议: 标签 'agent-design' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/12-agentic-harness-patterns.md
+- 问题标签: agent-design
+- 建议: 标签 'agent-design' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/cli-design-for-agents-and-humans.md
+- 问题标签: cli
+- 建议: 标签 'cli' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/cli-design-for-agents-and-humans.md
+- 问题标签: agent-design
+- 建议: 标签 'agent-design' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/cli-design-for-agents-and-humans.md
+- 问题标签: ux
+- 建议: 标签 'ux' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/agentmemory-persistent-memory.md
+- 问题标签: agent-design
+- 建议: 标签 'agent-design' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+## 未审查页面 (28 个)
+
+### [低] /root/hermes-journal/concepts/hermes-system-prompt-structure.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/llm-knowledge-base-complete-guide.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/how-to-make-money-with-claude-code.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/awesome-openclaw-tips.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/notebooklm-content-factory-workflow.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/llm-council-method-karpathy.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/dario-amodei-ai-career-predictions.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/filesystem-as-knowledge-graph.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/ai-engineering-from-scratch.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/memory-utility-function.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/openclaw-complete-guide.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/smf-semantic-memory-framework.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/llm-wiki-karpathy.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/claude-alternatives-guide.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/visual-explainer.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/self-improving-agent-system-prompt.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/most-capable-agent-system-prompt.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/12-agentic-harness-patterns.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/cli-design-for-agents-and-humans.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/agentmemory-persistent-memory.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/knowledge-base-vs-memory.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/bjork-disuse-theory.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/claude-md-three-blocks-learning-system.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/second-brain-karpathy-style.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/agent-memory-architecture.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/ai-knowledge-layer-two-tier.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/queries/kilroy-cdn-migration-plan.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/queries/kilroy-cdn-batch-migration-complete.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+
+---
+
+## Wiki Health Check - 2026-04-17 09:05:16
+
+
+Generated: 2026-04-17 09:05:16
+
+## Summary
+Total pages scanned: 40
+Total issues found: 123
+
+## 损坏的 wikilinks (28 个)
+
+### [高] /root/hermes-journal/concepts/hermes-system-prompt-structure.md
+- 损坏链接: [[lufzzliz-hermes-system-prompt-analysis-2026]]
+- 建议: 链接 [[lufzzliz-hermes-system-prompt-analysis-2026]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/llm-knowledge-base-complete-guide.md
+- 损坏链接: [[wikilinks]]
+- 建议: 链接 [[wikilinks]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/llm-knowledge-base-complete-guide.md
+- 损坏链接: [[linked concept]]
+- 建议: 链接 [[linked concept]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/filesystem-as-knowledge-graph.md
+- 损坏链接: [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]]
+- 建议: 链接 [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/memory-utility-function.md
+- 损坏链接: [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]]
+- 建议: 链接 [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/smf-semantic-memory-framework.md
+- 损坏链接: [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]]
+- 建议: 链接 [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/llm-wiki-karpathy.md
+- 损坏链接: [[wikilinks]]
+- 建议: 链接 [[wikilinks]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/knowledge-base-vs-memory.md
+- 损坏链接: [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]]
+- 建议: 链接 [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/bjork-disuse-theory.md
+- 损坏链接: [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]]
+- 建议: 链接 [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/second-brain-karpathy-style.md
+- 损坏链接: [[second-brain-part2-system]]
+- 建议: 链接 [[second-brain-part2-system]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/agent-memory-architecture.md
+- 损坏链接: [[akshay-pachaar-agent-memory-2026]]
+- 建议: 链接 [[akshay-pachaar-agent-memory-2026]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/ai-knowledge-layer-two-tier.md
+- 损坏链接: [[shannholmberg-ai-knowledge-layer-2026]]
+- 建议: 链接 [[shannholmberg-ai-knowledge-layer-2026]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/queries/kilroy-cdn-migration-plan.md
+- 损坏链接: [[ ]]
+- 建议: 链接 [[ ]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/concept-template.md
+- 损坏链接: [[source2]]
+- 建议: 链接 [[source2]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/concept-template.md
+- 损坏链接: [[相关概念 2]]
+- 建议: 链接 [[相关概念 2]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/concept-template.md
+- 损坏链接: [[source]]
+- 建议: 链接 [[source]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/concept-template.md
+- 损坏链接: [[相关概念 1]]
+- 建议: 链接 [[相关概念 1]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/company-template.md
+- 损坏链接: [[人物姓名]]
+- 建议: 链接 [[人物姓名]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/company-template.md
+- 损坏链接: [[source]]
+- 建议: 链接 [[source]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/company-template.md
+- 损坏链接: [[source2]]
+- 建议: 链接 [[source2]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/company-template.md
+- 损坏链接: [[相关公司]]
+- 建议: 链接 [[相关公司]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/person-template.md
+- 损坏链接: [[相关公司]]
+- 建议: 链接 [[相关公司]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/person-template.md
+- 损坏链接: [[source]]
+- 建议: 链接 [[source]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/person-template.md
+- 损坏链接: [[相关人物]]
+- 建议: 链接 [[相关人物]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/person-template.md
+- 损坏链接: [[source2]]
+- 建议: 链接 [[source2]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/brand-foundation/voice-profile.md
+- 损坏链接: [[wikilink]]
+- 建议: 链接 [[wikilink]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/brand-foundation/output-format.md
+- 损坏链接: [[页面名称]]
+- 建议: 链接 [[页面名称]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/brand-foundation/output-format.md
+- 损坏链接: [[wikilink]]
+- 建议: 链接 [[wikilink]] 指向不存在的页面，需要创建该页面或移除链接
+
+## 缺少 frontmatter (3 个)
+
+### [高] /root/hermes-journal/brand-foundation/voice-profile.md
+- 建议: 添加 YAML frontmatter（title, created, updated, type, tags）
+
+### [高] /root/hermes-journal/brand-foundation/banned-words.md
+- 建议: 添加 YAML frontmatter（title, created, updated, type, tags）
+
+### [高] /root/hermes-journal/brand-foundation/output-format.md
+- 建议: 添加 YAML frontmatter（title, created, updated, type, tags）
+
+## 超过 200 行的页面 (23 个)
+
+### [中] /root/hermes-journal/concepts/llm-knowledge-base-complete-guide.md
+- 行数: 402
+- 建议: 页面有 402 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/how-to-make-money-with-claude-code.md
+- 行数: 333
+- 建议: 页面有 333 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/awesome-openclaw-tips.md
+- 行数: 474
+- 建议: 页面有 474 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/notebooklm-content-factory-workflow.md
+- 行数: 254
+- 建议: 页面有 254 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/llm-council-method-karpathy.md
+- 行数: 294
+- 建议: 页面有 294 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/dario-amodei-ai-career-predictions.md
+- 行数: 412
+- 建议: 页面有 412 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/ai-engineering-from-scratch.md
+- 行数: 223
+- 建议: 页面有 223 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/openclaw-complete-guide.md
+- 行数: 306
+- 建议: 页面有 306 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/llm-wiki-karpathy.md
+- 行数: 267
+- 建议: 页面有 267 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/claude-alternatives-guide.md
+- 行数: 307
+- 建议: 页面有 307 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/visual-explainer.md
+- 行数: 242
+- 建议: 页面有 242 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/most-capable-agent-system-prompt.md
+- 行数: 402
+- 建议: 页面有 402 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/12-agentic-harness-patterns.md
+- 行数: 338
+- 建议: 页面有 338 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/cli-design-for-agents-and-humans.md
+- 行数: 356
+- 建议: 页面有 356 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/agentmemory-persistent-memory.md
+- 行数: 248
+- 建议: 页面有 248 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/claude-md-three-blocks-learning-system.md
+- 行数: 348
+- 建议: 页面有 348 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/second-brain-karpathy-style.md
+- 行数: 301
+- 建议: 页面有 301 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/agent-memory-architecture.md
+- 行数: 330
+- 建议: 页面有 330 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/ai-knowledge-layer-two-tier.md
+- 行数: 396
+- 建议: 页面有 396 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/queries/wiki-health-check-improvements.md
+- 行数: 212
+- 建议: 页面有 212 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/references/quotes-collection.md
+- 行数: 289
+- 建议: 页面有 289 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/references/hooks-collection.md
+- 行数: 235
+- 建议: 页面有 235 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/references/industry-data.md
+- 行数: 255
+- 建议: 页面有 255 行，建议拆分为多个子主题页面
+
+## 少于 2 个 wikilinks (4 个)
+
+### [中] /root/hermes-journal/queries/kilroy-cdn-batch-migration-complete.md
+- 链接数: 1
+- 当前链接: kilroy-cdn-migration-plan
+- 建议: 页面只有 1 个 wikilinks，建议至少添加 2 个内部链接
+
+### [中] /root/hermes-journal/references/hooks-collection.md
+- 链接数: 1
+- 当前链接: banned-words
+- 建议: 页面只有 1 个 wikilinks，建议至少添加 2 个内部链接
+
+### [中] /root/hermes-journal/brand-foundation/voice-profile.md
+- 链接数: 1
+- 当前链接: wikilink
+- 建议: 页面只有 1 个 wikilinks，建议至少添加 2 个内部链接
+
+### [中] /root/hermes-journal/brand-foundation/banned-words.md
+- 链接数: 0
+- 建议: 页面只有 0 个 wikilinks，建议至少添加 2 个内部链接
+
+## 标签不在 SCHEMA 分类法中 (30 个)
+
+### [中] /root/hermes-journal/concepts/how-to-make-money-with-claude-code.md
+- 问题标签: monetization
+- 建议: 标签 'monetization' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/how-to-make-money-with-claude-code.md
+- 问题标签: career
+- 建议: 标签 'career' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/awesome-openclaw-tips.md
+- 问题标签: openclaw
+- 建议: 标签 'openclaw' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/awesome-openclaw-tips.md
+- 问题标签: tips
+- 建议: 标签 'tips' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/notebooklm-content-factory-workflow.md
+- 问题标签: content-creation
+- 建议: 标签 'content-creation' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/notebooklm-content-factory-workflow.md
+- 问题标签: youtube
+- 建议: 标签 'youtube' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/notebooklm-content-factory-workflow.md
+- 问题标签: notebooklm
+- 建议: 标签 'notebooklm' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/llm-council-method-karpathy.md
+- 问题标签: decision-making
+- 建议: 标签 'decision-making' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/llm-council-method-karpathy.md
+- 问题标签: agent-design
+- 建议: 标签 'agent-design' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/llm-council-method-karpathy.md
+- 问题标签: karpathy
+- 建议: 标签 'karpathy' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/dario-amodei-ai-career-predictions.md
+- 问题标签: career
+- 建议: 标签 'career' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/dario-amodei-ai-career-predictions.md
+- 问题标签: ai-trends
+- 建议: 标签 'ai-trends' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/ai-engineering-from-scratch.md
+- 问题标签: education
+- 建议: 标签 'education' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/ai-engineering-from-scratch.md
+- 问题标签: curriculum
+- 建议: 标签 'curriculum' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/openclaw-complete-guide.md
+- 问题标签: openclaw
+- 建议: 标签 'openclaw' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/openclaw-complete-guide.md
+- 问题标签: agent-setup
+- 建议: 标签 'agent-setup' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/visual-explainer.md
+- 问题标签: visualization
+- 建议: 标签 'visualization' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/visual-explainer.md
+- 问题标签: agent-design
+- 建议: 标签 'agent-design' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/visual-explainer.md
+- 问题标签: html
+- 建议: 标签 'html' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/self-improving-agent-system-prompt.md
+- 问题标签: system-prompt
+- 建议: 标签 'system-prompt' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/self-improving-agent-system-prompt.md
+- 问题标签: agent-design
+- 建议: 标签 'agent-design' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/most-capable-agent-system-prompt.md
+- 问题标签: system-prompt
+- 建议: 标签 'system-prompt' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/most-capable-agent-system-prompt.md
+- 问题标签: agent-design
+- 建议: 标签 'agent-design' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/12-agentic-harness-patterns.md
+- 问题标签: agent-design
+- 建议: 标签 'agent-design' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/cli-design-for-agents-and-humans.md
+- 问题标签: cli
+- 建议: 标签 'cli' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/cli-design-for-agents-and-humans.md
+- 问题标签: agent-design
+- 建议: 标签 'agent-design' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/cli-design-for-agents-and-humans.md
+- 问题标签: ux
+- 建议: 标签 'ux' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/agentmemory-persistent-memory.md
+- 问题标签: agent-design
+- 建议: 标签 'agent-design' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/references/company-template.md
+- 问题标签: company
+- 建议: 标签 'company' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/references/person-template.md
+- 问题标签: person
+- 建议: 标签 'person' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+## 未审查页面 (35 个)
+
+### [低] /root/hermes-journal/concepts/hermes-system-prompt-structure.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/llm-knowledge-base-complete-guide.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/how-to-make-money-with-claude-code.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/awesome-openclaw-tips.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/notebooklm-content-factory-workflow.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/llm-council-method-karpathy.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/dario-amodei-ai-career-predictions.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/filesystem-as-knowledge-graph.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/ai-engineering-from-scratch.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/memory-utility-function.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/openclaw-complete-guide.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/smf-semantic-memory-framework.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/llm-wiki-karpathy.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/claude-alternatives-guide.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/visual-explainer.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/self-improving-agent-system-prompt.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/most-capable-agent-system-prompt.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/12-agentic-harness-patterns.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/cli-design-for-agents-and-humans.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/agentmemory-persistent-memory.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/knowledge-base-vs-memory.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/bjork-disuse-theory.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/claude-md-three-blocks-learning-system.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/second-brain-karpathy-style.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/agent-memory-architecture.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/ai-knowledge-layer-two-tier.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/queries/kilroy-cdn-migration-plan.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/queries/kilroy-cdn-batch-migration-complete.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/references/quotes-collection.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/references/concept-template.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/references/case-studies.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/references/hooks-collection.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/references/industry-data.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/references/company-template.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/references/person-template.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+
+---
+
+## Wiki Health Check - 2026-04-17 09:06:46
+
+
+Generated: 2026-04-17 09:06:46
+
+## Summary
+Total pages scanned: 40
+Total issues found: 120
+
+## 损坏的 wikilinks (28 个)
+
+### [高] /root/hermes-journal/concepts/hermes-system-prompt-structure.md
+- 损坏链接: [[lufzzliz-hermes-system-prompt-analysis-2026]]
+- 建议: 链接 [[lufzzliz-hermes-system-prompt-analysis-2026]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/llm-knowledge-base-complete-guide.md
+- 损坏链接: [[linked concept]]
+- 建议: 链接 [[linked concept]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/llm-knowledge-base-complete-guide.md
+- 损坏链接: [[wikilinks]]
+- 建议: 链接 [[wikilinks]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/filesystem-as-knowledge-graph.md
+- 损坏链接: [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]]
+- 建议: 链接 [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/memory-utility-function.md
+- 损坏链接: [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]]
+- 建议: 链接 [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/smf-semantic-memory-framework.md
+- 损坏链接: [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]]
+- 建议: 链接 [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/llm-wiki-karpathy.md
+- 损坏链接: [[wikilinks]]
+- 建议: 链接 [[wikilinks]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/knowledge-base-vs-memory.md
+- 损坏链接: [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]]
+- 建议: 链接 [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/bjork-disuse-theory.md
+- 损坏链接: [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]]
+- 建议: 链接 [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/second-brain-karpathy-style.md
+- 损坏链接: [[second-brain-part2-system]]
+- 建议: 链接 [[second-brain-part2-system]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/agent-memory-architecture.md
+- 损坏链接: [[akshay-pachaar-agent-memory-2026]]
+- 建议: 链接 [[akshay-pachaar-agent-memory-2026]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/ai-knowledge-layer-two-tier.md
+- 损坏链接: [[shannholmberg-ai-knowledge-layer-2026]]
+- 建议: 链接 [[shannholmberg-ai-knowledge-layer-2026]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/queries/kilroy-cdn-migration-plan.md
+- 损坏链接: [[ ]]
+- 建议: 链接 [[ ]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/concept-template.md
+- 损坏链接: [[相关概念 2]]
+- 建议: 链接 [[相关概念 2]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/concept-template.md
+- 损坏链接: [[source2]]
+- 建议: 链接 [[source2]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/concept-template.md
+- 损坏链接: [[source]]
+- 建议: 链接 [[source]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/concept-template.md
+- 损坏链接: [[相关概念 1]]
+- 建议: 链接 [[相关概念 1]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/company-template.md
+- 损坏链接: [[source2]]
+- 建议: 链接 [[source2]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/company-template.md
+- 损坏链接: [[source]]
+- 建议: 链接 [[source]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/company-template.md
+- 损坏链接: [[相关公司]]
+- 建议: 链接 [[相关公司]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/company-template.md
+- 损坏链接: [[人物姓名]]
+- 建议: 链接 [[人物姓名]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/person-template.md
+- 损坏链接: [[source2]]
+- 建议: 链接 [[source2]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/person-template.md
+- 损坏链接: [[相关公司]]
+- 建议: 链接 [[相关公司]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/person-template.md
+- 损坏链接: [[相关人物]]
+- 建议: 链接 [[相关人物]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/person-template.md
+- 损坏链接: [[source]]
+- 建议: 链接 [[source]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/brand-foundation/voice-profile.md
+- 损坏链接: [[wikilink]]
+- 建议: 链接 [[wikilink]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/brand-foundation/output-format.md
+- 损坏链接: [[页面名称]]
+- 建议: 链接 [[页面名称]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/brand-foundation/output-format.md
+- 损坏链接: [[wikilink]]
+- 建议: 链接 [[wikilink]] 指向不存在的页面，需要创建该页面或移除链接
+
+## 超过 200 行的页面 (23 个)
+
+### [中] /root/hermes-journal/concepts/llm-knowledge-base-complete-guide.md
+- 行数: 402
+- 建议: 页面有 402 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/how-to-make-money-with-claude-code.md
+- 行数: 333
+- 建议: 页面有 333 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/awesome-openclaw-tips.md
+- 行数: 474
+- 建议: 页面有 474 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/notebooklm-content-factory-workflow.md
+- 行数: 254
+- 建议: 页面有 254 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/llm-council-method-karpathy.md
+- 行数: 294
+- 建议: 页面有 294 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/dario-amodei-ai-career-predictions.md
+- 行数: 412
+- 建议: 页面有 412 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/ai-engineering-from-scratch.md
+- 行数: 223
+- 建议: 页面有 223 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/openclaw-complete-guide.md
+- 行数: 306
+- 建议: 页面有 306 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/llm-wiki-karpathy.md
+- 行数: 267
+- 建议: 页面有 267 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/claude-alternatives-guide.md
+- 行数: 307
+- 建议: 页面有 307 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/visual-explainer.md
+- 行数: 242
+- 建议: 页面有 242 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/most-capable-agent-system-prompt.md
+- 行数: 402
+- 建议: 页面有 402 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/12-agentic-harness-patterns.md
+- 行数: 338
+- 建议: 页面有 338 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/cli-design-for-agents-and-humans.md
+- 行数: 356
+- 建议: 页面有 356 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/agentmemory-persistent-memory.md
+- 行数: 248
+- 建议: 页面有 248 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/claude-md-three-blocks-learning-system.md
+- 行数: 348
+- 建议: 页面有 348 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/second-brain-karpathy-style.md
+- 行数: 301
+- 建议: 页面有 301 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/agent-memory-architecture.md
+- 行数: 330
+- 建议: 页面有 330 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/ai-knowledge-layer-two-tier.md
+- 行数: 396
+- 建议: 页面有 396 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/queries/wiki-health-check-improvements.md
+- 行数: 212
+- 建议: 页面有 212 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/references/quotes-collection.md
+- 行数: 289
+- 建议: 页面有 289 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/references/hooks-collection.md
+- 行数: 235
+- 建议: 页面有 235 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/references/industry-data.md
+- 行数: 255
+- 建议: 页面有 255 行，建议拆分为多个子主题页面
+
+## 少于 2 个 wikilinks (4 个)
+
+### [中] /root/hermes-journal/queries/kilroy-cdn-batch-migration-complete.md
+- 链接数: 1
+- 当前链接: kilroy-cdn-migration-plan
+- 建议: 页面只有 1 个 wikilinks，建议至少添加 2 个内部链接
+
+### [中] /root/hermes-journal/references/hooks-collection.md
+- 链接数: 1
+- 当前链接: banned-words
+- 建议: 页面只有 1 个 wikilinks，建议至少添加 2 个内部链接
+
+### [中] /root/hermes-journal/brand-foundation/voice-profile.md
+- 链接数: 1
+- 当前链接: wikilink
+- 建议: 页面只有 1 个 wikilinks，建议至少添加 2 个内部链接
+
+### [中] /root/hermes-journal/brand-foundation/banned-words.md
+- 链接数: 0
+- 建议: 页面只有 0 个 wikilinks，建议至少添加 2 个内部链接
+
+## 标签不在 SCHEMA 分类法中 (30 个)
+
+### [中] /root/hermes-journal/concepts/how-to-make-money-with-claude-code.md
+- 问题标签: monetization
+- 建议: 标签 'monetization' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/how-to-make-money-with-claude-code.md
+- 问题标签: career
+- 建议: 标签 'career' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/awesome-openclaw-tips.md
+- 问题标签: openclaw
+- 建议: 标签 'openclaw' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/awesome-openclaw-tips.md
+- 问题标签: tips
+- 建议: 标签 'tips' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/notebooklm-content-factory-workflow.md
+- 问题标签: content-creation
+- 建议: 标签 'content-creation' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/notebooklm-content-factory-workflow.md
+- 问题标签: youtube
+- 建议: 标签 'youtube' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/notebooklm-content-factory-workflow.md
+- 问题标签: notebooklm
+- 建议: 标签 'notebooklm' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/llm-council-method-karpathy.md
+- 问题标签: decision-making
+- 建议: 标签 'decision-making' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/llm-council-method-karpathy.md
+- 问题标签: agent-design
+- 建议: 标签 'agent-design' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/llm-council-method-karpathy.md
+- 问题标签: karpathy
+- 建议: 标签 'karpathy' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/dario-amodei-ai-career-predictions.md
+- 问题标签: career
+- 建议: 标签 'career' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/dario-amodei-ai-career-predictions.md
+- 问题标签: ai-trends
+- 建议: 标签 'ai-trends' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/ai-engineering-from-scratch.md
+- 问题标签: education
+- 建议: 标签 'education' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/ai-engineering-from-scratch.md
+- 问题标签: curriculum
+- 建议: 标签 'curriculum' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/openclaw-complete-guide.md
+- 问题标签: openclaw
+- 建议: 标签 'openclaw' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/openclaw-complete-guide.md
+- 问题标签: agent-setup
+- 建议: 标签 'agent-setup' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/visual-explainer.md
+- 问题标签: visualization
+- 建议: 标签 'visualization' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/visual-explainer.md
+- 问题标签: agent-design
+- 建议: 标签 'agent-design' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/visual-explainer.md
+- 问题标签: html
+- 建议: 标签 'html' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/self-improving-agent-system-prompt.md
+- 问题标签: system-prompt
+- 建议: 标签 'system-prompt' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/self-improving-agent-system-prompt.md
+- 问题标签: agent-design
+- 建议: 标签 'agent-design' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/most-capable-agent-system-prompt.md
+- 问题标签: system-prompt
+- 建议: 标签 'system-prompt' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/most-capable-agent-system-prompt.md
+- 问题标签: agent-design
+- 建议: 标签 'agent-design' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/12-agentic-harness-patterns.md
+- 问题标签: agent-design
+- 建议: 标签 'agent-design' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/cli-design-for-agents-and-humans.md
+- 问题标签: cli
+- 建议: 标签 'cli' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/cli-design-for-agents-and-humans.md
+- 问题标签: agent-design
+- 建议: 标签 'agent-design' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/cli-design-for-agents-and-humans.md
+- 问题标签: ux
+- 建议: 标签 'ux' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/agentmemory-persistent-memory.md
+- 问题标签: agent-design
+- 建议: 标签 'agent-design' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/references/company-template.md
+- 问题标签: company
+- 建议: 标签 'company' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/references/person-template.md
+- 问题标签: person
+- 建议: 标签 'person' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+## 未审查页面 (35 个)
+
+### [低] /root/hermes-journal/concepts/hermes-system-prompt-structure.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/llm-knowledge-base-complete-guide.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/how-to-make-money-with-claude-code.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/awesome-openclaw-tips.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/notebooklm-content-factory-workflow.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/llm-council-method-karpathy.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/dario-amodei-ai-career-predictions.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/filesystem-as-knowledge-graph.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/ai-engineering-from-scratch.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/memory-utility-function.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/openclaw-complete-guide.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/smf-semantic-memory-framework.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/llm-wiki-karpathy.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/claude-alternatives-guide.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/visual-explainer.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/self-improving-agent-system-prompt.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/most-capable-agent-system-prompt.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/12-agentic-harness-patterns.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/cli-design-for-agents-and-humans.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/agentmemory-persistent-memory.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/knowledge-base-vs-memory.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/bjork-disuse-theory.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/claude-md-three-blocks-learning-system.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/second-brain-karpathy-style.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/agent-memory-architecture.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/ai-knowledge-layer-two-tier.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/queries/kilroy-cdn-migration-plan.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/queries/kilroy-cdn-batch-migration-complete.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/references/quotes-collection.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/references/concept-template.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/references/case-studies.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/references/hooks-collection.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/references/industry-data.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/references/company-template.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/references/person-template.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+
+---
+
+## Wiki Health Check - 2026-04-17 09:06:54
+
+
+Generated: 2026-04-17 09:06:54
+
+## Summary
+Total pages scanned: 40
+Total issues found: 120
+
+## 损坏的 wikilinks (28 个)
+
+### [高] /root/hermes-journal/concepts/hermes-system-prompt-structure.md
+- 损坏链接: [[lufzzliz-hermes-system-prompt-analysis-2026]]
+- 建议: 链接 [[lufzzliz-hermes-system-prompt-analysis-2026]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/llm-knowledge-base-complete-guide.md
+- 损坏链接: [[linked concept]]
+- 建议: 链接 [[linked concept]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/llm-knowledge-base-complete-guide.md
+- 损坏链接: [[wikilinks]]
+- 建议: 链接 [[wikilinks]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/filesystem-as-knowledge-graph.md
+- 损坏链接: [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]]
+- 建议: 链接 [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/memory-utility-function.md
+- 损坏链接: [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]]
+- 建议: 链接 [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/smf-semantic-memory-framework.md
+- 损坏链接: [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]]
+- 建议: 链接 [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/llm-wiki-karpathy.md
+- 损坏链接: [[wikilinks]]
+- 建议: 链接 [[wikilinks]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/knowledge-base-vs-memory.md
+- 损坏链接: [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]]
+- 建议: 链接 [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/bjork-disuse-theory.md
+- 损坏链接: [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]]
+- 建议: 链接 [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/second-brain-karpathy-style.md
+- 损坏链接: [[second-brain-part2-system]]
+- 建议: 链接 [[second-brain-part2-system]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/agent-memory-architecture.md
+- 损坏链接: [[akshay-pachaar-agent-memory-2026]]
+- 建议: 链接 [[akshay-pachaar-agent-memory-2026]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/ai-knowledge-layer-two-tier.md
+- 损坏链接: [[shannholmberg-ai-knowledge-layer-2026]]
+- 建议: 链接 [[shannholmberg-ai-knowledge-layer-2026]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/queries/kilroy-cdn-migration-plan.md
+- 损坏链接: [[ ]]
+- 建议: 链接 [[ ]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/concept-template.md
+- 损坏链接: [[相关概念 1]]
+- 建议: 链接 [[相关概念 1]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/concept-template.md
+- 损坏链接: [[相关概念 2]]
+- 建议: 链接 [[相关概念 2]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/concept-template.md
+- 损坏链接: [[source]]
+- 建议: 链接 [[source]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/concept-template.md
+- 损坏链接: [[source2]]
+- 建议: 链接 [[source2]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/company-template.md
+- 损坏链接: [[相关公司]]
+- 建议: 链接 [[相关公司]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/company-template.md
+- 损坏链接: [[source]]
+- 建议: 链接 [[source]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/company-template.md
+- 损坏链接: [[人物姓名]]
+- 建议: 链接 [[人物姓名]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/company-template.md
+- 损坏链接: [[source2]]
+- 建议: 链接 [[source2]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/person-template.md
+- 损坏链接: [[相关人物]]
+- 建议: 链接 [[相关人物]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/person-template.md
+- 损坏链接: [[相关公司]]
+- 建议: 链接 [[相关公司]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/person-template.md
+- 损坏链接: [[source2]]
+- 建议: 链接 [[source2]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/person-template.md
+- 损坏链接: [[source]]
+- 建议: 链接 [[source]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/brand-foundation/voice-profile.md
+- 损坏链接: [[wikilink]]
+- 建议: 链接 [[wikilink]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/brand-foundation/output-format.md
+- 损坏链接: [[页面名称]]
+- 建议: 链接 [[页面名称]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/brand-foundation/output-format.md
+- 损坏链接: [[wikilink]]
+- 建议: 链接 [[wikilink]] 指向不存在的页面，需要创建该页面或移除链接
+
+## 超过 200 行的页面 (23 个)
+
+### [中] /root/hermes-journal/concepts/llm-knowledge-base-complete-guide.md
+- 行数: 402
+- 建议: 页面有 402 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/how-to-make-money-with-claude-code.md
+- 行数: 333
+- 建议: 页面有 333 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/awesome-openclaw-tips.md
+- 行数: 474
+- 建议: 页面有 474 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/notebooklm-content-factory-workflow.md
+- 行数: 254
+- 建议: 页面有 254 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/llm-council-method-karpathy.md
+- 行数: 294
+- 建议: 页面有 294 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/dario-amodei-ai-career-predictions.md
+- 行数: 412
+- 建议: 页面有 412 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/ai-engineering-from-scratch.md
+- 行数: 223
+- 建议: 页面有 223 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/openclaw-complete-guide.md
+- 行数: 306
+- 建议: 页面有 306 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/llm-wiki-karpathy.md
+- 行数: 267
+- 建议: 页面有 267 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/claude-alternatives-guide.md
+- 行数: 307
+- 建议: 页面有 307 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/visual-explainer.md
+- 行数: 242
+- 建议: 页面有 242 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/most-capable-agent-system-prompt.md
+- 行数: 402
+- 建议: 页面有 402 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/12-agentic-harness-patterns.md
+- 行数: 338
+- 建议: 页面有 338 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/cli-design-for-agents-and-humans.md
+- 行数: 356
+- 建议: 页面有 356 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/agentmemory-persistent-memory.md
+- 行数: 248
+- 建议: 页面有 248 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/claude-md-three-blocks-learning-system.md
+- 行数: 348
+- 建议: 页面有 348 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/second-brain-karpathy-style.md
+- 行数: 301
+- 建议: 页面有 301 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/agent-memory-architecture.md
+- 行数: 330
+- 建议: 页面有 330 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/ai-knowledge-layer-two-tier.md
+- 行数: 396
+- 建议: 页面有 396 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/queries/wiki-health-check-improvements.md
+- 行数: 212
+- 建议: 页面有 212 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/references/quotes-collection.md
+- 行数: 289
+- 建议: 页面有 289 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/references/hooks-collection.md
+- 行数: 235
+- 建议: 页面有 235 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/references/industry-data.md
+- 行数: 255
+- 建议: 页面有 255 行，建议拆分为多个子主题页面
+
+## 少于 2 个 wikilinks (4 个)
+
+### [中] /root/hermes-journal/queries/kilroy-cdn-batch-migration-complete.md
+- 链接数: 1
+- 当前链接: kilroy-cdn-migration-plan
+- 建议: 页面只有 1 个 wikilinks，建议至少添加 2 个内部链接
+
+### [中] /root/hermes-journal/references/hooks-collection.md
+- 链接数: 1
+- 当前链接: banned-words
+- 建议: 页面只有 1 个 wikilinks，建议至少添加 2 个内部链接
+
+### [中] /root/hermes-journal/brand-foundation/voice-profile.md
+- 链接数: 1
+- 当前链接: wikilink
+- 建议: 页面只有 1 个 wikilinks，建议至少添加 2 个内部链接
+
+### [中] /root/hermes-journal/brand-foundation/banned-words.md
+- 链接数: 0
+- 建议: 页面只有 0 个 wikilinks，建议至少添加 2 个内部链接
+
+## 标签不在 SCHEMA 分类法中 (30 个)
+
+### [中] /root/hermes-journal/concepts/how-to-make-money-with-claude-code.md
+- 问题标签: monetization
+- 建议: 标签 'monetization' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/how-to-make-money-with-claude-code.md
+- 问题标签: career
+- 建议: 标签 'career' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/awesome-openclaw-tips.md
+- 问题标签: openclaw
+- 建议: 标签 'openclaw' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/awesome-openclaw-tips.md
+- 问题标签: tips
+- 建议: 标签 'tips' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/notebooklm-content-factory-workflow.md
+- 问题标签: content-creation
+- 建议: 标签 'content-creation' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/notebooklm-content-factory-workflow.md
+- 问题标签: youtube
+- 建议: 标签 'youtube' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/notebooklm-content-factory-workflow.md
+- 问题标签: notebooklm
+- 建议: 标签 'notebooklm' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/llm-council-method-karpathy.md
+- 问题标签: decision-making
+- 建议: 标签 'decision-making' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/llm-council-method-karpathy.md
+- 问题标签: agent-design
+- 建议: 标签 'agent-design' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/llm-council-method-karpathy.md
+- 问题标签: karpathy
+- 建议: 标签 'karpathy' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/dario-amodei-ai-career-predictions.md
+- 问题标签: career
+- 建议: 标签 'career' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/dario-amodei-ai-career-predictions.md
+- 问题标签: ai-trends
+- 建议: 标签 'ai-trends' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/ai-engineering-from-scratch.md
+- 问题标签: education
+- 建议: 标签 'education' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/ai-engineering-from-scratch.md
+- 问题标签: curriculum
+- 建议: 标签 'curriculum' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/openclaw-complete-guide.md
+- 问题标签: openclaw
+- 建议: 标签 'openclaw' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/openclaw-complete-guide.md
+- 问题标签: agent-setup
+- 建议: 标签 'agent-setup' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/visual-explainer.md
+- 问题标签: visualization
+- 建议: 标签 'visualization' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/visual-explainer.md
+- 问题标签: agent-design
+- 建议: 标签 'agent-design' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/visual-explainer.md
+- 问题标签: html
+- 建议: 标签 'html' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/self-improving-agent-system-prompt.md
+- 问题标签: system-prompt
+- 建议: 标签 'system-prompt' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/self-improving-agent-system-prompt.md
+- 问题标签: agent-design
+- 建议: 标签 'agent-design' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/most-capable-agent-system-prompt.md
+- 问题标签: system-prompt
+- 建议: 标签 'system-prompt' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/most-capable-agent-system-prompt.md
+- 问题标签: agent-design
+- 建议: 标签 'agent-design' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/12-agentic-harness-patterns.md
+- 问题标签: agent-design
+- 建议: 标签 'agent-design' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/cli-design-for-agents-and-humans.md
+- 问题标签: cli
+- 建议: 标签 'cli' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/cli-design-for-agents-and-humans.md
+- 问题标签: agent-design
+- 建议: 标签 'agent-design' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/cli-design-for-agents-and-humans.md
+- 问题标签: ux
+- 建议: 标签 'ux' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/concepts/agentmemory-persistent-memory.md
+- 问题标签: agent-design
+- 建议: 标签 'agent-design' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/references/company-template.md
+- 问题标签: company
+- 建议: 标签 'company' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+### [中] /root/hermes-journal/references/person-template.md
+- 问题标签: person
+- 建议: 标签 'person' 不在 SCHEMA 分类法中，需要添加到 SCHEMA.md 或移除
+
+## 未审查页面 (35 个)
+
+### [低] /root/hermes-journal/concepts/hermes-system-prompt-structure.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/llm-knowledge-base-complete-guide.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/how-to-make-money-with-claude-code.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/awesome-openclaw-tips.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/notebooklm-content-factory-workflow.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/llm-council-method-karpathy.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/dario-amodei-ai-career-predictions.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/filesystem-as-knowledge-graph.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/ai-engineering-from-scratch.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/memory-utility-function.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/openclaw-complete-guide.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/smf-semantic-memory-framework.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/llm-wiki-karpathy.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/claude-alternatives-guide.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/visual-explainer.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/self-improving-agent-system-prompt.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/most-capable-agent-system-prompt.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/12-agentic-harness-patterns.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/cli-design-for-agents-and-humans.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/agentmemory-persistent-memory.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/knowledge-base-vs-memory.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/bjork-disuse-theory.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/claude-md-three-blocks-learning-system.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/second-brain-karpathy-style.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/agent-memory-architecture.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/ai-knowledge-layer-two-tier.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/queries/kilroy-cdn-migration-plan.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/queries/kilroy-cdn-batch-migration-complete.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/references/quotes-collection.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/references/concept-template.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/references/case-studies.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/references/hooks-collection.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/references/industry-data.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/references/company-template.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/references/person-template.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+
+---
+
+## Wiki Health Check - 2026-04-17 09:07:44
+
+
+Generated: 2026-04-17 09:07:44
+
+## Summary
+Total pages scanned: 40
+Total issues found: 90
+
+## 损坏的 wikilinks (28 个)
+
+### [高] /root/hermes-journal/concepts/hermes-system-prompt-structure.md
+- 损坏链接: [[lufzzliz-hermes-system-prompt-analysis-2026]]
+- 建议: 链接 [[lufzzliz-hermes-system-prompt-analysis-2026]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/llm-knowledge-base-complete-guide.md
+- 损坏链接: [[linked concept]]
+- 建议: 链接 [[linked concept]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/llm-knowledge-base-complete-guide.md
+- 损坏链接: [[wikilinks]]
+- 建议: 链接 [[wikilinks]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/filesystem-as-knowledge-graph.md
+- 损坏链接: [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]]
+- 建议: 链接 [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/memory-utility-function.md
+- 损坏链接: [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]]
+- 建议: 链接 [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/smf-semantic-memory-framework.md
+- 损坏链接: [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]]
+- 建议: 链接 [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/llm-wiki-karpathy.md
+- 损坏链接: [[wikilinks]]
+- 建议: 链接 [[wikilinks]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/knowledge-base-vs-memory.md
+- 损坏链接: [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]]
+- 建议: 链接 [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/bjork-disuse-theory.md
+- 损坏链接: [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]]
+- 建议: 链接 [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/second-brain-karpathy-style.md
+- 损坏链接: [[second-brain-part2-system]]
+- 建议: 链接 [[second-brain-part2-system]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/agent-memory-architecture.md
+- 损坏链接: [[akshay-pachaar-agent-memory-2026]]
+- 建议: 链接 [[akshay-pachaar-agent-memory-2026]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/ai-knowledge-layer-two-tier.md
+- 损坏链接: [[shannholmberg-ai-knowledge-layer-2026]]
+- 建议: 链接 [[shannholmberg-ai-knowledge-layer-2026]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/queries/kilroy-cdn-migration-plan.md
+- 损坏链接: [[ ]]
+- 建议: 链接 [[ ]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/concept-template.md
+- 损坏链接: [[相关概念 1]]
+- 建议: 链接 [[相关概念 1]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/concept-template.md
+- 损坏链接: [[source]]
+- 建议: 链接 [[source]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/concept-template.md
+- 损坏链接: [[source2]]
+- 建议: 链接 [[source2]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/concept-template.md
+- 损坏链接: [[相关概念 2]]
+- 建议: 链接 [[相关概念 2]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/company-template.md
+- 损坏链接: [[相关公司]]
+- 建议: 链接 [[相关公司]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/company-template.md
+- 损坏链接: [[source]]
+- 建议: 链接 [[source]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/company-template.md
+- 损坏链接: [[人物姓名]]
+- 建议: 链接 [[人物姓名]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/company-template.md
+- 损坏链接: [[source2]]
+- 建议: 链接 [[source2]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/person-template.md
+- 损坏链接: [[相关公司]]
+- 建议: 链接 [[相关公司]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/person-template.md
+- 损坏链接: [[source]]
+- 建议: 链接 [[source]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/person-template.md
+- 损坏链接: [[source2]]
+- 建议: 链接 [[source2]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/person-template.md
+- 损坏链接: [[相关人物]]
+- 建议: 链接 [[相关人物]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/brand-foundation/voice-profile.md
+- 损坏链接: [[wikilink]]
+- 建议: 链接 [[wikilink]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/brand-foundation/output-format.md
+- 损坏链接: [[页面名称]]
+- 建议: 链接 [[页面名称]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/brand-foundation/output-format.md
+- 损坏链接: [[wikilink]]
+- 建议: 链接 [[wikilink]] 指向不存在的页面，需要创建该页面或移除链接
+
+## 超过 200 行的页面 (23 个)
+
+### [中] /root/hermes-journal/concepts/llm-knowledge-base-complete-guide.md
+- 行数: 402
+- 建议: 页面有 402 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/how-to-make-money-with-claude-code.md
+- 行数: 333
+- 建议: 页面有 333 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/awesome-openclaw-tips.md
+- 行数: 474
+- 建议: 页面有 474 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/notebooklm-content-factory-workflow.md
+- 行数: 254
+- 建议: 页面有 254 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/llm-council-method-karpathy.md
+- 行数: 294
+- 建议: 页面有 294 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/dario-amodei-ai-career-predictions.md
+- 行数: 412
+- 建议: 页面有 412 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/ai-engineering-from-scratch.md
+- 行数: 223
+- 建议: 页面有 223 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/openclaw-complete-guide.md
+- 行数: 306
+- 建议: 页面有 306 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/llm-wiki-karpathy.md
+- 行数: 267
+- 建议: 页面有 267 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/claude-alternatives-guide.md
+- 行数: 307
+- 建议: 页面有 307 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/visual-explainer.md
+- 行数: 242
+- 建议: 页面有 242 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/most-capable-agent-system-prompt.md
+- 行数: 402
+- 建议: 页面有 402 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/12-agentic-harness-patterns.md
+- 行数: 338
+- 建议: 页面有 338 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/cli-design-for-agents-and-humans.md
+- 行数: 356
+- 建议: 页面有 356 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/agentmemory-persistent-memory.md
+- 行数: 248
+- 建议: 页面有 248 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/claude-md-three-blocks-learning-system.md
+- 行数: 348
+- 建议: 页面有 348 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/second-brain-karpathy-style.md
+- 行数: 301
+- 建议: 页面有 301 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/agent-memory-architecture.md
+- 行数: 330
+- 建议: 页面有 330 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/ai-knowledge-layer-two-tier.md
+- 行数: 396
+- 建议: 页面有 396 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/queries/wiki-health-check-improvements.md
+- 行数: 212
+- 建议: 页面有 212 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/references/quotes-collection.md
+- 行数: 289
+- 建议: 页面有 289 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/references/hooks-collection.md
+- 行数: 235
+- 建议: 页面有 235 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/references/industry-data.md
+- 行数: 255
+- 建议: 页面有 255 行，建议拆分为多个子主题页面
+
+## 少于 2 个 wikilinks (4 个)
+
+### [中] /root/hermes-journal/queries/kilroy-cdn-batch-migration-complete.md
+- 链接数: 1
+- 当前链接: kilroy-cdn-migration-plan
+- 建议: 页面只有 1 个 wikilinks，建议至少添加 2 个内部链接
+
+### [中] /root/hermes-journal/references/hooks-collection.md
+- 链接数: 1
+- 当前链接: banned-words
+- 建议: 页面只有 1 个 wikilinks，建议至少添加 2 个内部链接
+
+### [中] /root/hermes-journal/brand-foundation/voice-profile.md
+- 链接数: 1
+- 当前链接: wikilink
+- 建议: 页面只有 1 个 wikilinks，建议至少添加 2 个内部链接
+
+### [中] /root/hermes-journal/brand-foundation/banned-words.md
+- 链接数: 0
+- 建议: 页面只有 0 个 wikilinks，建议至少添加 2 个内部链接
+
+## 未审查页面 (35 个)
+
+### [低] /root/hermes-journal/concepts/hermes-system-prompt-structure.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/llm-knowledge-base-complete-guide.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/how-to-make-money-with-claude-code.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/awesome-openclaw-tips.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/notebooklm-content-factory-workflow.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/llm-council-method-karpathy.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/dario-amodei-ai-career-predictions.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/filesystem-as-knowledge-graph.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/ai-engineering-from-scratch.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/memory-utility-function.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/openclaw-complete-guide.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/smf-semantic-memory-framework.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/llm-wiki-karpathy.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/claude-alternatives-guide.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/visual-explainer.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/self-improving-agent-system-prompt.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/most-capable-agent-system-prompt.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/12-agentic-harness-patterns.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/cli-design-for-agents-and-humans.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/agentmemory-persistent-memory.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/knowledge-base-vs-memory.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/bjork-disuse-theory.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/claude-md-three-blocks-learning-system.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/second-brain-karpathy-style.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/agent-memory-architecture.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/ai-knowledge-layer-two-tier.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/queries/kilroy-cdn-migration-plan.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/queries/kilroy-cdn-batch-migration-complete.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/references/quotes-collection.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/references/concept-template.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/references/case-studies.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/references/hooks-collection.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/references/industry-data.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/references/company-template.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/references/person-template.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+
+---
+
+## Wiki Health Check - 2026-04-17 09:07:53
+
+
+Generated: 2026-04-17 09:07:53
+
+## Summary
+Total pages scanned: 40
+Total issues found: 90
+
+## 损坏的 wikilinks (28 个)
+
+### [高] /root/hermes-journal/concepts/hermes-system-prompt-structure.md
+- 损坏链接: [[lufzzliz-hermes-system-prompt-analysis-2026]]
+- 建议: 链接 [[lufzzliz-hermes-system-prompt-analysis-2026]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/llm-knowledge-base-complete-guide.md
+- 损坏链接: [[wikilinks]]
+- 建议: 链接 [[wikilinks]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/llm-knowledge-base-complete-guide.md
+- 损坏链接: [[linked concept]]
+- 建议: 链接 [[linked concept]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/filesystem-as-knowledge-graph.md
+- 损坏链接: [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]]
+- 建议: 链接 [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/memory-utility-function.md
+- 损坏链接: [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]]
+- 建议: 链接 [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/smf-semantic-memory-framework.md
+- 损坏链接: [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]]
+- 建议: 链接 [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/llm-wiki-karpathy.md
+- 损坏链接: [[wikilinks]]
+- 建议: 链接 [[wikilinks]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/knowledge-base-vs-memory.md
+- 损坏链接: [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]]
+- 建议: 链接 [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/bjork-disuse-theory.md
+- 损坏链接: [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]]
+- 建议: 链接 [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/second-brain-karpathy-style.md
+- 损坏链接: [[second-brain-part2-system]]
+- 建议: 链接 [[second-brain-part2-system]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/agent-memory-architecture.md
+- 损坏链接: [[akshay-pachaar-agent-memory-2026]]
+- 建议: 链接 [[akshay-pachaar-agent-memory-2026]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/concepts/ai-knowledge-layer-two-tier.md
+- 损坏链接: [[shannholmberg-ai-knowledge-layer-2026]]
+- 建议: 链接 [[shannholmberg-ai-knowledge-layer-2026]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/queries/kilroy-cdn-migration-plan.md
+- 损坏链接: [[ ]]
+- 建议: 链接 [[ ]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/concept-template.md
+- 损坏链接: [[相关概念 2]]
+- 建议: 链接 [[相关概念 2]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/concept-template.md
+- 损坏链接: [[相关概念 1]]
+- 建议: 链接 [[相关概念 1]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/concept-template.md
+- 损坏链接: [[source]]
+- 建议: 链接 [[source]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/concept-template.md
+- 损坏链接: [[source2]]
+- 建议: 链接 [[source2]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/company-template.md
+- 损坏链接: [[source2]]
+- 建议: 链接 [[source2]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/company-template.md
+- 损坏链接: [[相关公司]]
+- 建议: 链接 [[相关公司]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/company-template.md
+- 损坏链接: [[source]]
+- 建议: 链接 [[source]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/company-template.md
+- 损坏链接: [[人物姓名]]
+- 建议: 链接 [[人物姓名]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/person-template.md
+- 损坏链接: [[相关人物]]
+- 建议: 链接 [[相关人物]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/person-template.md
+- 损坏链接: [[相关公司]]
+- 建议: 链接 [[相关公司]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/person-template.md
+- 损坏链接: [[source]]
+- 建议: 链接 [[source]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/references/person-template.md
+- 损坏链接: [[source2]]
+- 建议: 链接 [[source2]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/brand-foundation/voice-profile.md
+- 损坏链接: [[wikilink]]
+- 建议: 链接 [[wikilink]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/brand-foundation/output-format.md
+- 损坏链接: [[页面名称]]
+- 建议: 链接 [[页面名称]] 指向不存在的页面，需要创建该页面或移除链接
+
+### [高] /root/hermes-journal/brand-foundation/output-format.md
+- 损坏链接: [[wikilink]]
+- 建议: 链接 [[wikilink]] 指向不存在的页面，需要创建该页面或移除链接
+
+## 超过 200 行的页面 (23 个)
+
+### [中] /root/hermes-journal/concepts/llm-knowledge-base-complete-guide.md
+- 行数: 402
+- 建议: 页面有 402 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/how-to-make-money-with-claude-code.md
+- 行数: 333
+- 建议: 页面有 333 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/awesome-openclaw-tips.md
+- 行数: 474
+- 建议: 页面有 474 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/notebooklm-content-factory-workflow.md
+- 行数: 254
+- 建议: 页面有 254 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/llm-council-method-karpathy.md
+- 行数: 294
+- 建议: 页面有 294 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/dario-amodei-ai-career-predictions.md
+- 行数: 412
+- 建议: 页面有 412 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/ai-engineering-from-scratch.md
+- 行数: 223
+- 建议: 页面有 223 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/openclaw-complete-guide.md
+- 行数: 306
+- 建议: 页面有 306 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/llm-wiki-karpathy.md
+- 行数: 267
+- 建议: 页面有 267 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/claude-alternatives-guide.md
+- 行数: 307
+- 建议: 页面有 307 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/visual-explainer.md
+- 行数: 242
+- 建议: 页面有 242 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/most-capable-agent-system-prompt.md
+- 行数: 402
+- 建议: 页面有 402 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/12-agentic-harness-patterns.md
+- 行数: 338
+- 建议: 页面有 338 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/cli-design-for-agents-and-humans.md
+- 行数: 356
+- 建议: 页面有 356 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/agentmemory-persistent-memory.md
+- 行数: 248
+- 建议: 页面有 248 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/claude-md-three-blocks-learning-system.md
+- 行数: 348
+- 建议: 页面有 348 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/second-brain-karpathy-style.md
+- 行数: 301
+- 建议: 页面有 301 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/agent-memory-architecture.md
+- 行数: 330
+- 建议: 页面有 330 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/concepts/ai-knowledge-layer-two-tier.md
+- 行数: 396
+- 建议: 页面有 396 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/queries/wiki-health-check-improvements.md
+- 行数: 212
+- 建议: 页面有 212 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/references/quotes-collection.md
+- 行数: 289
+- 建议: 页面有 289 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/references/hooks-collection.md
+- 行数: 235
+- 建议: 页面有 235 行，建议拆分为多个子主题页面
+
+### [中] /root/hermes-journal/references/industry-data.md
+- 行数: 255
+- 建议: 页面有 255 行，建议拆分为多个子主题页面
+
+## 少于 2 个 wikilinks (4 个)
+
+### [中] /root/hermes-journal/queries/kilroy-cdn-batch-migration-complete.md
+- 链接数: 1
+- 当前链接: kilroy-cdn-migration-plan
+- 建议: 页面只有 1 个 wikilinks，建议至少添加 2 个内部链接
+
+### [中] /root/hermes-journal/references/hooks-collection.md
+- 链接数: 1
+- 当前链接: banned-words
+- 建议: 页面只有 1 个 wikilinks，建议至少添加 2 个内部链接
+
+### [中] /root/hermes-journal/brand-foundation/voice-profile.md
+- 链接数: 1
+- 当前链接: wikilink
+- 建议: 页面只有 1 个 wikilinks，建议至少添加 2 个内部链接
+
+### [中] /root/hermes-journal/brand-foundation/banned-words.md
+- 链接数: 0
+- 建议: 页面只有 0 个 wikilinks，建议至少添加 2 个内部链接
+
+## 未审查页面 (35 个)
+
+### [低] /root/hermes-journal/concepts/hermes-system-prompt-structure.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/llm-knowledge-base-complete-guide.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/how-to-make-money-with-claude-code.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/awesome-openclaw-tips.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/notebooklm-content-factory-workflow.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/llm-council-method-karpathy.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/dario-amodei-ai-career-predictions.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/filesystem-as-knowledge-graph.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/ai-engineering-from-scratch.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/memory-utility-function.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/openclaw-complete-guide.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/smf-semantic-memory-framework.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/llm-wiki-karpathy.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/claude-alternatives-guide.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/visual-explainer.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/self-improving-agent-system-prompt.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/most-capable-agent-system-prompt.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/12-agentic-harness-patterns.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/cli-design-for-agents-and-humans.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/agentmemory-persistent-memory.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/knowledge-base-vs-memory.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/bjork-disuse-theory.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/claude-md-three-blocks-learning-system.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/second-brain-karpathy-style.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/agent-memory-architecture.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/concepts/ai-knowledge-layer-two-tier.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/queries/kilroy-cdn-migration-plan.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/queries/kilroy-cdn-batch-migration-complete.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/references/quotes-collection.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/references/concept-template.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/references/case-studies.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/references/hooks-collection.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/references/industry-data.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/references/company-template.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+### [低] /root/hermes-journal/references/person-template.md
+- 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
