@@ -112,7 +112,7 @@ Warning: Target URL returned error 429: Too Many Requests
 Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
 
 Markdown Content:
-![Image 1: Icon for medium.com](https://medium.com/favicon.ico)
+![[../assets/2026 04 18/openclaw_daily_2026-03-05/528d6d0dd3c579a8066b7b2419f5d156_MD5.ico]]
 
 medium.com
 ----------
