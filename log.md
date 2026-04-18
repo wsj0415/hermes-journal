@@ -2783,3 +2783,100 @@ Total issues found: 90
 
 ### [低] /root/hermes-journal/references/person-template.md
 - 建议: 审查页面后将 reviewed 改为 true，并填写 reviewed_at
+
+## [2026-04-18] lint | Wiki 健康检查
+
+### 扫描概览
+- 扫描目录：concepts, entities, comparisons, queries
+- 总页面数：29
+
+### 问题汇总
+| 严重程度 | 数量 |
+|---------|------|
+| 高 | 21 |
+| 中 | 28 |
+| 低 | 29 |
+| **总计** | **78** |
+
+### 损坏的 Wikilinks (21 个) - 高优先级
+
+| 文件 | 损坏链接 |
+|------|----------|
+| hermes-system-prompt-structure.md | [[lufzzliz-hermes-system-prompt-analysis-2026]] (2 次) |
+| llm-knowledge-base-complete-guide.md | [[wikilinks]] (5 次), [[linked concept]] |
+| filesystem-as-knowledge-graph.md | [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]] |
+| memory-utility-function.md | [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]] |
+| smf-semantic-memory-framework.md | [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]] |
+| llm-wiki-karpathy.md | [[wikilinks]] |
+| knowledge-base-vs-memory.md | [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]] |
+| bjork-disuse-theory.md | [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]] |
+| second-brain-karpathy-style.md | [[second-brain-part2-system]] |
+| agent-memory-architecture.md | [[akshay-pachaar-agent-memory-2026]] (3 次) |
+| ai-knowledge-layer-two-tier.md | [[shannholmberg-ai-knowledge-layer-2026]] (3 次) |
+| kilroy-cdn-migration-plan.md | [[ ]] (空链接，2 次) |
+
+**建议修复**：
+- 将 raw/articles/ 下的来源文件创建为 wiki 页面，或
+- 将 wikilinks 改为外部链接格式 `[text](url)`
+
+### 页面过长 (>200 行) (20 个) - 中优先级
+
+| 文件 | 行数 | 建议 |
+|------|------|------|
+| awesome-openclaw-tips.md | 474 | 拆分为多个技巧类别 |
+| dario-amodei-ai-career-predictions.md | 412 | 拆分为预测/建议/行动 |
+| llm-knowledge-base-complete-guide.md | 402 | 拆分为级别章节 |
+| most-capable-agent-system-prompt.md | 402 | 拆分为模块 |
+| ai-knowledge-layer-two-tier.md | 396 | 拆分为 KBL/BF 两部分 |
+| cli-design-for-agents-and-humans.md | 356 | 拆分为模式章节 |
+| claude-md-three-blocks-learning-system.md | 348 | 拆分为模块 |
+| 12-agentic-harness-patterns.md | 338 | 拆分为 4 类模式 |
+| agent-memory-architecture.md | 330 | 拆分为架构阶段 |
+| how-to-make-money-with-claude-code.md | 333 | 拆分为转变章节 |
+| second-brain-karpathy-style.md | 301 | 拆分为结构/工作流 |
+| claude-alternatives-guide.md | 307 | 拆分为模型对比 |
+| openclaw-complete-guide.md | 306 | 拆分为安装/使用/技巧 |
+| llm-council-method-karpathy.md | 294 | 拆分为流程/示例 |
+| llm-wiki-karpathy.md | 267 | 拆分为概念/实现 |
+| agentmemory-persistent-memory.md | 248 | 拆分为配置/使用 |
+| visual-explainer.md | 242 | 拆分为示例/代码 |
+| notebooklm-content-factory-workflow.md | 254 | 拆分为步骤 |
+| ai-engineering-from-scratch.md | 223 | 拆分为课程模块 |
+| wiki-health-check-improvements.md | 212 | 拆分为问题/改进 |
+
+### Wikilinks 过少 (<2) (1 个) - 中优先级
+
+- `kilroy-cdn-batch-migration-complete.md`: 只有 1 个 wikilink，建议添加相关页面链接
+
+### 孤立页面 (7 个) - 中优先级
+
+以下页面无其他页面链接到它们：
+- awesome-openclaw-tips.md
+- llm-council-method-karpathy.md
+- dario-amodei-ai-career-predictions.md
+- memory-utility-function.md
+- visual-explainer.md
+- self-improving-agent-system-prompt.md
+- kilroy-cdn-batch-migration-complete.md
+
+**建议**：在相关页面添加指向这些页面的 wikilinks
+
+### 未审查页面 (29 个) - 低优先级
+
+28 个页面 `reviewed: false`，1 个页面缺少 `reviewed` 字段
+
+**建议**：批量审查并更新 frontmatter
+
+### 自动修复状态
+
+- ✅ 所有页面已收录到 index.md
+- ✅ 所有标签均在 SCHEMA 分类法中
+- ✅ 无缺少 frontmatter 的页面
+
+### 后续行动
+
+1. [高] 修复 21 个损坏的 wikilinks
+2. [中] 拆分 20 个过长页面
+3. [中] 为 7 个孤立页面添加入链
+4. [低] 审查 29 个未审查页面
+
