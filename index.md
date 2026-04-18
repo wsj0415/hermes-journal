@@ -2,13 +2,19 @@
 
 > 内容目录。每个 wiki 页面在其类型下列出，附带一行摘要。
 > 先读这里找到相关页面。
-> Last updated: 2026-04-16 | Total pages: 39
+> Last updated: 2026-04-18 | Total pages: 45
 
 ## Entities
 <!-- 按字母顺序排列 -->
 
+- [[ai-influence-accounts-65]] - AI 影响力账号清单：65 个核心账号分类 (模型厂商/研究机构/技术领袖/投资人/工程实践者)
+- [[karpathy-ai-engineering]] - Karpathy 的 AI 工程理念：Flow > Prompt，LLM 知识库模式
+
 ## Concepts
 
+- [[ai-ide-productivity-funnel]] - AI IDE 生产力漏斗模型：Google 实证研究，5 层漏斗解释 AI 功能为何无法产生实际影响
+- [[ai-influence-weekly-digest]] - AI 影响力周报模式：自动化内容筛选系统，65 个账号中捕捉高价值信息
+- [[claude-code-best-practices]] - Claude Code 最佳实践：会话管理/1M 上下文/Prompt Hooks
 - [[agent-memory-architecture]] - Agent Memory 架构演进：从 Python List 到图向量混合的第一性原理分析
 - [[ai-knowledge-layer-two-tier]] - AI Knowledge Layer 两层系统：KBL（动态知识库）+ BF（静态品牌基础），20 分钟搭建
 - [[hermes-system-prompt-structure]] - Hermes Agent 系统提示词结构：9 层架构 + 50% token 优化方案

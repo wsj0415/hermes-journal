@@ -2880,3 +2880,44 @@ Total issues found: 90
 3. [中] 为 7 个孤立页面添加入链
 4. [低] 审查 29 个未审查页面
 
+
+## [2026-04-18] ingest | AI 影响力周报第 1 期
+- 来源：~/.hermes/output/ai-influence-digest/weekly_report_2026-04-17.md
+- 保存到：raw/articles/ai-influence-weekly-report-001-2026-04-17.md
+- 创建页面：
+  - concepts/ai-influence-weekly-digest.md - AI 影响力周报模式
+  - entities/karpathy-ai-engineering.md - Karpathy 的 AI 工程理念
+  - concepts/claude-code-best-practices.md - Claude Code 最佳实践
+- 更新：index.md (Total pages: 39 → 43)
+- 核心洞察：
+  - Agent 上下文管理成为焦点 (Claude Code 1M 窗口)
+  - Prompt Engineering 从"技巧"转向"流程工程"
+  - 多模态生成进入实用阶段 (Gemini 3 单 prompt 构建应用)
+
+## [2026-04-18] create | AI 影响力账号清单
+- 来源：ai-influence-digest/references/accounts_65.txt
+- 创建页面：entities/ai-influence-accounts-65.md
+- 内容：65 个账号完整清单，分 5 类
+  - 模型厂商 (12): OpenAI, AnthropicAI, GoogleDeepMind, MetaAI, 国内大模型厂商等
+  - 硬件/基础设施 (4): NVIDIA, Groq, Hailuo_AI
+  - 研究机构 (3): MIT CSAIL, IBM Data
+  - 技术领袖 (20): sam altman, karpathy, ylecun, demishassabis, DarioAmodei 等
+  - 投资人/分析师 (12): swyx, mattturck, danshipper 等
+  - AI 工程实践者 (14): trq212, amasad, rauchg 等
+- 更新：index.md (Total pages: 44)
+
+## [2026-04-18] ingest | Google AI IDE 生产力研究论文
+- 来源：arXiv:2601.19964 "Achieving Productivity Gains with AI-based IDE features: A Journey at Google"
+- 作者：Maxim Tabachnyk et al. (Google)
+- 发表：LLM4Code '26 workshop at ICSE '26
+- 保存到：raw/articles/google-ai-ide-productivity-2026.md
+- 创建页面：concepts/ai-ide-productivity-funnel.md
+- 核心框架：机会漏斗模型（5 层流失）
+  - 模型置信度不足 → 不生成建议
+  - 响应太慢 → 用户失去耐心
+  - 建议质量差 → 被拒绝
+  - 用户没注意到 → 可发现性问题
+  - 审查后拒绝 → 可用性不足
+- 方法论：数据驱动迭代，不依赖直觉
+- 更新：index.md (Total pages: 45)
+- 关联页面：[[agent-memory-architecture]], [[12-agentic-harness-patterns]], [[hermes-system-prompt-structure]]
