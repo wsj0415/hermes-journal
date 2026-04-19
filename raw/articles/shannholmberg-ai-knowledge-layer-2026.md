@@ -7,7 +7,7 @@
 
 ---
 
-![封面](https://pbs.twimg.com/media/HF4hFQiasAIBY8-.jpg)
+![[../assets/2026 04 19/shannholmberg-ai-knowledge-layer-2026/753986b2cfe1a1c00874f11ea8425f52_MD5.jpg]]
 
 this article gives you a two-layer system that makes every AI agent you run smarter. 20 minute setup, gets better every day, fully open source.
 

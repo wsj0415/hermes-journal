@@ -7,7 +7,7 @@
 
 ---
 
-![封面](https://pbs.twimg.com/media/HF6paiXa4AAvElB.jpg)
+![[../assets/2026 04 19/lufzzliz-hermes-system-prompt-analysis-2026/6807837c646f6c66ed223bd5e09ff939_MD5.jpg]]
 
 > 没想到吧，Hermes agent 也可能有万字的系统提示词，且看岚叔带你完整拆解。同时教你一招降低50% tokens 的小妙招
 

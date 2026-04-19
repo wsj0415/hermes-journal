@@ -7,7 +7,7 @@
 
 ---
 
-![封面](https://pbs.twimg.com/media/HFzXG9qbYAEW5p6.jpg)
+![[../assets/2026 04 19/akshay-pachaar-agent-memory-2026/46ad51ddffc1e41aafa15f772335eaed_MD5.jpg]]
 
 A first-principles walk through agent memory: from Python lists to markdown files to vector search to graph-vector hybrids, and finally, a clean, open-source solution for all of this.
 
