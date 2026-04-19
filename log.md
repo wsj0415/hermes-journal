@@ -2921,3 +2921,411 @@ Total issues found: 90
 - 方法论：数据驱动迭代，不依赖直觉
 - 更新：index.md (Total pages: 45)
 - 关联页面：[[agent-memory-architecture]], [[12-agentic-harness-patterns]], [[hermes-system-prompt-structure]]
+
+
+## 2026-04-19 09:02:13 - Wiki 健康检查
+
+# Wiki 健康检查报告
+检查时间：2026-04-19 09:02:13
+
+扫描页面总数：34
+扫描目录：concepts, entities, comparisons, queries
+
+## 问题汇总
+
+发现问题总数：90
+
+### 损坏的 wikilinks (23 个)
+
+- 🔴 **HIGH**: `agent-memory-architecture.md`
+  - 问题：损坏的 wikilink: [[akshay-pachaar-agent-memory-2026]]
+  - 建议：创建缺失的页面，或修正 wikilink 指向正确的页面
+
+- 🔴 **HIGH**: `agent-memory-architecture.md`
+  - 问题：损坏的 wikilink: [[akshay-pachaar-agent-memory-2026]]
+  - 建议：创建缺失的页面，或修正 wikilink 指向正确的页面
+
+- 🔴 **HIGH**: `agent-memory-architecture.md`
+  - 问题：损坏的 wikilink: [[akshay-pachaar-agent-memory-2026]]
+  - 建议：创建缺失的页面，或修正 wikilink 指向正确的页面
+
+- 🔴 **HIGH**: `ai-knowledge-layer-two-tier.md`
+  - 问题：损坏的 wikilink: [[shannholmberg-ai-knowledge-layer-2026]]
+  - 建议：创建缺失的页面，或修正 wikilink 指向正确的页面
+
+- 🔴 **HIGH**: `ai-knowledge-layer-two-tier.md`
+  - 问题：损坏的 wikilink: [[shannholmberg-ai-knowledge-layer-2026]]
+  - 建议：创建缺失的页面，或修正 wikilink 指向正确的页面
+
+- 🔴 **HIGH**: `ai-knowledge-layer-two-tier.md`
+  - 问题：损坏的 wikilink: [[shannholmberg-ai-knowledge-layer-2026]]
+  - 建议：创建缺失的页面，或修正 wikilink 指向正确的页面
+
+- 🔴 **HIGH**: `bjork-disuse-theory.md`
+  - 问题：损坏的 wikilink: [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]]
+  - 建议：创建缺失的页面，或修正 wikilink 指向正确的页面
+
+- 🔴 **HIGH**: `filesystem-as-knowledge-graph.md`
+  - 问题：损坏的 wikilink: [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]]
+  - 建议：创建缺失的页面，或修正 wikilink 指向正确的页面
+
+- 🔴 **HIGH**: `hermes-system-prompt-structure.md`
+  - 问题：损坏的 wikilink: [[lufzzliz-hermes-system-prompt-analysis-2026]]
+  - 建议：创建缺失的页面，或修正 wikilink 指向正确的页面
+
+- 🔴 **HIGH**: `hermes-system-prompt-structure.md`
+  - 问题：损坏的 wikilink: [[lufzzliz-hermes-system-prompt-analysis-2026]]
+  - 建议：创建缺失的页面，或修正 wikilink 指向正确的页面
+
+- 🔴 **HIGH**: `knowledge-base-vs-memory.md`
+  - 问题：损坏的 wikilink: [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]]
+  - 建议：创建缺失的页面，或修正 wikilink 指向正确的页面
+
+- 🔴 **HIGH**: `llm-knowledge-base-complete-guide.md`
+  - 问题：损坏的 wikilink: [[wikilinks]]
+  - 建议：创建缺失的页面，或修正 wikilink 指向正确的页面
+
+- 🔴 **HIGH**: `llm-knowledge-base-complete-guide.md`
+  - 问题：损坏的 wikilink: [[wikilinks]]
+  - 建议：创建缺失的页面，或修正 wikilink 指向正确的页面
+
+- 🔴 **HIGH**: `llm-knowledge-base-complete-guide.md`
+  - 问题：损坏的 wikilink: [[wikilinks]]
+  - 建议：创建缺失的页面，或修正 wikilink 指向正确的页面
+
+- 🔴 **HIGH**: `llm-knowledge-base-complete-guide.md`
+  - 问题：损坏的 wikilink: [[linked concept]]
+  - 建议：创建缺失的页面，或修正 wikilink 指向正确的页面
+
+- 🔴 **HIGH**: `llm-knowledge-base-complete-guide.md`
+  - 问题：损坏的 wikilink: [[wikilinks]]
+  - 建议：创建缺失的页面，或修正 wikilink 指向正确的页面
+
+- 🔴 **HIGH**: `llm-knowledge-base-complete-guide.md`
+  - 问题：损坏的 wikilink: [[wikilinks]]
+  - 建议：创建缺失的页面，或修正 wikilink 指向正确的页面
+
+- 🔴 **HIGH**: `llm-wiki-karpathy.md`
+  - 问题：损坏的 wikilink: [[wikilinks]]
+  - 建议：创建缺失的页面，或修正 wikilink 指向正确的页面
+
+- 🔴 **HIGH**: `memory-utility-function.md`
+  - 问题：损坏的 wikilink: [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]]
+  - 建议：创建缺失的页面，或修正 wikilink 指向正确的页面
+
+- 🔴 **HIGH**: `second-brain-karpathy-style.md`
+  - 问题：损坏的 wikilink: [[second-brain-part2-system]]
+  - 建议：创建缺失的页面，或修正 wikilink 指向正确的页面
+
+- 🔴 **HIGH**: `smf-semantic-memory-framework.md`
+  - 问题：损坏的 wikilink: [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]]
+  - 建议：创建缺失的页面，或修正 wikilink 指向正确的页面
+
+- 🔴 **HIGH**: `kilroy-cdn-migration-plan.md`
+  - 问题：损坏的 wikilink: [[ ]]
+  - 建议：创建缺失的页面，或修正 wikilink 指向正确的页面
+
+- 🔴 **HIGH**: `kilroy-cdn-migration-plan.md`
+  - 问题：损坏的 wikilink: [[ ]]
+  - 建议：创建缺失的页面，或修正 wikilink 指向正确的页面
+
+### 页面过长（>200 行） (20 个)
+
+- 🟡 **MEDIUM**: `12-agentic-harness-patterns.md`
+  - 问题：页面过长 (338 行)，建议拆分
+  - 建议：拆分为多个子主题页面，添加交叉链接
+
+- 🟡 **MEDIUM**: `agent-memory-architecture.md`
+  - 问题：页面过长 (330 行)，建议拆分
+  - 建议：拆分为多个子主题页面，添加交叉链接
+
+- 🟡 **MEDIUM**: `agentmemory-persistent-memory.md`
+  - 问题：页面过长 (248 行)，建议拆分
+  - 建议：拆分为多个子主题页面，添加交叉链接
+
+- 🟡 **MEDIUM**: `ai-engineering-from-scratch.md`
+  - 问题：页面过长 (223 行)，建议拆分
+  - 建议：拆分为多个子主题页面，添加交叉链接
+
+- 🟡 **MEDIUM**: `ai-knowledge-layer-two-tier.md`
+  - 问题：页面过长 (396 行)，建议拆分
+  - 建议：拆分为多个子主题页面，添加交叉链接
+
+- 🟡 **MEDIUM**: `awesome-openclaw-tips.md`
+  - 问题：页面过长 (474 行)，建议拆分
+  - 建议：拆分为多个子主题页面，添加交叉链接
+
+- 🟡 **MEDIUM**: `claude-alternatives-guide.md`
+  - 问题：页面过长 (307 行)，建议拆分
+  - 建议：拆分为多个子主题页面，添加交叉链接
+
+- 🟡 **MEDIUM**: `claude-md-three-blocks-learning-system.md`
+  - 问题：页面过长 (348 行)，建议拆分
+  - 建议：拆分为多个子主题页面，添加交叉链接
+
+- 🟡 **MEDIUM**: `cli-design-for-agents-and-humans.md`
+  - 问题：页面过长 (356 行)，建议拆分
+  - 建议：拆分为多个子主题页面，添加交叉链接
+
+- 🟡 **MEDIUM**: `dario-amodei-ai-career-predictions.md`
+  - 问题：页面过长 (412 行)，建议拆分
+  - 建议：拆分为多个子主题页面，添加交叉链接
+
+- 🟡 **MEDIUM**: `how-to-make-money-with-claude-code.md`
+  - 问题：页面过长 (333 行)，建议拆分
+  - 建议：拆分为多个子主题页面，添加交叉链接
+
+- 🟡 **MEDIUM**: `llm-council-method-karpathy.md`
+  - 问题：页面过长 (294 行)，建议拆分
+  - 建议：拆分为多个子主题页面，添加交叉链接
+
+- 🟡 **MEDIUM**: `llm-knowledge-base-complete-guide.md`
+  - 问题：页面过长 (402 行)，建议拆分
+  - 建议：拆分为多个子主题页面，添加交叉链接
+
+- 🟡 **MEDIUM**: `llm-wiki-karpathy.md`
+  - 问题：页面过长 (267 行)，建议拆分
+  - 建议：拆分为多个子主题页面，添加交叉链接
+
+- 🟡 **MEDIUM**: `most-capable-agent-system-prompt.md`
+  - 问题：页面过长 (402 行)，建议拆分
+  - 建议：拆分为多个子主题页面，添加交叉链接
+
+- 🟡 **MEDIUM**: `notebooklm-content-factory-workflow.md`
+  - 问题：页面过长 (254 行)，建议拆分
+  - 建议：拆分为多个子主题页面，添加交叉链接
+
+- 🟡 **MEDIUM**: `openclaw-complete-guide.md`
+  - 问题：页面过长 (306 行)，建议拆分
+  - 建议：拆分为多个子主题页面，添加交叉链接
+
+- 🟡 **MEDIUM**: `second-brain-karpathy-style.md`
+  - 问题：页面过长 (301 行)，建议拆分
+  - 建议：拆分为多个子主题页面，添加交叉链接
+
+- 🟡 **MEDIUM**: `visual-explainer.md`
+  - 问题：页面过长 (242 行)，建议拆分
+  - 建议：拆分为多个子主题页面，添加交叉链接
+
+- 🟡 **MEDIUM**: `wiki-health-check-improvements.md`
+  - 问题：页面过长 (212 行)，建议拆分
+  - 建议：拆分为多个子主题页面，添加交叉链接
+
+### 孤立页面（无入链） (10 个)
+
+- 🟡 **MEDIUM**: `ai-ide-productivity-funnel.md`
+  - 问题：孤立页面（无入链）
+  - 建议：在相关页面添加指向此页面的 wikilink，或考虑是否应该删除
+
+- 🟡 **MEDIUM**: `awesome-openclaw-tips.md`
+  - 问题：孤立页面（无入链）
+  - 建议：在相关页面添加指向此页面的 wikilink，或考虑是否应该删除
+
+- 🟡 **MEDIUM**: `dario-amodei-ai-career-predictions.md`
+  - 问题：孤立页面（无入链）
+  - 建议：在相关页面添加指向此页面的 wikilink，或考虑是否应该删除
+
+- 🟡 **MEDIUM**: `llm-council-method-karpathy.md`
+  - 问题：孤立页面（无入链）
+  - 建议：在相关页面添加指向此页面的 wikilink，或考虑是否应该删除
+
+- 🟡 **MEDIUM**: `memory-utility-function.md`
+  - 问题：孤立页面（无入链）
+  - 建议：在相关页面添加指向此页面的 wikilink，或考虑是否应该删除
+
+- 🟡 **MEDIUM**: `self-improving-agent-system-prompt.md`
+  - 问题：孤立页面（无入链）
+  - 建议：在相关页面添加指向此页面的 wikilink，或考虑是否应该删除
+
+- 🟡 **MEDIUM**: `visual-explainer.md`
+  - 问题：孤立页面（无入链）
+  - 建议：在相关页面添加指向此页面的 wikilink，或考虑是否应该删除
+
+- 🟡 **MEDIUM**: `ai-influence-accounts-65.md`
+  - 问题：孤立页面（无入链）
+  - 建议：在相关页面添加指向此页面的 wikilink，或考虑是否应该删除
+
+- 🟡 **MEDIUM**: `karpathy-ai-engineering.md`
+  - 问题：孤立页面（无入链）
+  - 建议：在相关页面添加指向此页面的 wikilink，或考虑是否应该删除
+
+- 🟡 **MEDIUM**: `kilroy-cdn-batch-migration-complete.md`
+  - 问题：孤立页面（无入链）
+  - 建议：在相关页面添加指向此页面的 wikilink，或考虑是否应该删除
+
+### 未审查页面 (34 个)
+
+- 🟢 **LOW**: `12-agentic-harness-patterns.md`
+  - 问题：页面未审查 (reviewed: false)
+  - 建议：审查页面内容后将 reviewed 设为 true，并填写 reviewed_at
+
+- 🟢 **LOW**: `agent-memory-architecture.md`
+  - 问题：页面未审查 (reviewed: false)
+  - 建议：审查页面内容后将 reviewed 设为 true，并填写 reviewed_at
+
+- 🟢 **LOW**: `agentmemory-persistent-memory.md`
+  - 问题：页面未审查 (reviewed: false)
+  - 建议：审查页面内容后将 reviewed 设为 true，并填写 reviewed_at
+
+- 🟢 **LOW**: `ai-engineering-from-scratch.md`
+  - 问题：页面未审查 (reviewed: false)
+  - 建议：审查页面内容后将 reviewed 设为 true，并填写 reviewed_at
+
+- 🟢 **LOW**: `ai-ide-productivity-funnel.md`
+  - 问题：页面未审查 (reviewed: false)
+  - 建议：审查页面内容后将 reviewed 设为 true，并填写 reviewed_at
+
+- 🟢 **LOW**: `ai-influence-weekly-digest.md`
+  - 问题：页面未审查 (reviewed: false)
+  - 建议：审查页面内容后将 reviewed 设为 true，并填写 reviewed_at
+
+- 🟢 **LOW**: `ai-knowledge-layer-two-tier.md`
+  - 问题：页面未审查 (reviewed: false)
+  - 建议：审查页面内容后将 reviewed 设为 true，并填写 reviewed_at
+
+- 🟢 **LOW**: `awesome-openclaw-tips.md`
+  - 问题：页面未审查 (reviewed: false)
+  - 建议：审查页面内容后将 reviewed 设为 true，并填写 reviewed_at
+
+- 🟢 **LOW**: `bjork-disuse-theory.md`
+  - 问题：页面未审查 (reviewed: false)
+  - 建议：审查页面内容后将 reviewed 设为 true，并填写 reviewed_at
+
+- 🟢 **LOW**: `claude-alternatives-guide.md`
+  - 问题：页面未审查 (reviewed: false)
+  - 建议：审查页面内容后将 reviewed 设为 true，并填写 reviewed_at
+
+- 🟢 **LOW**: `claude-code-best-practices.md`
+  - 问题：页面未审查 (reviewed: false)
+  - 建议：审查页面内容后将 reviewed 设为 true，并填写 reviewed_at
+
+- 🟢 **LOW**: `claude-md-three-blocks-learning-system.md`
+  - 问题：页面未审查 (reviewed: false)
+  - 建议：审查页面内容后将 reviewed 设为 true，并填写 reviewed_at
+
+- 🟢 **LOW**: `cli-design-for-agents-and-humans.md`
+  - 问题：页面未审查 (reviewed: false)
+  - 建议：审查页面内容后将 reviewed 设为 true，并填写 reviewed_at
+
+- 🟢 **LOW**: `dario-amodei-ai-career-predictions.md`
+  - 问题：页面未审查 (reviewed: false)
+  - 建议：审查页面内容后将 reviewed 设为 true，并填写 reviewed_at
+
+- 🟢 **LOW**: `filesystem-as-knowledge-graph.md`
+  - 问题：页面未审查 (reviewed: false)
+  - 建议：审查页面内容后将 reviewed 设为 true，并填写 reviewed_at
+
+- 🟢 **LOW**: `hermes-system-prompt-structure.md`
+  - 问题：页面未审查 (reviewed: false)
+  - 建议：审查页面内容后将 reviewed 设为 true，并填写 reviewed_at
+
+- 🟢 **LOW**: `how-to-make-money-with-claude-code.md`
+  - 问题：页面未审查 (reviewed: false)
+  - 建议：审查页面内容后将 reviewed 设为 true，并填写 reviewed_at
+
+- 🟢 **LOW**: `knowledge-base-vs-memory.md`
+  - 问题：页面未审查 (reviewed: false)
+  - 建议：审查页面内容后将 reviewed 设为 true，并填写 reviewed_at
+
+- 🟢 **LOW**: `llm-council-method-karpathy.md`
+  - 问题：页面未审查 (reviewed: false)
+  - 建议：审查页面内容后将 reviewed 设为 true，并填写 reviewed_at
+
+- 🟢 **LOW**: `llm-knowledge-base-complete-guide.md`
+  - 问题：页面未审查 (reviewed: false)
+  - 建议：审查页面内容后将 reviewed 设为 true，并填写 reviewed_at
+
+- 🟢 **LOW**: `llm-wiki-karpathy.md`
+  - 问题：页面未审查 (reviewed: false)
+  - 建议：审查页面内容后将 reviewed 设为 true，并填写 reviewed_at
+
+- 🟢 **LOW**: `memory-utility-function.md`
+  - 问题：页面未审查 (reviewed: false)
+  - 建议：审查页面内容后将 reviewed 设为 true，并填写 reviewed_at
+
+- 🟢 **LOW**: `most-capable-agent-system-prompt.md`
+  - 问题：页面未审查 (reviewed: false)
+  - 建议：审查页面内容后将 reviewed 设为 true，并填写 reviewed_at
+
+- 🟢 **LOW**: `notebooklm-content-factory-workflow.md`
+  - 问题：页面未审查 (reviewed: false)
+  - 建议：审查页面内容后将 reviewed 设为 true，并填写 reviewed_at
+
+- 🟢 **LOW**: `openclaw-complete-guide.md`
+  - 问题：页面未审查 (reviewed: false)
+  - 建议：审查页面内容后将 reviewed 设为 true，并填写 reviewed_at
+
+- 🟢 **LOW**: `second-brain-karpathy-style.md`
+  - 问题：页面未审查 (reviewed: false)
+  - 建议：审查页面内容后将 reviewed 设为 true，并填写 reviewed_at
+
+- 🟢 **LOW**: `self-improving-agent-system-prompt.md`
+  - 问题：页面未审查 (reviewed: false)
+  - 建议：审查页面内容后将 reviewed 设为 true，并填写 reviewed_at
+
+- 🟢 **LOW**: `smf-semantic-memory-framework.md`
+  - 问题：页面未审查 (reviewed: false)
+  - 建议：审查页面内容后将 reviewed 设为 true，并填写 reviewed_at
+
+- 🟢 **LOW**: `visual-explainer.md`
+  - 问题：页面未审查 (reviewed: false)
+  - 建议：审查页面内容后将 reviewed 设为 true，并填写 reviewed_at
+
+- 🟢 **LOW**: `ai-influence-accounts-65.md`
+  - 问题：页面未审查 (reviewed: false)
+  - 建议：审查页面内容后将 reviewed 设为 true，并填写 reviewed_at
+
+- 🟢 **LOW**: `karpathy-ai-engineering.md`
+  - 问题：页面未审查 (reviewed: false)
+  - 建议：审查页面内容后将 reviewed 设为 true，并填写 reviewed_at
+
+- 🟢 **LOW**: `kilroy-cdn-batch-migration-complete.md`
+  - 问题：页面未审查 (reviewed: false)
+  - 建议：审查页面内容后将 reviewed 设为 true，并填写 reviewed_at
+
+- 🟢 **LOW**: `kilroy-cdn-migration-plan.md`
+  - 问题：页面未审查 (reviewed: false)
+  - 建议：审查页面内容后将 reviewed 设为 true，并填写 reviewed_at
+
+- 🟢 **LOW**: `wiki-health-check-improvements.md`
+  - 问题：页面未审查 (reviewed: false)
+  - 建议：审查页面内容后将 reviewed 设为 true，并填写 reviewed_at
+
+### wikilinks 过少（<2 个） (3 个)
+
+- 🟢 **LOW**: `ai-influence-weekly-digest.md`
+  - 问题：wikilinks 过少 (0 个)，建议至少 2 个
+  - 建议：添加至少 2 个指向相关页面的 wikilinks
+
+- 🟢 **LOW**: `ai-influence-accounts-65.md`
+  - 问题：wikilinks 过少 (1 个)，建议至少 2 个
+  - 建议：添加至少 2 个指向相关页面的 wikilinks
+
+- 🟢 **LOW**: `kilroy-cdn-batch-migration-complete.md`
+  - 问题：wikilinks 过少 (1 个)，建议至少 2 个
+  - 建议：添加至少 2 个指向相关页面的 wikilinks
+
+## 自动修复
+
+- ℹ️  index.md 已包含所有页面
+
+## 统计摘要
+
+| 指标 | 数量 |
+|------|------|
+| 总页面数 | 34 |
+| 高严重性问题 | 23 |
+| 中严重性问题 | 30 |
+| 低严重性问题 | 37 |
+
+## [2026-04-19] ingest | AI 影响力周报第 2 期
+- 来源：~/.hermes/output/ai-influence-digest/weekly_report_2026-04-19.md
+- 保存到：raw/articles/ai-influence-weekly-report-002-2026-04-19.md
+- 扫描账号：65 个 AI 领域影响力账号
+- 候选推文：5 条（通过 Google 搜索收集）
+- 精选数量：5 条
+- 更新：index.md (Total pages: 45 → 46), log.md
+- 核心洞察：
+  - OpenAI Codex 实现 macOS 电脑操作自动化（AI 从对话助手转向操作代理）
+  - Google DeepMind 用自然语言控制机器人（自然语言作为通用接口）
+  - Anthropic 自动化对齐研究突破（Opus 4.6 缩小 97% 性能差距）
