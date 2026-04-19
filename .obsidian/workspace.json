@@ -1,0 +1,277 @@
+{
+  "main": {
+    "id": "37e1f8b339974d16",
+    "type": "split",
+    "children": [
+      {
+        "id": "08bddd110693c354",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c837a888dcaa3fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "log.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "log"
+            }
+          },
+          {
+            "id": "6d081d14e59a608a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "brand-foundation/voice-profile.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "voice-profile"
+            }
+          },
+          {
+            "id": "5ff25032250b50aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e99a3be0ac8db2cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "e15e0174bddbe40b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb049a3e262e121b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "7c302b83e7f7eb4d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:clippings",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "a742991324815ae2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 370.5
+  },
+  "right": {
+    "id": "e24797f3239ad79d",
+    "type": "split",
+    "children": [
+      {
+        "id": "97ad0122c91c6c2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf771da1e61edcc3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "base/WebSite.base",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "WebSite 的反向链接列表"
+            }
+          },
+          {
+            "id": "1084514ff46b1822",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "base/WebSite.base",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "WebSite 的出链列表"
+            }
+          },
+          {
+            "id": "4b65a0d462e0ac99",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "417c6ad2f7893e1b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "f08e03d6e930153a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "97fe55eb25befc8a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "marp-slides:Show Slide Preview": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
+    }
+  },
+  "active": "eb049a3e262e121b",
+  "lastOpenFiles": [
+    "raw/assets/2026 04 19/shannholmberg-ai-knowledge-layer-2026/753986b2cfe1a1c00874f11ea8425f52_MD5.jpg",
+    "raw/assets/2026 04 19/lufzzliz-hermes-system-prompt-analysis-2026/6807837c646f6c66ed223bd5e09ff939_MD5.jpg",
+    "raw/assets/2026 04 19/akshay-pachaar-agent-memory-2026/46ad51ddffc1e41aafa15f772335eaed_MD5.jpg",
+    "raw/assets/2026 04 19/web-access-skill",
+    "raw/assets/2026 04 19/shannholmberg-ai-knowledge-layer-2026",
+    "raw/assets/2026 04 19/lufzzliz-hermes-system-prompt-analysis-2026",
+    "raw/assets/2026 04 19/akshay-pachaar-agent-memory-2026",
+    "raw/assets/2026 04 19",
+    "raw/articles/youtube_claude_code_personal_os.md",
+    "raw/articles/youtube_RoboNuggets_U-Hl7Z4M7Eo.md",
+    "raw/articles/youtube_AI 超元域_aI77F7vVodE.md",
+    "raw/articles/xiaohongshu_agent_engineering.md",
+    "raw/articles/x_vista8_openclaw_skills_guide.md",
+    "raw/articles/x_snail_9106_2028679077440487723.md",
+    "raw/articles/x_researchwang_openclaw_skills.md",
+    "raw/articles/x_heynavtoor_2028922003365986705.md",
+    "raw/articles/x_daily_2026-03-05.md",
+    "raw/articles/x_artemxtech_grep_dead.md",
+    "raw/articles/web-access-skill.md",
+    "raw/articles/visual-explainer.md",
+    "raw/articles/telegram_sector_20260305.md",
+    "raw/articles/shannholmberg-ai-knowledge-layer-2026.md",
+    "raw/articles/self_improving_agent_system_prompt.md",
+    "raw/articles/second-brain-part2-system.md",
+    "raw/articles/second-brain-karpathy-style.md",
+    "raw/articles/reddit_openclaw_top_posts.md",
+    "raw/articles/philschmid_testing_skills_summary.md",
+    "raw/articles/openclaw_daily_hot_2026-03-05.md",
+    "raw/articles/openclaw_daily_2026-03-05.md",
+    "raw/articles/openclaw-complete-guide-lenny.md",
+    "raw/articles/notebooklm_content_factory_workflow.md",
+    "raw/articles/most_capable_agent_system_prompt_full.md",
+    "raw/articles/lufzzliz-hermes-system-prompt-analysis-2026.md",
+    "raw/summaries/2026-04-07",
+    "raw/summaries/2026-04-09",
+    "raw/summaries/2026-03-26",
+    "raw/summaries/2026-03-18",
+    "raw/summaries/2026-03-27",
+    "raw/assets/2026 04 18/x_heynavtoor_2028922003365986705/0e21fd2e6325c9d7ee87aa3e5df4d262_MD5.svg",
+    "raw/assets/2026 04 18/x_snail_9106_2028679077440487723/8ca76db2af50e433f5d5adede0bd7162_MD5.jpg",
+    "raw/assets/2026 04 18/x_heynavtoor_2028922003365986705/4d26e246a2e8f4f0e415df8ba317610c_MD5.jpg",
+    "raw/assets/2026 04 15/manojmallicksigmap/d8c2006257b96c1dedf33a5f72989968_MD5.gif",
+    "raw/assets/2026 04 15/manojmallicksigmap/d36858f13986a1e5feeba151b090eceb_MD5.gif",
+    "raw/assets/2026 04 15/manojmallicksigmap/0ed9bd2480cf4afb638251844dc6e224_MD5.gif",
+    "raw/assets/2026 04 15/manojmallicksigmap/fde2c9626c7d677a432f4364e27d8b40_MD5.png",
+    "raw/assets/2026 04 15/manojmallicksigmap/2c6d32d984d1a75c35399dc25e511dad_MD5.svg"
+  ]
+}

@@ -2880,6 +2880,16 @@ Total issues found: 90
 3. [中] 为 7 个孤立页面添加入链
 4. [低] 审查 29 个未审查页面
 
+## [2026-04-18] ingest | akshay-pachaar-agent-harness-2026
+- 来源：https://x.com/akshay_pachaar/status/2041146899319971922?s=52
+- 保存到：raw/articles/akshay-pachaar-agent-harness-2026.md
+- 创建页面：concepts/agent-harness.md
+- 内容：Agent Harness 长文完整中文翻译 + 开头一句话总结
+  - 定义了 Harness 与 Agent 的边界
+  - 系统梳理生产级 Harness 的核心组件
+  - 提炼“先查 harness，再怪模型”的分析框架
+- 更新：index.md（Total pages: 40）
+
 
 ## [2026-04-18] ingest | AI 影响力周报第 1 期
 - 来源：~/.hermes/output/ai-influence-digest/weekly_report_2026-04-17.md
