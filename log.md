@@ -1,3 +1,11 @@
+
+## 2026-04-20
+
+- 📰 发布 AI影响力周报 第 003 期
+  - 扫描 30 个核心 AI 账号
+  - 精选 10 条高价值内容
+  - 重点：开源模型、Agent 工具、MoE 架构
+
 # Wiki Log
 
 > 所有 wiki 操作的 chronological 记录。只追加。
@@ -3339,3 +3347,155 @@ Total issues found: 90
   - OpenAI Codex 实现 macOS 电脑操作自动化（AI 从对话助手转向操作代理）
   - Google DeepMind 用自然语言控制机器人（自然语言作为通用接口）
   - Anthropic 自动化对齐研究突破（Opus 4.6 缩小 97% 性能差距）
+
+## [2026-04-20] lint | Wiki 健康检查
+
+### 扫描范围
+- 目录：concepts/, entities/, comparisons/, queries/
+- 扫描页面数：34
+- 知识库总页面：47
+
+### 问题汇总
+| 严重性 | 数量 | 问题类型 |
+|--------|------|----------|
+| 高 | 12 | 损坏的 wikilinks |
+| 中 | 23 | 页面过长 (>200 行), wikilinks 不足 |
+| 低 | 44 | 未审查页面，孤立页面 |
+| **总计** | **79** | |
+
+### 高严重性问题 (损坏的 wikilinks)
+
+损坏的 wikilinks 指向不存在的页面。这些可能是：
+1. 对 raw/articles/ 中源文章的引用（应改为 frontmatter 中的 sources 字段）
+2. 拼写错误的页面名称
+3. 已删除或移动的页面
+
+**需要修复的文件：**
+
+- `concepts/hermes-system-prompt-structure.md`
+  - 损坏链接：`[[lufzzliz-hermes-system-prompt-analysis-2026]]`
+  - 损坏链接：`[[lufzzliz-hermes-system-prompt-analysis-2026]]`
+
+- `concepts/llm-knowledge-base-complete-guide.md`
+  - 损坏链接：`[[wikilinks]]`
+  - 损坏链接：`[[wikilinks]]`
+  - 损坏链接：`[[wikilinks]]`
+  - 损坏链接：`[[linked concept]]`
+  - 损坏链接：`[[wikilinks]]`
+
+- `concepts/filesystem-as-knowledge-graph.md`
+  - 损坏链接：`[[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]]`
+
+- `concepts/memory-utility-function.md`
+  - 损坏链接：`[[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]]`
+
+- `concepts/smf-semantic-memory-framework.md`
+  - 损坏链接：`[[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]]`
+
+- `concepts/llm-wiki-karpathy.md`
+  - 损坏链接：`[[wikilinks]]`
+
+- `concepts/knowledge-base-vs-memory.md`
+  - 损坏链接：`[[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]]`
+
+- `concepts/bjork-disuse-theory.md`
+  - 损坏链接：`[[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]]`
+
+- `concepts/second-brain-karpathy-style.md`
+  - 损坏链接：`[[second-brain-part2-system]]`
+
+- `concepts/agent-memory-architecture.md`
+  - 损坏链接：`[[akshay-pachaar-agent-memory-2026]]`
+  - 损坏链接：`[[akshay-pachaar-agent-memory-2026]]`
+  - 损坏链接：`[[akshay-pachaar-agent-memory-2026]]`
+
+- `concepts/ai-knowledge-layer-two-tier.md`
+  - 损坏链接：`[[shannholmberg-ai-knowledge-layer-2026]]`
+  - 损坏链接：`[[shannholmberg-ai-knowledge-layer-2026]]`
+  - 损坏链接：`[[shannholmberg-ai-knowledge-layer-2026]]`
+
+- `queries/kilroy-cdn-migration-plan.md`
+  - 损坏链接：`[[ ]]`
+  - 损坏链接：`[[ ]]`
+
+
+### 中严重性问题
+
+#### 页面过长 (建议拆分)
+
+超过 200 行的页面，建议拆分为子主题：
+
+- `concepts/llm-knowledge-base-complete-guide.md` (402 行)
+- `concepts/how-to-make-money-with-claude-code.md` (333 行)
+- `concepts/awesome-openclaw-tips.md` (474 行)
+- `concepts/notebooklm-content-factory-workflow.md` (254 行)
+- `concepts/llm-council-method-karpathy.md` (294 行)
+- `concepts/dario-amodei-ai-career-predictions.md` (412 行)
+- `concepts/ai-engineering-from-scratch.md` (223 行)
+- `concepts/openclaw-complete-guide.md` (306 行)
+- `concepts/llm-wiki-karpathy.md` (267 行)
+- `concepts/claude-alternatives-guide.md` (307 行)
+- ... 还有 10 个页面
+
+
+#### Wikilinks 不足
+
+少于 2 个出站链接的页面（违反 SCHEMA 规范）：
+
+- `concepts/ai-influence-weekly-digest.md` (仅 0 个链接)
+- `entities/ai-influence-accounts-65.md` (仅 1 个链接)
+- `queries/kilroy-cdn-batch-migration-complete.md` (仅 1 个链接)
+
+
+### 低严重性问题
+
+#### 未审查页面
+
+`reviewed: false` 的页面（AI 生成内容，需要人工审查）：
+
+- `concepts/hermes-system-prompt-structure.md`
+- `concepts/llm-knowledge-base-complete-guide.md`
+- `concepts/how-to-make-money-with-claude-code.md`
+- `concepts/awesome-openclaw-tips.md`
+- `concepts/notebooklm-content-factory-workflow.md`
+- ... 共 33 个页面
+
+
+#### 孤立页面
+
+无入链的页面（可能需要在其他页面中添加引用）：
+
+- `concepts/awesome-openclaw-tips.md`
+- `concepts/llm-council-method-karpathy.md`
+- `concepts/dario-amodei-ai-career-predictions.md`
+- `concepts/memory-utility-function.md`
+- `concepts/ai-ide-productivity-funnel.md`
+- ... 共 10 个页面
+
+
+### 自动修复操作
+
+#### index.md 更新
+- 检查所有 wiki 页面是否已添加到 index.md
+- 结果：所有 34 个 wiki 页面均已正确索引
+- 无需更新
+
+### 建议操作
+
+1. **高优先级**：修复损坏的 wikilinks
+   - 将 raw/articles/ 引用改为 frontmatter 中的 `sources` 字段
+   - 修正拼写错误的页面名称
+
+2. **中优先级**：拆分过长页面
+   - 优先处理超过 300 行的页面
+   - 创建子页面并添加交叉链接
+
+3. **低优先级**：
+   - 审查 AI 生成的页面（设置 `reviewed: true`）
+   - 为孤立页面添加入链引用
+
+### 下次检查
+- 建议频率：每周一次
+- 自动修复：index.md 同步，frontmatter 验证
+
+---
