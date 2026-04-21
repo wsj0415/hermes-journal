@@ -98,5 +98,5 @@ confidence_reason: 来自 SMF 官方开源文档，作者 Ashwin Gopinath
 
 ## 时间线
 
-- 2026-04-15: 初始创建，来源 [[ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]]
+- 2026-04-15: 初始创建，来源 [[raw/articles/ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14.md]]
 - 2026-04-15: 关联 [[knowledge-base-vs-memory]], [[filesystem-as-knowledge-graph]], [[bjork-disuse-theory]]

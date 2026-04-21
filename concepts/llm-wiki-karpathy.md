@@ -192,7 +192,7 @@ your-wiki/
 ## Conventions
 - 文件名：小写，连字符，无空格
 - 每个页面以 YAML frontmatter 开头
-- 使用 [[wikilinks]] 链接（每页至少 2 个）
+- 使用 wikilinks 链接（每页至少 2 个）
 - 更新时 bump updated 日期
 
 ## Frontmatter

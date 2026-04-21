@@ -107,13 +107,13 @@ Please read all sources and compile a structured wiki with:
 1. Individual summaries for each source (100-150 words each)
 2. Concept explanation articles for key ideas mentioned across sources
 3. Entity pages for people, organizations, and tools mentioned
-4. A master index file that lists all pages with [[wikilinks]] between them
+4. A master index file that lists all pages with wikilinks between them
 5. Cross-references showing how concepts connect
 
 Format everything as markdown with YAML frontmatter including:
 - title, created_date, source_count, tags, summary (50 words)
 
-Use kebab-case for all filenames. Create [[wikilinks]] for all concept references.
+Use kebab-case for all filenames. Create wikilinks for all concept references.
 ```
 
 **保存输出到 wiki 文件夹**。
@@ -124,10 +124,10 @@ Use kebab-case for all filenames. Create [[wikilinks]] for all concept reference
 
 **打开 Obsidian 的 Graph View**（Ctrl/Cmd+G）：
 - 笔记作为点
-- 由 AI 创建的 [[wikilinks]] 连接
+- 由 AI 创建的 wikilinks 连接
 - 你的知识库可视化为连接思想的网络
 
-**点击任何 [[linked concept]]**：
+**点击任何 linked concept**：
 - 如页面存在 → Obsidian 打开它
 - 如不存在 → Obsidian 提供创建它
 
@@ -149,7 +149,7 @@ Please:
 2. Identify 3-5 key concepts and create/update concept pages
 3. Identify entities (people, orgs, tools) and create/update entity pages
 4. Update the master index with new pages and summaries
-5. Create [[wikilinks]] from existing pages to new content
+5. Create wikilinks from existing pages to new content
 ```
 3. 保存输出到 wiki 文件夹
 
@@ -183,7 +183,7 @@ Please health-check my wiki index. Look for:
 
 1. Contradictions between different pages
 2. Gaps where concepts are mentioned but not explained
-3. Broken [[wikilinks]] pointing to non-existent pages
+3. Broken wikilinks pointing to non-existent pages
 4. Stale content that newer sources have superseded
 5. Missing cross-references between related concepts
 

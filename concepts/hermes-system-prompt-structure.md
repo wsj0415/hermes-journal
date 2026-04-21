@@ -67,7 +67,7 @@ Hermes 注册 51 个工具，会话按需加载约 30 个。
 
 ## 时间线
 
-- 2026-04-15: 初始创建，来源 [[lufzzliz-hermes-system-prompt-analysis-2026]]
+- 2026-04-15: 初始创建，来源 [[raw/articles/lufzzliz-hermes-system-prompt-analysis-2026.md]]
 
 ---
 
@@ -113,5 +113,5 @@ Skills 索引占 5,000 chars（~80+ 个 Skill）。
 
 ## 相关链接
 
-- [[lufzzliz-hermes-system-prompt-analysis-2026]] - 原始来源
+- [[raw/articles/lufzzliz-hermes-system-prompt-analysis-2026.md]] - 原始来源
 - [微信公众号版本](https://mp.weixin.qq.com/s/gM6mJsH0ay4Z7jkEBjGE0w)

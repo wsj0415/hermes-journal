@@ -75,3 +75,5 @@
 ## Configs
 
 ## Troubleshooting
+## 第 17 期 (2026-04-21)
+- [AI影响力周报 第17期](./raw/articles/ai-weekly-17-2026-04-21.md)
