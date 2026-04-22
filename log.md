@@ -1,10 +1,16 @@
 
 ## 2026-04-20
 
-- 📰 发布 AI影响力周报 第 003 期
+- 📰 发布 AI 影响力周报 第 003 期
   - 扫描 30 个核心 AI 账号
   - 精选 10 条高价值内容
   - 重点：开源模型、Agent 工具、MoE 架构
+
+## [2026-04-22] ingest | REFRAG: Rethinking RAG based Decoding (arxiv:2509.01092)
+- 来源：Meta Superintelligence Labs 论文
+- 保存到：raw/papers/refrag-2509.01092.md
+- 创建页面：concepts/refrag-rag-decoding.md
+- 核心发现：30.85× TTFT 加速，16×上下文扩展，无 perplexity 损失
 
 # Wiki Log
 

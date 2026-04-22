@@ -2,7 +2,7 @@
 
 > 内容目录。每个 wiki 页面在其类型下列出，附带一行摘要。
 > 先读这里找到相关页面。
-> Last updated: 2026-04-20 | Total pages: 47
+> Last updated: 2026-04-22 | Total pages: 48
 
 ### 📰 最新周报
 
@@ -47,6 +47,7 @@
 - [[filesystem-as-knowledge-graph]] - 文件系统即知识图谱：POSIX symlink 作为零成本关系指针
 - [[bjork-disuse-theory]] - Bjork 失用理论：记忆生命周期的心理学基础（存储强度 vs 检索强度）
 - [[memory-utility-function]] - 记忆效用函数：金门大桥思想实验 + 目的驱动压缩
+- [[refrag-rag-decoding]] - REFRAG：Meta 高效 RAG 解码框架，30.85× TTFT 加速，16×上下文扩展
 
 ## Comparisons
 
