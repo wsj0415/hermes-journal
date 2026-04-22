@@ -2,10 +2,11 @@
 
 > 内容目录。每个 wiki 页面在其类型下列出，附带一行摘要。
 > 先读这里找到相关页面。
-> Last updated: 2026-04-22 | Total pages: 48
+> Last updated: 2026-04-22 | Total pages: 50
 
 ### 📰 最新周报
 
+- [[ai-influence-weekly-report-018-2026-04-22|AI影响力周报 第 018 期]] (2026-04-22)
 - [[ai-influence-weekly-report-003-2026-04-20|AI影响力周报 第 003 期]] (2026-04-20)
 
 
@@ -53,6 +54,7 @@
 
 ## Queries
 
+- [[ai-evening-brief-2026-04-18]] - 今日晚报 AI Blog Watch：Anthropic 推 Design/Opus 4.7、Agent 向设计与长任务演进
 - [[wiki-health-check-improvements]] - Wiki 健康检查与改进方案：6 个问题 + 8 项改进建议
 - [[kilroy-cdn-migration-plan]] - kilroy-cdn 迁移计划：核心资产和内容迁移方案
 - [[kilroy-cdn-batch-migration-complete]] - kilroy-cdn 批量迁移完成：77 个文件迁移清单
@@ -76,5 +78,8 @@
 ## Configs
 
 ## Troubleshooting
+## 第 18 期 (2026-04-22)
+- [AI影响力周报 第 18 期](./raw/articles/ai-influence-weekly-report-018-2026-04-22.md)
+
 ## 第 17 期 (2026-04-21)
-- [AI影响力周报 第17期](./raw/articles/ai-weekly-17-2026-04-21.md)
+- [AI影响力周报 第 17 期](./raw/articles/ai-weekly-17-2026-04-21.md)

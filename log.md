@@ -3690,3 +3690,537 @@ Total issues found: 90
 
 *下次健康检查 scheduled: 2026-04-22 09:00 AM*
 - [2026-04-21 09:19] AI影响力周报 第17期 生成并同步
+
+---
+## Wiki Lint Check - 2026-04-22 09:03:34
+
+# Wiki 健康检查报告
+生成时间：2026-04-22 09:03:34
+
+## 统计摘要
+- 扫描页面数：37
+- 发现问题总数：68
+- 孤立页面：12
+- 已审查页面：0/37
+
+## 高严重性问题
+- **kilroy-cdn-migration-plan.md**: broken_link - 损坏的 wikilink: [[ ]] -> 目标文件不存在
+  - 文件：`/root/hermes-journal/queries/kilroy-cdn-migration-plan.md`
+  - 建议：立即修复
+- **kilroy-cdn-migration-plan.md**: broken_link - 损坏的 wikilink: [[ ]] -> 目标文件不存在
+  - 文件：`/root/hermes-journal/queries/kilroy-cdn-migration-plan.md`
+  - 建议：立即修复
+
+## 中严重性问题
+- **hermes-system-prompt-structure.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/hermes-system-prompt-structure.md`
+  - 建议：尽快处理
+- **llm-knowledge-base-complete-guide.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/llm-knowledge-base-complete-guide.md`
+  - 建议：尽快处理
+- **llm-knowledge-base-complete-guide.md**: too_long - 页面超过 200 行 (401 行)，建议拆分
+  - 文件：`/root/hermes-journal/concepts/llm-knowledge-base-complete-guide.md`
+  - 建议：尽快处理
+- **how-to-make-money-with-claude-code.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/how-to-make-money-with-claude-code.md`
+  - 建议：尽快处理
+- **how-to-make-money-with-claude-code.md**: too_long - 页面超过 200 行 (332 行)，建议拆分
+  - 文件：`/root/hermes-journal/concepts/how-to-make-money-with-claude-code.md`
+  - 建议：尽快处理
+- **awesome-openclaw-tips.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/awesome-openclaw-tips.md`
+  - 建议：尽快处理
+- **awesome-openclaw-tips.md**: invalid_tag - 标签 "openclaw" 不在 SCHEMA 分类法中
+  - 文件：`/root/hermes-journal/concepts/awesome-openclaw-tips.md`
+  - 建议：尽快处理
+- **awesome-openclaw-tips.md**: too_long - 页面超过 200 行 (473 行)，建议拆分
+  - 文件：`/root/hermes-journal/concepts/awesome-openclaw-tips.md`
+  - 建议：尽快处理
+- **refrag-rag-decoding.md**: invalid_tag - 标签 "rag" 不在 SCHEMA 分类法中
+  - 文件：`/root/hermes-journal/concepts/refrag-rag-decoding.md`
+  - 建议：尽快处理
+- **refrag-rag-decoding.md**: invalid_tag - 标签 "optimization" 不在 SCHEMA 分类法中
+  - 文件：`/root/hermes-journal/concepts/refrag-rag-decoding.md`
+  - 建议：尽快处理
+- **refrag-rag-decoding.md**: invalid_tag - 标签 "meta" 不在 SCHEMA 分类法中
+  - 文件：`/root/hermes-journal/concepts/refrag-rag-decoding.md`
+  - 建议：尽快处理
+- **notebooklm-content-factory-workflow.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/notebooklm-content-factory-workflow.md`
+  - 建议：尽快处理
+- **notebooklm-content-factory-workflow.md**: invalid_tag - 标签 "youtube" 不在 SCHEMA 分类法中
+  - 文件：`/root/hermes-journal/concepts/notebooklm-content-factory-workflow.md`
+  - 建议：尽快处理
+- **notebooklm-content-factory-workflow.md**: invalid_tag - 标签 "notebooklm" 不在 SCHEMA 分类法中
+  - 文件：`/root/hermes-journal/concepts/notebooklm-content-factory-workflow.md`
+  - 建议：尽快处理
+- **notebooklm-content-factory-workflow.md**: too_long - 页面超过 200 行 (253 行)，建议拆分
+  - 文件：`/root/hermes-journal/concepts/notebooklm-content-factory-workflow.md`
+  - 建议：尽快处理
+- **llm-council-method-karpathy.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/llm-council-method-karpathy.md`
+  - 建议：尽快处理
+- **llm-council-method-karpathy.md**: invalid_tag - 标签 "karpathy" 不在 SCHEMA 分类法中
+  - 文件：`/root/hermes-journal/concepts/llm-council-method-karpathy.md`
+  - 建议：尽快处理
+- **llm-council-method-karpathy.md**: too_long - 页面超过 200 行 (293 行)，建议拆分
+  - 文件：`/root/hermes-journal/concepts/llm-council-method-karpathy.md`
+  - 建议：尽快处理
+- **dario-amodei-ai-career-predictions.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/dario-amodei-ai-career-predictions.md`
+  - 建议：尽快处理
+- **dario-amodei-ai-career-predictions.md**: too_long - 页面超过 200 行 (411 行)，建议拆分
+  - 文件：`/root/hermes-journal/concepts/dario-amodei-ai-career-predictions.md`
+  - 建议：尽快处理
+- **filesystem-as-knowledge-graph.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/filesystem-as-knowledge-graph.md`
+  - 建议：尽快处理
+- **ai-engineering-from-scratch.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/ai-engineering-from-scratch.md`
+  - 建议：尽快处理
+- **ai-engineering-from-scratch.md**: too_long - 页面超过 200 行 (222 行)，建议拆分
+  - 文件：`/root/hermes-journal/concepts/ai-engineering-from-scratch.md`
+  - 建议：尽快处理
+- **ai-influence-weekly-digest.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/ai-influence-weekly-digest.md`
+  - 建议：尽快处理
+- **memory-utility-function.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/memory-utility-function.md`
+  - 建议：尽快处理
+- **openclaw-complete-guide.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/openclaw-complete-guide.md`
+  - 建议：尽快处理
+- **openclaw-complete-guide.md**: invalid_tag - 标签 "openclaw" 不在 SCHEMA 分类法中
+  - 文件：`/root/hermes-journal/concepts/openclaw-complete-guide.md`
+  - 建议：尽快处理
+- **openclaw-complete-guide.md**: too_long - 页面超过 200 行 (305 行)，建议拆分
+  - 文件：`/root/hermes-journal/concepts/openclaw-complete-guide.md`
+  - 建议：尽快处理
+- **ai-ide-productivity-funnel.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/ai-ide-productivity-funnel.md`
+  - 建议：尽快处理
+- **smf-semantic-memory-framework.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/smf-semantic-memory-framework.md`
+  - 建议：尽快处理
+- **llm-wiki-karpathy.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/llm-wiki-karpathy.md`
+  - 建议：尽快处理
+- **llm-wiki-karpathy.md**: too_long - 页面超过 200 行 (266 行)，建议拆分
+  - 文件：`/root/hermes-journal/concepts/llm-wiki-karpathy.md`
+  - 建议：尽快处理
+- **claude-alternatives-guide.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/claude-alternatives-guide.md`
+  - 建议：尽快处理
+- **claude-alternatives-guide.md**: too_long - 页面超过 200 行 (306 行)，建议拆分
+  - 文件：`/root/hermes-journal/concepts/claude-alternatives-guide.md`
+  - 建议：尽快处理
+- **visual-explainer.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/visual-explainer.md`
+  - 建议：尽快处理
+- **visual-explainer.md**: too_long - 页面超过 200 行 (241 行)，建议拆分
+  - 文件：`/root/hermes-journal/concepts/visual-explainer.md`
+  - 建议：尽快处理
+- **self-improving-agent-system-prompt.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/self-improving-agent-system-prompt.md`
+  - 建议：尽快处理
+- **claude-code-best-practices.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/claude-code-best-practices.md`
+  - 建议：尽快处理
+- **most-capable-agent-system-prompt.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/most-capable-agent-system-prompt.md`
+  - 建议：尽快处理
+- **most-capable-agent-system-prompt.md**: too_long - 页面超过 200 行 (401 行)，建议拆分
+  - 文件：`/root/hermes-journal/concepts/most-capable-agent-system-prompt.md`
+  - 建议：尽快处理
+- **12-agentic-harness-patterns.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/12-agentic-harness-patterns.md`
+  - 建议：尽快处理
+- **12-agentic-harness-patterns.md**: too_long - 页面超过 200 行 (337 行)，建议拆分
+  - 文件：`/root/hermes-journal/concepts/12-agentic-harness-patterns.md`
+  - 建议：尽快处理
+- **cli-design-for-agents-and-humans.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/cli-design-for-agents-and-humans.md`
+  - 建议：尽快处理
+- **cli-design-for-agents-and-humans.md**: too_long - 页面超过 200 行 (355 行)，建议拆分
+  - 文件：`/root/hermes-journal/concepts/cli-design-for-agents-and-humans.md`
+  - 建议：尽快处理
+- **agentmemory-persistent-memory.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/agentmemory-persistent-memory.md`
+  - 建议：尽快处理
+- **agentmemory-persistent-memory.md**: too_long - 页面超过 200 行 (247 行)，建议拆分
+  - 文件：`/root/hermes-journal/concepts/agentmemory-persistent-memory.md`
+  - 建议：尽快处理
+- **knowledge-base-vs-memory.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/knowledge-base-vs-memory.md`
+  - 建议：尽快处理
+- **bjork-disuse-theory.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/bjork-disuse-theory.md`
+  - 建议：尽快处理
+- **agent-harness.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/agent-harness.md`
+  - 建议：尽快处理
+- **claude-md-three-blocks-learning-system.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/claude-md-three-blocks-learning-system.md`
+  - 建议：尽快处理
+- **claude-md-three-blocks-learning-system.md**: too_long - 页面超过 200 行 (347 行)，建议拆分
+  - 文件：`/root/hermes-journal/concepts/claude-md-three-blocks-learning-system.md`
+  - 建议：尽快处理
+- **second-brain-karpathy-style.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/second-brain-karpathy-style.md`
+  - 建议：尽快处理
+- **second-brain-karpathy-style.md**: too_long - 页面超过 200 行 (300 行)，建议拆分
+  - 文件：`/root/hermes-journal/concepts/second-brain-karpathy-style.md`
+  - 建议：尽快处理
+- **agent-memory-architecture.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/agent-memory-architecture.md`
+  - 建议：尽快处理
+- **agent-memory-architecture.md**: too_long - 页面超过 200 行 (329 行)，建议拆分
+  - 文件：`/root/hermes-journal/concepts/agent-memory-architecture.md`
+  - 建议：尽快处理
+- **ai-knowledge-layer-two-tier.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/ai-knowledge-layer-two-tier.md`
+  - 建议：尽快处理
+- **ai-knowledge-layer-two-tier.md**: too_long - 页面超过 200 行 (395 行)，建议拆分
+  - 文件：`/root/hermes-journal/concepts/ai-knowledge-layer-two-tier.md`
+  - 建议：尽快处理
+- **karpathy-ai-engineering.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/entities/karpathy-ai-engineering.md`
+  - 建议：尽快处理
+- **ai-influence-accounts-65.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/entities/ai-influence-accounts-65.md`
+  - 建议：尽快处理
+- **wiki-health-check-improvements.md**: too_long - 页面超过 200 行 (211 行)，建议拆分
+  - 文件：`/root/hermes-journal/queries/wiki-health-check-improvements.md`
+  - 建议：尽快处理
+- **kilroy-cdn-migration-plan.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/queries/kilroy-cdn-migration-plan.md`
+  - 建议：尽快处理
+- **ai-evening-brief-2026-04-18.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/queries/ai-evening-brief-2026-04-18.md`
+  - 建议：尽快处理
+- **kilroy-cdn-batch-migration-complete.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/queries/kilroy-cdn-batch-migration-complete.md`
+  - 建议：尽快处理
+
+## 低严重性问题
+- **ai-influence-weekly-digest.md**: few_wikilinks - 只有 0 个 wikilinks（建议至少 2 个）
+  - 文件：`/root/hermes-journal/concepts/ai-influence-weekly-digest.md`
+  - 建议：有空时优化
+- **ai-influence-accounts-65.md**: few_wikilinks - 只有 1 个 wikilinks（建议至少 2 个）
+  - 文件：`/root/hermes-journal/entities/ai-influence-accounts-65.md`
+  - 建议：有空时优化
+- **kilroy-cdn-batch-migration-complete.md**: few_wikilinks - 只有 1 个 wikilinks（建议至少 2 个）
+  - 文件：`/root/hermes-journal/queries/kilroy-cdn-batch-migration-complete.md`
+  - 建议：有空时优化
+
+## 孤立页面（无入链）
+- `awesome-openclaw-tips.md`
+  - 路径：`/root/hermes-journal/concepts/awesome-openclaw-tips.md`
+  - 建议：添加引用或删除页面
+- `refrag-rag-decoding.md`
+  - 路径：`/root/hermes-journal/concepts/refrag-rag-decoding.md`
+  - 建议：添加引用或删除页面
+- `llm-council-method-karpathy.md`
+  - 路径：`/root/hermes-journal/concepts/llm-council-method-karpathy.md`
+  - 建议：添加引用或删除页面
+- `dario-amodei-ai-career-predictions.md`
+  - 路径：`/root/hermes-journal/concepts/dario-amodei-ai-career-predictions.md`
+  - 建议：添加引用或删除页面
+- `memory-utility-function.md`
+  - 路径：`/root/hermes-journal/concepts/memory-utility-function.md`
+  - 建议：添加引用或删除页面
+- `ai-ide-productivity-funnel.md`
+  - 路径：`/root/hermes-journal/concepts/ai-ide-productivity-funnel.md`
+  - 建议：添加引用或删除页面
+- `visual-explainer.md`
+  - 路径：`/root/hermes-journal/concepts/visual-explainer.md`
+  - 建议：添加引用或删除页面
+- `self-improving-agent-system-prompt.md`
+  - 路径：`/root/hermes-journal/concepts/self-improving-agent-system-prompt.md`
+  - 建议：添加引用或删除页面
+- `karpathy-ai-engineering.md`
+  - 路径：`/root/hermes-journal/entities/karpathy-ai-engineering.md`
+  - 建议：添加引用或删除页面
+- `ai-influence-accounts-65.md`
+  - 路径：`/root/hermes-journal/entities/ai-influence-accounts-65.md`
+  - 建议：添加引用或删除页面
+- `ai-evening-brief-2026-04-18.md`
+  - 路径：`/root/hermes-journal/queries/ai-evening-brief-2026-04-18.md`
+  - 建议：添加引用或删除页面
+- `kilroy-cdn-batch-migration-complete.md`
+  - 路径：`/root/hermes-journal/queries/kilroy-cdn-batch-migration-complete.md`
+  - 建议：添加引用或删除页面
+
+## 自动修复
+- index.md 检查完成
+
+---
+
+---
+## Wiki Lint Check - 2026-04-22 09:06:37
+
+# Wiki 健康检查报告
+生成时间：2026-04-22 09:06:37
+
+## 统计摘要
+- 扫描页面数：37
+- 发现问题总数：61
+- 孤立页面：12
+- 已审查页面：0/37
+
+## 高严重性问题
+无高严重性问题
+
+## 中严重性问题
+- **hermes-system-prompt-structure.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/hermes-system-prompt-structure.md`
+  - 建议：尽快处理
+- **llm-knowledge-base-complete-guide.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/llm-knowledge-base-complete-guide.md`
+  - 建议：尽快处理
+- **llm-knowledge-base-complete-guide.md**: too_long - 页面超过 200 行 (401 行)，建议拆分
+  - 文件：`/root/hermes-journal/concepts/llm-knowledge-base-complete-guide.md`
+  - 建议：尽快处理
+- **how-to-make-money-with-claude-code.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/how-to-make-money-with-claude-code.md`
+  - 建议：尽快处理
+- **how-to-make-money-with-claude-code.md**: too_long - 页面超过 200 行 (332 行)，建议拆分
+  - 文件：`/root/hermes-journal/concepts/how-to-make-money-with-claude-code.md`
+  - 建议：尽快处理
+- **awesome-openclaw-tips.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/awesome-openclaw-tips.md`
+  - 建议：尽快处理
+- **awesome-openclaw-tips.md**: too_long - 页面超过 200 行 (473 行)，建议拆分
+  - 文件：`/root/hermes-journal/concepts/awesome-openclaw-tips.md`
+  - 建议：尽快处理
+- **refrag-rag-decoding.md**: invalid_tag - 标签 "rag" 不在 SCHEMA 分类法中
+  - 文件：`/root/hermes-journal/concepts/refrag-rag-decoding.md`
+  - 建议：尽快处理
+- **refrag-rag-decoding.md**: invalid_tag - 标签 "optimization" 不在 SCHEMA 分类法中
+  - 文件：`/root/hermes-journal/concepts/refrag-rag-decoding.md`
+  - 建议：尽快处理
+- **refrag-rag-decoding.md**: invalid_tag - 标签 "meta" 不在 SCHEMA 分类法中
+  - 文件：`/root/hermes-journal/concepts/refrag-rag-decoding.md`
+  - 建议：尽快处理
+- **notebooklm-content-factory-workflow.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/notebooklm-content-factory-workflow.md`
+  - 建议：尽快处理
+- **notebooklm-content-factory-workflow.md**: too_long - 页面超过 200 行 (253 行)，建议拆分
+  - 文件：`/root/hermes-journal/concepts/notebooklm-content-factory-workflow.md`
+  - 建议：尽快处理
+- **llm-council-method-karpathy.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/llm-council-method-karpathy.md`
+  - 建议：尽快处理
+- **llm-council-method-karpathy.md**: too_long - 页面超过 200 行 (293 行)，建议拆分
+  - 文件：`/root/hermes-journal/concepts/llm-council-method-karpathy.md`
+  - 建议：尽快处理
+- **dario-amodei-ai-career-predictions.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/dario-amodei-ai-career-predictions.md`
+  - 建议：尽快处理
+- **dario-amodei-ai-career-predictions.md**: too_long - 页面超过 200 行 (411 行)，建议拆分
+  - 文件：`/root/hermes-journal/concepts/dario-amodei-ai-career-predictions.md`
+  - 建议：尽快处理
+- **filesystem-as-knowledge-graph.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/filesystem-as-knowledge-graph.md`
+  - 建议：尽快处理
+- **ai-engineering-from-scratch.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/ai-engineering-from-scratch.md`
+  - 建议：尽快处理
+- **ai-engineering-from-scratch.md**: too_long - 页面超过 200 行 (222 行)，建议拆分
+  - 文件：`/root/hermes-journal/concepts/ai-engineering-from-scratch.md`
+  - 建议：尽快处理
+- **ai-influence-weekly-digest.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/ai-influence-weekly-digest.md`
+  - 建议：尽快处理
+- **memory-utility-function.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/memory-utility-function.md`
+  - 建议：尽快处理
+- **openclaw-complete-guide.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/openclaw-complete-guide.md`
+  - 建议：尽快处理
+- **openclaw-complete-guide.md**: too_long - 页面超过 200 行 (305 行)，建议拆分
+  - 文件：`/root/hermes-journal/concepts/openclaw-complete-guide.md`
+  - 建议：尽快处理
+- **ai-ide-productivity-funnel.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/ai-ide-productivity-funnel.md`
+  - 建议：尽快处理
+- **smf-semantic-memory-framework.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/smf-semantic-memory-framework.md`
+  - 建议：尽快处理
+- **llm-wiki-karpathy.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/llm-wiki-karpathy.md`
+  - 建议：尽快处理
+- **llm-wiki-karpathy.md**: too_long - 页面超过 200 行 (266 行)，建议拆分
+  - 文件：`/root/hermes-journal/concepts/llm-wiki-karpathy.md`
+  - 建议：尽快处理
+- **claude-alternatives-guide.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/claude-alternatives-guide.md`
+  - 建议：尽快处理
+- **claude-alternatives-guide.md**: too_long - 页面超过 200 行 (306 行)，建议拆分
+  - 文件：`/root/hermes-journal/concepts/claude-alternatives-guide.md`
+  - 建议：尽快处理
+- **visual-explainer.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/visual-explainer.md`
+  - 建议：尽快处理
+- **visual-explainer.md**: too_long - 页面超过 200 行 (241 行)，建议拆分
+  - 文件：`/root/hermes-journal/concepts/visual-explainer.md`
+  - 建议：尽快处理
+- **self-improving-agent-system-prompt.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/self-improving-agent-system-prompt.md`
+  - 建议：尽快处理
+- **claude-code-best-practices.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/claude-code-best-practices.md`
+  - 建议：尽快处理
+- **most-capable-agent-system-prompt.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/most-capable-agent-system-prompt.md`
+  - 建议：尽快处理
+- **most-capable-agent-system-prompt.md**: too_long - 页面超过 200 行 (401 行)，建议拆分
+  - 文件：`/root/hermes-journal/concepts/most-capable-agent-system-prompt.md`
+  - 建议：尽快处理
+- **12-agentic-harness-patterns.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/12-agentic-harness-patterns.md`
+  - 建议：尽快处理
+- **12-agentic-harness-patterns.md**: too_long - 页面超过 200 行 (337 行)，建议拆分
+  - 文件：`/root/hermes-journal/concepts/12-agentic-harness-patterns.md`
+  - 建议：尽快处理
+- **cli-design-for-agents-and-humans.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/cli-design-for-agents-and-humans.md`
+  - 建议：尽快处理
+- **cli-design-for-agents-and-humans.md**: too_long - 页面超过 200 行 (355 行)，建议拆分
+  - 文件：`/root/hermes-journal/concepts/cli-design-for-agents-and-humans.md`
+  - 建议：尽快处理
+- **agentmemory-persistent-memory.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/agentmemory-persistent-memory.md`
+  - 建议：尽快处理
+- **agentmemory-persistent-memory.md**: too_long - 页面超过 200 行 (247 行)，建议拆分
+  - 文件：`/root/hermes-journal/concepts/agentmemory-persistent-memory.md`
+  - 建议：尽快处理
+- **knowledge-base-vs-memory.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/knowledge-base-vs-memory.md`
+  - 建议：尽快处理
+- **bjork-disuse-theory.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/bjork-disuse-theory.md`
+  - 建议：尽快处理
+- **agent-harness.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/agent-harness.md`
+  - 建议：尽快处理
+- **claude-md-three-blocks-learning-system.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/claude-md-three-blocks-learning-system.md`
+  - 建议：尽快处理
+- **claude-md-three-blocks-learning-system.md**: too_long - 页面超过 200 行 (347 行)，建议拆分
+  - 文件：`/root/hermes-journal/concepts/claude-md-three-blocks-learning-system.md`
+  - 建议：尽快处理
+- **second-brain-karpathy-style.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/second-brain-karpathy-style.md`
+  - 建议：尽快处理
+- **second-brain-karpathy-style.md**: too_long - 页面超过 200 行 (300 行)，建议拆分
+  - 文件：`/root/hermes-journal/concepts/second-brain-karpathy-style.md`
+  - 建议：尽快处理
+- **agent-memory-architecture.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/agent-memory-architecture.md`
+  - 建议：尽快处理
+- **agent-memory-architecture.md**: too_long - 页面超过 200 行 (329 行)，建议拆分
+  - 文件：`/root/hermes-journal/concepts/agent-memory-architecture.md`
+  - 建议：尽快处理
+- **ai-knowledge-layer-two-tier.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/concepts/ai-knowledge-layer-two-tier.md`
+  - 建议：尽快处理
+- **ai-knowledge-layer-two-tier.md**: too_long - 页面超过 200 行 (395 行)，建议拆分
+  - 文件：`/root/hermes-journal/concepts/ai-knowledge-layer-two-tier.md`
+  - 建议：尽快处理
+- **karpathy-ai-engineering.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/entities/karpathy-ai-engineering.md`
+  - 建议：尽快处理
+- **ai-influence-accounts-65.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/entities/ai-influence-accounts-65.md`
+  - 建议：尽快处理
+- **wiki-health-check-improvements.md**: too_long - 页面超过 200 行 (211 行)，建议拆分
+  - 文件：`/root/hermes-journal/queries/wiki-health-check-improvements.md`
+  - 建议：尽快处理
+- **kilroy-cdn-migration-plan.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/queries/kilroy-cdn-migration-plan.md`
+  - 建议：尽快处理
+- **ai-evening-brief-2026-04-18.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/queries/ai-evening-brief-2026-04-18.md`
+  - 建议：尽快处理
+- **kilroy-cdn-batch-migration-complete.md**: unreviewed - 未审查页面 (reviewed: false)
+  - 文件：`/root/hermes-journal/queries/kilroy-cdn-batch-migration-complete.md`
+  - 建议：尽快处理
+
+## 低严重性问题
+- **ai-influence-weekly-digest.md**: few_wikilinks - 只有 0 个 wikilinks（建议至少 2 个）
+  - 文件：`/root/hermes-journal/concepts/ai-influence-weekly-digest.md`
+  - 建议：有空时优化
+- **ai-influence-accounts-65.md**: few_wikilinks - 只有 1 个 wikilinks（建议至少 2 个）
+  - 文件：`/root/hermes-journal/entities/ai-influence-accounts-65.md`
+  - 建议：有空时优化
+- **kilroy-cdn-batch-migration-complete.md**: few_wikilinks - 只有 1 个 wikilinks（建议至少 2 个）
+  - 文件：`/root/hermes-journal/queries/kilroy-cdn-batch-migration-complete.md`
+  - 建议：有空时优化
+
+## 孤立页面（无入链）
+- `awesome-openclaw-tips.md`
+  - 路径：`/root/hermes-journal/concepts/awesome-openclaw-tips.md`
+  - 建议：添加引用或删除页面
+- `refrag-rag-decoding.md`
+  - 路径：`/root/hermes-journal/concepts/refrag-rag-decoding.md`
+  - 建议：添加引用或删除页面
+- `llm-council-method-karpathy.md`
+  - 路径：`/root/hermes-journal/concepts/llm-council-method-karpathy.md`
+  - 建议：添加引用或删除页面
+- `dario-amodei-ai-career-predictions.md`
+  - 路径：`/root/hermes-journal/concepts/dario-amodei-ai-career-predictions.md`
+  - 建议：添加引用或删除页面
+- `memory-utility-function.md`
+  - 路径：`/root/hermes-journal/concepts/memory-utility-function.md`
+  - 建议：添加引用或删除页面
+- `ai-ide-productivity-funnel.md`
+  - 路径：`/root/hermes-journal/concepts/ai-ide-productivity-funnel.md`
+  - 建议：添加引用或删除页面
+- `visual-explainer.md`
+  - 路径：`/root/hermes-journal/concepts/visual-explainer.md`
+  - 建议：添加引用或删除页面
+- `self-improving-agent-system-prompt.md`
+  - 路径：`/root/hermes-journal/concepts/self-improving-agent-system-prompt.md`
+  - 建议：添加引用或删除页面
+- `karpathy-ai-engineering.md`
+  - 路径：`/root/hermes-journal/entities/karpathy-ai-engineering.md`
+  - 建议：添加引用或删除页面
+- `ai-influence-accounts-65.md`
+  - 路径：`/root/hermes-journal/entities/ai-influence-accounts-65.md`
+  - 建议：添加引用或删除页面
+- `ai-evening-brief-2026-04-18.md`
+  - 路径：`/root/hermes-journal/queries/ai-evening-brief-2026-04-18.md`
+  - 建议：添加引用或删除页面
+- `kilroy-cdn-batch-migration-complete.md`
+  - 路径：`/root/hermes-journal/queries/kilroy-cdn-batch-migration-complete.md`
+  - 建议：添加引用或删除页面
+
+## 自动修复
+- index.md 检查完成
+
+---
+
+## 自动修复执行记录
+
+### 2026-04-22 09:06 健康检查自动修复
+
+**修复项 1: 更新 index.md**
+- 发现缺失页面：`ai-evening-brief-2026-04-18.md`
+- 操作：添加到 Queries 部分
+- 更新 Total pages: 48 → 49
+
+**修复状态**: ✅ 完成
+
+---
+
+## [2026-04-22] ingest | AI影响力周报 第 018 期
+- 来源：Google 搜索 + 公开页面抓取（20 个 AI 领域核心账号）
+- 保存到：raw/articles/ai-influence-weekly-report-018-2026-04-22.md
+- 精选内容：
+  - Kimi Muon 优化器技术报告
+  - Sam Altman：AI 赋能个人研发（mRNA 疫苗案例）
+  - Karpathy：定制化软件时代展望
+  - swyx：Devin 异步 Agent 增长策略
+- 更新：index.md（最新周报）
+
