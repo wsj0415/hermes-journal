@@ -29,18 +29,20 @@ confidence_reason:       # 填写置信度依据
 ```
 
 ## Tag Taxonomy
-- 平台：telegram, whatsapp, discord, sms, web
-- 功能：skills, cron, memory, browser, terminal, delegation, mcp
+- 平台：telegram, whatsapp, discord, sms, web, android
+- 功能：skills, cron, memory, browser, terminal, delegation, mcp, automation
 - 任务类型：config, troubleshooting, best-practice, workflow, api-reference
-- 模型：model-config, provider, quantization, inference
+- 模型：model-config, provider, quantization, inference, rag, optimization
 - 开发：skill-development, debugging, testing, deployment
 - 架构：architecture, agent-architecture, knowledge-base, vector-search, graph
 - 内容：brand-foundation
-- 人物/来源：karpathy, amodei
-- 主题：monetization, career, ai-trends, education, curriculum, decision-making
-- 工具/框架：openclaw, notebooklm, youtube
+- 人物/来源：karpathy, amodei, hermes-power-user
+- 主题：monetization, career, ai-trends, education, curriculum, decision-making, meta
+- 工具/框架：openclaw, notebooklm, youtube, openrouter, termux
 - 设计：agent-design, system-prompt, cli, ux, visualization, html, agent-setup
 - 元数据：tips, content-creation, company, person
+- 部署：mobile-deployment, always-on
+- 成本：token-optimization, cost-reduction
 
 规则：页面上的每个标签必须出现在此分类法中。需要新标签时，先添加到这里再使用。
 

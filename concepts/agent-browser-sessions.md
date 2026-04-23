@@ -1,3 +1,15 @@
+---
+title: Agent Browser Sessions 管理
+created: 2026-04-23
+updated: 2026-04-23
+type: concept
+tags: [browser, automation, config]
+sources: [raw/articles/nottelabs-session-profiles-2026-02.md]
+reviewed: false
+confidence: medium
+confidence_reason: 基于 agent-browser.dev 文档
+---
+
 # agent-browser Sessions 文档
 
 **来源**: agent-browser.dev  

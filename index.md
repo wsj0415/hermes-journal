@@ -2,7 +2,7 @@
 
 > 内容目录。每个 wiki 页面在其类型下列出，附带一行摘要。
 > 先读这里找到相关页面。
-> Last updated: 2026-04-23 | Total pages: 56
+> Last updated: 2026-04-23 | Total pages: 59
 
 ### 📰 最新周报
 
@@ -48,6 +48,9 @@
 - [[smf-semantic-memory-framework]] - SMF 语义记忆框架：symlink 图谱 + 8 实体类型 + 14 检索通道
 - [[knowledge-base-vs-memory]] - 知识库 vs 记忆系统：核心区别 + 效用函数问题
 - [[filesystem-as-knowledge-graph]] - 文件系统即知识图谱：POSIX symlink 作为零成本关系指针
+- [[hermes-android-deployment]] - Hermes Android 部署模式：Termux + Termux API 实现手机端常开 agent
+- [[hermes-best-practices]] - Hermes 最佳实践汇总：官方指南 + 深度用户实证经验（Kevin Simback / Imran）
+- [[hermes-token-optimization]] - Hermes Token 优化策略：OpenRouter + 模型轮换，90% 成本降低
 - [[bjork-disuse-theory]] - Bjork 失用理论：记忆生命周期的心理学基础（存储强度 vs 检索强度）
 - [[memory-utility-function]] - 记忆效用函数：金门大桥思想实验 + 目的驱动压缩
 - [[refrag-rag-decoding]] - REFRAG：Meta 高效 RAG 解码框架，30.85× TTFT 加速，16×上下文扩展
@@ -85,3 +88,6 @@
 
 ## 第 17 期 (2026-04-21)
 - [AI影响力周报 第 17 期](./raw/articles/ai-weekly-17-2026-04-21.md)
+
+## 最新文章
+- 2026-04-23 [AI影响力周报 第17期](raw/articles/ai-influence-digest-week17-2026-04-23.md) - AI 领域大佬推文精选
