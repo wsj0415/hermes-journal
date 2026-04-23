@@ -2,7 +2,7 @@
 
 > 内容目录。每个 wiki 页面在其类型下列出，附带一行摘要。
 > 先读这里找到相关页面。
-> Last updated: 2026-04-22 | Total pages: 50
+> Last updated: 2026-04-23 | Total pages: 56
 
 ### 📰 最新周报
 
@@ -14,10 +14,12 @@
 <!-- 按字母顺序排列 -->
 
 - [[ai-influence-accounts-65]] - AI 影响力账号清单：65 个核心账号分类 (模型厂商/研究机构/技术领袖/投资人/工程实践者)
+- [[imran-hermes-power-user]] - Imran (@imranye)：Hermes 深度用户，基金从业者，90% token 成本降低实证
 - [[karpathy-ai-engineering]] - Karpathy 的 AI 工程理念：Flow > Prompt，LLM 知识库模式
 
 ## Concepts
 
+- [[agent-browser-sessions]] - agent-browser Session 管理：多隔离浏览器实例 + 持久化认证状态
 - [[ai-ide-productivity-funnel]] - AI IDE 生产力漏斗模型：Google 实证研究，5 层漏斗解释 AI 功能为何无法产生实际影响
 - [[ai-influence-weekly-digest]] - AI 影响力周报模式：自动化内容筛选系统，65 个账号中捕捉高价值信息
 - [[claude-code-best-practices]] - Claude Code 最佳实践：会话管理/1M 上下文/Prompt Hooks

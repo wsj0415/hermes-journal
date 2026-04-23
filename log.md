@@ -6,6 +6,29 @@
   - 精选 10 条高价值内容
   - 重点：开源模型、Agent 工具、MoE 架构
 
+## [2026-04-23] ingest | NeoAI 帖子 + Session Profiles 文档
+- 来源 1: @NeoAIForecast X 帖子（关于 agent browser 登录 session 持久化问题）
+- 来源 2: Notte Labs Medium 文章 - Session Profiles 概念
+- 来源 3: agent-browser.dev Sessions 文档
+- 保存到：raw/articles/nottelabs-session-profiles-2026-02.md
+- 创建页面：concepts/agent-browser-sessions.md
+- 核心发现：Chrome profile 复用 + remote debugging 导入 auth state 两种模式
+
+## [2026-04-23] ingest | Startup Ideas Podcast - Imran Hermes 深度使用案例
+- 来源：The Startup Ideas Podcast @startupideaspod
+- 保存到：raw/articles/startup-ideas-pod-hermes-imran-2026-04.md
+- 创建页面：
+  - entities/imran-hermes-power-user.md
+  - concepts/hermes-token-optimization.md（90% 成本降低策略）
+  - concepts/hermes-android-deployment.md（Termux + 真实设备）
+  - concepts/hermes-best-practices.md（综合官方指南 + 实证经验）
+- 核心发现：OpenRouter + 代码化重复任务 = $130/5 天→$10/5 天
+
+## [2026-04-23] ingest | Kevin Simback - Hermes 完全新手指南
+- 来源：Kevin Simback X 帖子 + Hermes Atlas 官方指南
+- 保存到：raw/articles/ksimback-hermes-beginners-guide-2026-04.md
+- 核心发现：Harness Engineering 理念，学习循环是核心功能
+
 ## [2026-04-22] ingest | REFRAG: Rethinking RAG based Decoding (arxiv:2509.01092)
 - 来源：Meta Superintelligence Labs 论文
 - 保存到：raw/papers/refrag-2509.01092.md
