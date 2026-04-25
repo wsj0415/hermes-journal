@@ -5363,3 +5363,113 @@ Total issues found: 90
 - 更新：index.md, log.md
 - 趋势：AI Agent 平台化、Claude Code 生态成熟、开源模型持续追赶、基础设施竞争加剧
 
+---
+
+## Wiki 健康检查报告 — 2026-04-25
+
+**扫描范围**: concepts/, entities/, comparisons/, queries/
+**总页面数**: 42
+**发现问题总数**: 55
+
+### 1. 🔴 高 — 损坏的 Wikilinks（4 个）
+
+| 源页面 | 目标链接 | 原因 |
+|--------|----------|------|
+| `concepts/agent-browser-sessions.md` | `[[hermes-browser-automation]]` | 无对应 wiki 页面或 raw 文件 |
+| `concepts/hermes-android-deployment.md` | `[[hermes-security-setup]]` | 无对应 wiki 页面或 raw 文件 |
+| `concepts/hermes-android-deployment.md` | `[[termux-api-reference]]` | 无对应 wiki 页面或 raw 文件 |
+| `concepts/hermes-token-optimization.md` | `[[openrouter-model-pricing]]` | 无对应 wiki 页面或 raw 文件 |
+
+> ℹ️ 另有 14 个 `[[raw/articles/...]]` 格式链接指向存在的 raw 文件，属于有效来源引用，非损坏链接。
+> ℹ️ 另有 4 个 bare name 链接指向存在的 raw 文件（如 `ksimback-hermes-beginners-guide-2026-04`），有效。
+
+### 2. 🟡 中 — 孤立页面（13 个，无入链）
+
+| 页面 | 建议 |
+|------|------|
+| `concepts/awesome-openclaw-tips.md` | 在 index.md 或其他相关页面添加入链 |
+| `concepts/refrag-rag-decoding.md` | 在 index.md 或其他相关页面添加入链 |
+| `concepts/llm-council-method-karpathy.md` | 在 index.md 或其他相关页面添加入链 |
+| `concepts/dario-amodei-ai-career-predictions.md` | 在 index.md 或其他相关页面添加入链 |
+| `concepts/memory-utility-function.md` | 在 index.md 或其他相关页面添加入链 |
+| `concepts/ai-ide-productivity-funnel.md` | 在 index.md 或其他相关页面添加入链 |
+| `concepts/agent-browser-sessions.md` | 在 index.md 或其他相关页面添加入链 |
+| `concepts/visual-explainer.md` | 在 index.md 或其他相关页面添加入链 |
+| `concepts/self-improving-agent-system-prompt.md` | 在 index.md 或其他相关页面添加入链 |
+| `entities/karpathy-ai-engineering.md` | 在 index.md 或其他相关页面添加入链 |
+| `entities/ai-influence-accounts-65.md` | 在 index.md 或其他相关页面添加入链 |
+| `queries/ai-evening-brief-2026-04-18.md` | 在 index.md 或其他相关页面添加入链 |
+| `queries/kilroy-cdn-batch-migration-complete.md` | 在 index.md 或其他相关页面添加入链 |
+
+### 3. 🟡 中 — 超长页面（21 个，>200 行）
+
+| 页面 | 行数 | 建议 |
+|------|------|------|
+| `concepts/awesome-openclaw-tips.md` | 474 | 拆分为 OpenClaw 记忆/可靠性/成本/架构子页面 |
+| `concepts/dario-amodei-ai-career-predictions.md` | 412 | 按预测领域拆分 |
+| `concepts/llm-knowledge-base-complete-guide.md` | 402 | 按级别拆分 |
+| `concepts/most-capable-agent-system-prompt.md` | 402 | 按模块拆分 |
+| `concepts/ai-knowledge-layer-two-tier.md` | 396 | 拆分为 KBL + BF 子页面 |
+| `concepts/cli-design-for-agents-and-humans.md` | 356 | 按模式拆分 |
+| `concepts/claude-md-three-blocks-learning-system.md` | 348 | 按模块拆分 |
+| `concepts/12-agentic-harness-patterns.md` | 338 | 按类别拆分 |
+| `concepts/how-to-make-money-with-claude-code.md` | 333 | 按转变阶段拆分 |
+| `concepts/agent-memory-architecture.md` | 330 | 按架构层次拆分 |
+| `concepts/claude-alternatives-guide.md` | 307 | 按模型拆分 |
+| `concepts/openclaw-complete-guide.md` | 306 | 按安装/配置/代理拆分 |
+| `concepts/second-brain-karpathy-style.md` | 301 | 按层拆分 |
+| `concepts/llm-council-method-karpathy.md` | 294 | 按步骤拆分 |
+| `concepts/llm-wiki-karpathy.md` | 267 | 按级别拆分 |
+| `concepts/notebooklm-content-factory-workflow.md` | 254 | 按步骤拆分 |
+| `concepts/agentmemory-persistent-memory.md` | 248 | 按功能拆分 |
+| `concepts/visual-explainer.md` | 242 | 按功能拆分 |
+| `concepts/hermes-best-practices.md` | 224 | 按来源拆分（官方/Imran/Kevin） |
+| `concepts/ai-engineering-from-scratch.md` | 223 | 按模块拆分 |
+| `queries/wiki-health-check-improvements.md` | 212 | 归档或精简 |
+
+### 4. 🟡 中 — 出站链接不足（5 个，<2 个 wikilinks）
+
+| 页面 | 链接数 | 当前链接 |
+|------|--------|----------|
+| `concepts/ai-influence-weekly-digest.md` | 0 | (无) |
+| `concepts/hermes-system-prompt-structure.md` | 1 | raw/articles/lufzzliz-hermes-system-prompt-analysis-2026.md |
+| `concepts/agent-memory-architecture.md` | 1 | raw/articles/akshay-pachaar-agent-memory-2026.md |
+| `entities/ai-influence-accounts-65.md` | 1 | ai-influence-weekly-digest |
+| `queries/kilroy-cdn-batch-migration-complete.md` | 1 | kilroy-cdn-migration-plan |
+
+### 5. 🟡 中 — Index 孤儿条目（1 个）
+
+| Index 条目 | 状态 |
+|------------|------|
+| `ai-influence-weekly-report-017-2026-04-24` | 文件实际名为 `ai-influence-weekly-report-17-2026-04-24.md`（命名不一致） |
+
+### 6. 🟢 低 — 未审查页面（42 个）
+
+所有 42 个 wiki 页面均标记 `reviewed: false`。这是预期行为（AI 生成内容需人工审查）。
+
+### 7. ✅ 通过项
+
+- **缺少 frontmatter**: 0 — 所有页面都有 frontmatter
+- **无效标签**: 0 — 所有标签均在 SCHEMA 分类法中
+- **Index 完整性**: 所有 42 个 wiki 页面均已列入 index.md
+
+### 统计摘要
+
+| 类别 | 数量 | 严重程度 |
+|------|------|----------|
+| 损坏链接 | 4 | 🔴 高 |
+| 孤立页面 | 13 | 🟡 中 |
+| 超长页面 | 21 | 🟡 中 |
+| 出站链接不足 | 5 | 🟡 中 |
+| Index 孤儿条目 | 1 | 🟡 中 |
+| 未审查页面 | 42 | 🟢 低 |
+| **总计** | **55** | |
+
+## [2026-04-25] ingest | AI影响力周报第 017 期
+- 来源：~/.hermes/output/ai-influence-digest/weekly_report_2026-04-25.md
+- 保存到：raw/articles/ai-influence-weekly-report-017-2026-04-25.md
+- 扫描账号：65 个 AI 领域影响力账号
+- 候选推文：约 70+ 条
+- 精选数量：10 条
+- 更新：index.md, log.md
+- 本期亮点：Karpathy AutoResearch 实证验证、Vercel AI 供应链安全事件、GPT-5.5 发布、Claude Opus 4.7
