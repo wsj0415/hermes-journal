@@ -5473,3 +5473,176 @@ Total issues found: 90
 - 精选数量：10 条
 - 更新：index.md, log.md
 - 本期亮点：Karpathy AutoResearch 实证验证、Vercel AI 供应链安全事件、GPT-5.5 发布、Claude Opus 4.7
+
+
+---
+
+### Wiki 健康检查 — 2026-04-26 09:01:50
+
+## Wiki 健康检查报告
+
+- **扫描时间**: 2026-04-26 09:01:50
+- **扫描范围**: concepts, entities, comparisons, queries/
+- **页面总数**: 42
+- **问题总数**: 111
+  - 🔴 高: 41
+  - 🟡 中: 24
+  - 🟢 低: 46
+
+### 🔴 孤立页面（无入链） (13 个)
+
+- **concepts/agent-browser-sessions.md**: 没有任何页面链接到此页，建议添加到 index.md 或相关页面
+- **concepts/ai-ide-productivity-funnel.md**: 没有任何页面链接到此页，建议添加到 index.md 或相关页面
+- **concepts/awesome-openclaw-tips.md**: 没有任何页面链接到此页，建议添加到 index.md 或相关页面
+- **concepts/dario-amodei-ai-career-predictions.md**: 没有任何页面链接到此页，建议添加到 index.md 或相关页面
+- **concepts/llm-council-method-karpathy.md**: 没有任何页面链接到此页，建议添加到 index.md 或相关页面
+- **concepts/memory-utility-function.md**: 没有任何页面链接到此页，建议添加到 index.md 或相关页面
+- **concepts/refrag-rag-decoding.md**: 没有任何页面链接到此页，建议添加到 index.md 或相关页面
+- **concepts/self-improving-agent-system-prompt.md**: 没有任何页面链接到此页，建议添加到 index.md 或相关页面
+- **concepts/visual-explainer.md**: 没有任何页面链接到此页，建议添加到 index.md 或相关页面
+- **entities/ai-influence-accounts-65.md**: 没有任何页面链接到此页，建议添加到 index.md 或相关页面
+- **entities/karpathy-ai-engineering.md**: 没有任何页面链接到此页，建议添加到 index.md 或相关页面
+- **queries/ai-evening-brief-2026-04-18.md**: 没有任何页面链接到此页，建议添加到 index.md 或相关页面
+- **queries/kilroy-cdn-batch-migration-complete.md**: 没有任何页面链接到此页，建议添加到 index.md 或相关页面
+
+### 🔴 损坏的 wikilink (28 个)
+
+- **concepts/agent-browser-sessions.md**: 链接 [[nottelabs-session-profiles-2026-02]] 指向不存在的页面
+- **concepts/agent-browser-sessions.md**: 链接 [[nottelabs-session-profiles-2026-02]] 指向不存在的页面
+- **concepts/agent-browser-sessions.md**: 链接 [[hermes-browser-automation]] 指向不存在的页面
+- **concepts/agent-harness.md**: 链接 [[raw/articles/akshay-pachaar-agent-harness-2026.md]] 指向不存在的页面
+- **concepts/agent-harness.md**: 链接 [[raw/articles/akshay-pachaar-agent-harness-2026.md]] 指向不存在的页面
+- **concepts/agent-harness.md**: 链接 [[raw/articles/akshay-pachaar-agent-harness-2026.md]] 指向不存在的页面
+- **concepts/agent-memory-architecture.md**: 链接 [[raw/articles/akshay-pachaar-agent-memory-2026.md]] 指向不存在的页面
+- **concepts/agent-memory-architecture.md**: 链接 [[raw/articles/akshay-pachaar-agent-memory-2026.md]] 指向不存在的页面
+- **concepts/agent-memory-architecture.md**: 链接 [[raw/articles/akshay-pachaar-agent-memory-2026.md]] 指向不存在的页面
+- **concepts/ai-knowledge-layer-two-tier.md**: 链接 [[raw/articles/shannholmberg-ai-knowledge-layer-2026.md]] 指向不存在的页面
+- **concepts/ai-knowledge-layer-two-tier.md**: 链接 [[raw/articles/shannholmberg-ai-knowledge-layer-2026.md]] 指向不存在的页面
+- **concepts/ai-knowledge-layer-two-tier.md**: 链接 [[raw/articles/shannholmberg-ai-knowledge-layer-2026.md]] 指向不存在的页面
+- **concepts/bjork-disuse-theory.md**: 链接 [[raw/articles/ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14.md]] 指向不存在的页面
+- **concepts/filesystem-as-knowledge-graph.md**: 链接 [[raw/articles/ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14.md]] 指向不存在的页面
+- **concepts/hermes-android-deployment.md**: 链接 [[hermes-security-setup]] 指向不存在的页面
+- **concepts/hermes-android-deployment.md**: 链接 [[termux-api-reference]] 指向不存在的页面
+- **concepts/hermes-best-practices.md**: 链接 [[ksimback-hermes-beginners-guide-2026-04]] 指向不存在的页面
+- **concepts/hermes-best-practices.md**: 链接 [[startup-ideas-pod-hermes-imran-2026-04]] 指向不存在的页面
+- **concepts/hermes-system-prompt-structure.md**: 链接 [[raw/articles/lufzzliz-hermes-system-prompt-analysis-2026.md]] 指向不存在的页面
+- **concepts/hermes-system-prompt-structure.md**: 链接 [[raw/articles/lufzzliz-hermes-system-prompt-analysis-2026.md]] 指向不存在的页面
+- **concepts/hermes-token-optimization.md**: 链接 [[openrouter-model-pricing]] 指向不存在的页面
+- **concepts/knowledge-base-vs-memory.md**: 链接 [[raw/articles/ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14.md]] 指向不存在的页面
+- **concepts/memory-utility-function.md**: 链接 [[raw/articles/ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14.md]] 指向不存在的页面
+- **concepts/second-brain-karpathy-style.md**: 链接 [[raw/articles/second-brain-part2-system.md]] 指向不存在的页面
+- **concepts/smf-semantic-memory-framework.md**: 链接 [[raw/articles/ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14.md]] 指向不存在的页面
+- **entities/imran-hermes-power-user.md**: 链接 [[startup-ideas-pod-hermes-imran-2026-04]] 指向不存在的页面
+- **queries/kilroy-cdn-migration-plan.md**: 链接 [[ ]] 指向不存在的页面
+- **queries/kilroy-cdn-migration-plan.md**: 链接 [[ ]] 指向不存在的页面
+
+### 🟡 页面过长（超过 200 行） (21 个)
+
+- **concepts/12-agentic-harness-patterns.md**: 当前 338 行，建议拆分为子主题
+- **concepts/agent-memory-architecture.md**: 当前 330 行，建议拆分为子主题
+- **concepts/agentmemory-persistent-memory.md**: 当前 248 行，建议拆分为子主题
+- **concepts/ai-engineering-from-scratch.md**: 当前 223 行，建议拆分为子主题
+- **concepts/ai-knowledge-layer-two-tier.md**: 当前 396 行，建议拆分为子主题
+- **concepts/awesome-openclaw-tips.md**: 当前 474 行，建议拆分为子主题
+- **concepts/claude-alternatives-guide.md**: 当前 307 行，建议拆分为子主题
+- **concepts/claude-md-three-blocks-learning-system.md**: 当前 348 行，建议拆分为子主题
+- **concepts/cli-design-for-agents-and-humans.md**: 当前 356 行，建议拆分为子主题
+- **concepts/dario-amodei-ai-career-predictions.md**: 当前 412 行，建议拆分为子主题
+- **concepts/hermes-best-practices.md**: 当前 224 行，建议拆分为子主题
+- **concepts/how-to-make-money-with-claude-code.md**: 当前 333 行，建议拆分为子主题
+- **concepts/llm-council-method-karpathy.md**: 当前 294 行，建议拆分为子主题
+- **concepts/llm-knowledge-base-complete-guide.md**: 当前 402 行，建议拆分为子主题
+- **concepts/llm-wiki-karpathy.md**: 当前 267 行，建议拆分为子主题
+- **concepts/most-capable-agent-system-prompt.md**: 当前 402 行，建议拆分为子主题
+- **concepts/notebooklm-content-factory-workflow.md**: 当前 254 行，建议拆分为子主题
+- **concepts/openclaw-complete-guide.md**: 当前 306 行，建议拆分为子主题
+- **concepts/second-brain-karpathy-style.md**: 当前 301 行，建议拆分为子主题
+- **concepts/visual-explainer.md**: 当前 242 行，建议拆分为子主题
+- **queries/wiki-health-check-improvements.md**: 当前 212 行，建议拆分为子主题
+
+### 🟡 wikilinks 不足（少于 2 个） (3 个)
+
+- **concepts/ai-influence-weekly-digest.md**: 当前 0 个出站链接，建议至少 2 个
+- **entities/ai-influence-accounts-65.md**: 当前 1 个出站链接，建议至少 2 个
+- **queries/kilroy-cdn-batch-migration-complete.md**: 当前 1 个出站链接，建议至少 2 个
+
+### 🟢 未审查页面 (42 个)
+
+- **concepts/12-agentic-harness-patterns.md**: reviewed=False，建议人工审查后标记为 true
+- **concepts/agent-browser-sessions.md**: reviewed=False，建议人工审查后标记为 true
+- **concepts/agent-harness.md**: reviewed=False，建议人工审查后标记为 true
+- **concepts/agent-memory-architecture.md**: reviewed=False，建议人工审查后标记为 true
+- **concepts/agentmemory-persistent-memory.md**: reviewed=False，建议人工审查后标记为 true
+- **concepts/ai-engineering-from-scratch.md**: reviewed=False，建议人工审查后标记为 true
+- **concepts/ai-ide-productivity-funnel.md**: reviewed=False，建议人工审查后标记为 true
+- **concepts/ai-influence-weekly-digest.md**: reviewed=False，建议人工审查后标记为 true
+- **concepts/ai-knowledge-layer-two-tier.md**: reviewed=False，建议人工审查后标记为 true
+- **concepts/awesome-openclaw-tips.md**: reviewed=False，建议人工审查后标记为 true
+- **concepts/bjork-disuse-theory.md**: reviewed=False，建议人工审查后标记为 true
+- **concepts/claude-alternatives-guide.md**: reviewed=False，建议人工审查后标记为 true
+- **concepts/claude-code-best-practices.md**: reviewed=False，建议人工审查后标记为 true
+- **concepts/claude-md-three-blocks-learning-system.md**: reviewed=False，建议人工审查后标记为 true
+- **concepts/cli-design-for-agents-and-humans.md**: reviewed=False，建议人工审查后标记为 true
+- **concepts/dario-amodei-ai-career-predictions.md**: reviewed=False，建议人工审查后标记为 true
+- **concepts/filesystem-as-knowledge-graph.md**: reviewed=False，建议人工审查后标记为 true
+- **concepts/hermes-android-deployment.md**: reviewed=False，建议人工审查后标记为 true
+- **concepts/hermes-best-practices.md**: reviewed=False，建议人工审查后标记为 true
+- **concepts/hermes-system-prompt-structure.md**: reviewed=False，建议人工审查后标记为 true
+- **concepts/hermes-token-optimization.md**: reviewed=False，建议人工审查后标记为 true
+- **concepts/how-to-make-money-with-claude-code.md**: reviewed=False，建议人工审查后标记为 true
+- **concepts/knowledge-base-vs-memory.md**: reviewed=False，建议人工审查后标记为 true
+- **concepts/llm-council-method-karpathy.md**: reviewed=False，建议人工审查后标记为 true
+- **concepts/llm-knowledge-base-complete-guide.md**: reviewed=False，建议人工审查后标记为 true
+- **concepts/llm-wiki-karpathy.md**: reviewed=False，建议人工审查后标记为 true
+- **concepts/memory-utility-function.md**: reviewed=False，建议人工审查后标记为 true
+- **concepts/most-capable-agent-system-prompt.md**: reviewed=False，建议人工审查后标记为 true
+- **concepts/notebooklm-content-factory-workflow.md**: reviewed=False，建议人工审查后标记为 true
+- **concepts/openclaw-complete-guide.md**: reviewed=False，建议人工审查后标记为 true
+- **concepts/refrag-rag-decoding.md**: reviewed=None，建议人工审查后标记为 true
+- **concepts/second-brain-karpathy-style.md**: reviewed=False，建议人工审查后标记为 true
+- **concepts/self-improving-agent-system-prompt.md**: reviewed=False，建议人工审查后标记为 true
+- **concepts/smf-semantic-memory-framework.md**: reviewed=False，建议人工审查后标记为 true
+- **concepts/visual-explainer.md**: reviewed=False，建议人工审查后标记为 true
+- **entities/ai-influence-accounts-65.md**: reviewed=False，建议人工审查后标记为 true
+- **entities/imran-hermes-power-user.md**: reviewed=False，建议人工审查后标记为 true
+- **entities/karpathy-ai-engineering.md**: reviewed=False，建议人工审查后标记为 true
+- **queries/ai-evening-brief-2026-04-18.md**: reviewed=False，建议人工审查后标记为 true
+- **queries/kilroy-cdn-batch-migration-complete.md**: reviewed=False，建议人工审查后标记为 true
+- **queries/kilroy-cdn-migration-plan.md**: reviewed=False，建议人工审查后标记为 true
+- **queries/wiki-health-check-improvements.md**: reviewed=None，建议人工审查后标记为 true
+
+### 🟢 缺少 confidence 字段 (4 个)
+
+- **concepts/refrag-rag-decoding.md**: frontmatter 缺少 confidence 字段
+- **queries/kilroy-cdn-batch-migration-complete.md**: frontmatter 缺少 confidence 字段
+- **queries/kilroy-cdn-migration-plan.md**: frontmatter 缺少 confidence 字段
+- **queries/wiki-health-check-improvements.md**: frontmatter 缺少 confidence 字段
+
+### 📊 链接健康概览
+
+- 总 wikilinks: 126
+- 有入链的页面: 29 / 42
+- 孤立页面: 13
+
+### 🔗 被引用最多的页面 (Top 10)
+
+- **12-agentic-harness-patterns.md**: 12 个入链 (agent-harness.md, claude-md-three-blocks-learning-system.md, how-to-make-money-with-claude-code.md, llm-council-method-karpathy.md, cli-design-for-agents-and-humans.md)
+- **agent-memory-architecture.md**: 8 个入链 (agent-harness.md, refrag-rag-decoding.md, ai-ide-productivity-funnel.md, wiki-health-check-improvements.md, ai-evening-brief-2026-04-18.md)
+- **claude-md-three-blocks-learning-system.md**: 7 个入链 (llm-wiki-karpathy.md, most-capable-agent-system-prompt.md, 12-agentic-harness-patterns.md, agentmemory-persistent-memory.md, self-improving-agent-system-prompt.md)
+- **knowledge-base-vs-memory.md**: 6 个入链 (agent-harness.md, refrag-rag-decoding.md, memory-utility-function.md, filesystem-as-knowledge-graph.md, bjork-disuse-theory.md)
+- **second-brain-karpathy-style.md**: 4 个入链 (12-agentic-harness-patterns.md, llm-wiki-karpathy.md, claude-md-three-blocks-learning-system.md, llm-knowledge-base-complete-guide.md)
+- **hermes-system-prompt-structure.md**: 4 个入链 (agent-harness.md, ai-ide-productivity-funnel.md, claude-alternatives-guide.md, claude-code-best-practices.md)
+- **smf-semantic-memory-framework.md**: 4 个入链 (knowledge-base-vs-memory.md, memory-utility-function.md, filesystem-as-knowledge-graph.md, bjork-disuse-theory.md)
+- **llm-wiki-karpathy.md**: 4 个入链 (llm-council-method-karpathy.md, knowledge-base-vs-memory.md, karpathy-ai-engineering.md, hermes-best-practices.md)
+- **ai-knowledge-layer-two-tier.md**: 4 个入链 (second-brain-karpathy-style.md, kilroy-cdn-migration-plan.md, wiki-health-check-improvements.md, llm-knowledge-base-complete-guide.md)
+- **hermes-android-deployment.md**: 3 个入链 (agent-browser-sessions.md, hermes-best-practices.md, imran-hermes-power-user.md)
+
+
+## [2026-04-26] ingest | AI影响力周报第 17 期
+- 来源：~/.hermes/output/ai-influence-digest/weekly_report_2026-04-26.md
+- 保存到：raw/articles/ai-influence-weekly-report-17-2026-04-26.md
+- 扫描账号：65 个 AI 领域影响力账号
+- 候选推文：约 50+ 条
+- 精选数量：8 条
+- 更新：index.md, log.md
+- 核心话题：AI 编码工作流、Vercel 安全事件、Decoupled DiLoCo 训练系统、Agent 技能
