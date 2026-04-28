@@ -509,3 +509,582 @@
    499|### [中] /root/hermes-journal/concepts/ai-knowledge-layer-two-tier.md
    500|- 行数: 396
    501|
+---
+
+## 2026-04-28 — Wiki Health Check (Scheduled Lint)
+
+# Wiki Health Check Report
+Date: 2026-04-28
+Total wiki pages scanned: 43
+Directories: concepts, entities, comparisons, queries
+
+**Total issues found: 106**
+
+## Summary
+
+| 类别 | 数量 |
+|------|------|
+| 孤立页面 | 13 |
+| 损坏的 wikilinks | 28 |
+| 缺少 frontmatter | 0 |
+| 超过 200 行 | 21 |
+| 少于 2 个 wikilinks | 4 |
+| 无效标签 | 0 |
+| 未审查页面 | 40 |
+
+## ❌ 孤立页面（无入链） (13 个问题)
+
+### 🔴 [高] #1
+- **文件**: `concepts/agent-browser-sessions.md`
+- **basename**: `agent-browser-sessions`
+- **建议**: 添加入链到其他页面，或确认是否应删除/归档
+
+### 🔴 [高] #2
+- **文件**: `concepts/ai-ide-productivity-funnel.md`
+- **basename**: `ai-ide-productivity-funnel`
+- **建议**: 添加入链到其他页面，或确认是否应删除/归档
+
+### 🔴 [高] #3
+- **文件**: `concepts/awesome-openclaw-tips.md`
+- **basename**: `awesome-openclaw-tips`
+- **建议**: 添加入链到其他页面，或确认是否应删除/归档
+
+### 🔴 [高] #4
+- **文件**: `concepts/dario-amodei-ai-career-predictions.md`
+- **basename**: `dario-amodei-ai-career-predictions`
+- **建议**: 添加入链到其他页面，或确认是否应删除/归档
+
+### 🔴 [高] #5
+- **文件**: `concepts/llm-council-method-karpathy.md`
+- **basename**: `llm-council-method-karpathy`
+- **建议**: 添加入链到其他页面，或确认是否应删除/归档
+
+### 🔴 [高] #6
+- **文件**: `concepts/memory-utility-function.md`
+- **basename**: `memory-utility-function`
+- **建议**: 添加入链到其他页面，或确认是否应删除/归档
+
+### 🔴 [高] #7
+- **文件**: `concepts/refrag-rag-decoding.md`
+- **basename**: `refrag-rag-decoding`
+- **建议**: 添加入链到其他页面，或确认是否应删除/归档
+
+### 🔴 [高] #8
+- **文件**: `concepts/self-improving-agent-system-prompt.md`
+- **basename**: `self-improving-agent-system-prompt`
+- **建议**: 添加入链到其他页面，或确认是否应删除/归档
+
+### 🔴 [高] #9
+- **文件**: `concepts/visual-explainer.md`
+- **basename**: `visual-explainer`
+- **建议**: 添加入链到其他页面，或确认是否应删除/归档
+
+### 🔴 [高] #10
+- **文件**: `entities/ai-influence-accounts-65.md`
+- **basename**: `ai-influence-accounts-65`
+- **建议**: 添加入链到其他页面，或确认是否应删除/归档
+
+### 🔴 [高] #11
+- **文件**: `entities/karpathy-ai-engineering.md`
+- **basename**: `karpathy-ai-engineering`
+- **建议**: 添加入链到其他页面，或确认是否应删除/归档
+
+### 🔴 [高] #12
+- **文件**: `queries/ai-evening-brief-2026-04-18.md`
+- **basename**: `ai-evening-brief-2026-04-18`
+- **建议**: 添加入链到其他页面，或确认是否应删除/归档
+
+### 🔴 [高] #13
+- **文件**: `queries/kilroy-cdn-batch-migration-complete.md`
+- **basename**: `kilroy-cdn-batch-migration-complete`
+- **建议**: 添加入链到其他页面，或确认是否应删除/归档
+
+## ❌ 损坏的 wikilinks (28 个问题)
+
+### 🔴 [高] #1
+- **文件**: `concepts/agent-browser-sessions.md`
+- **link_target**: `nottelabs-session-profiles-2026-02`
+- **link_basename**: `nottelabs-session-profiles-2026-02`
+- **建议**: 创建页面 nottelabs-session-profiles-2026-02.md 或修正链接
+
+### 🔴 [高] #2
+- **文件**: `concepts/agent-browser-sessions.md`
+- **link_target**: `nottelabs-session-profiles-2026-02`
+- **link_basename**: `nottelabs-session-profiles-2026-02`
+- **建议**: 创建页面 nottelabs-session-profiles-2026-02.md 或修正链接
+
+### 🔴 [高] #3
+- **文件**: `concepts/agent-browser-sessions.md`
+- **link_target**: `hermes-browser-automation`
+- **link_basename**: `hermes-browser-automation`
+- **建议**: 创建页面 hermes-browser-automation.md 或修正链接
+
+### 🔴 [高] #4
+- **文件**: `concepts/agent-harness.md`
+- **link_target**: `raw/articles/akshay-pachaar-agent-harness-2026.md`
+- **link_basename**: `akshay-pachaar-agent-harness-2026`
+- **建议**: 创建页面 akshay-pachaar-agent-harness-2026.md 或修正链接
+
+### 🔴 [高] #5
+- **文件**: `concepts/agent-harness.md`
+- **link_target**: `raw/articles/akshay-pachaar-agent-harness-2026.md`
+- **link_basename**: `akshay-pachaar-agent-harness-2026`
+- **建议**: 创建页面 akshay-pachaar-agent-harness-2026.md 或修正链接
+
+### 🔴 [高] #6
+- **文件**: `concepts/agent-harness.md`
+- **link_target**: `raw/articles/akshay-pachaar-agent-harness-2026.md`
+- **link_basename**: `akshay-pachaar-agent-harness-2026`
+- **建议**: 创建页面 akshay-pachaar-agent-harness-2026.md 或修正链接
+
+### 🔴 [高] #7
+- **文件**: `concepts/agent-memory-architecture.md`
+- **link_target**: `raw/articles/akshay-pachaar-agent-memory-2026.md`
+- **link_basename**: `akshay-pachaar-agent-memory-2026`
+- **建议**: 创建页面 akshay-pachaar-agent-memory-2026.md 或修正链接
+
+### 🔴 [高] #8
+- **文件**: `concepts/agent-memory-architecture.md`
+- **link_target**: `raw/articles/akshay-pachaar-agent-memory-2026.md`
+- **link_basename**: `akshay-pachaar-agent-memory-2026`
+- **建议**: 创建页面 akshay-pachaar-agent-memory-2026.md 或修正链接
+
+### 🔴 [高] #9
+- **文件**: `concepts/agent-memory-architecture.md`
+- **link_target**: `raw/articles/akshay-pachaar-agent-memory-2026.md`
+- **link_basename**: `akshay-pachaar-agent-memory-2026`
+- **建议**: 创建页面 akshay-pachaar-agent-memory-2026.md 或修正链接
+
+### 🔴 [高] #10
+- **文件**: `concepts/ai-knowledge-layer-two-tier.md`
+- **link_target**: `raw/articles/shannholmberg-ai-knowledge-layer-2026.md`
+- **link_basename**: `shannholmberg-ai-knowledge-layer-2026`
+- **建议**: 创建页面 shannholmberg-ai-knowledge-layer-2026.md 或修正链接
+
+### 🔴 [高] #11
+- **文件**: `concepts/ai-knowledge-layer-two-tier.md`
+- **link_target**: `raw/articles/shannholmberg-ai-knowledge-layer-2026.md`
+- **link_basename**: `shannholmberg-ai-knowledge-layer-2026`
+- **建议**: 创建页面 shannholmberg-ai-knowledge-layer-2026.md 或修正链接
+
+### 🔴 [高] #12
+- **文件**: `concepts/ai-knowledge-layer-two-tier.md`
+- **link_target**: `raw/articles/shannholmberg-ai-knowledge-layer-2026.md`
+- **link_basename**: `shannholmberg-ai-knowledge-layer-2026`
+- **建议**: 创建页面 shannholmberg-ai-knowledge-layer-2026.md 或修正链接
+
+### 🔴 [高] #13
+- **文件**: `concepts/bjork-disuse-theory.md`
+- **link_target**: `raw/articles/ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14.md`
+- **link_basename**: `ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14`
+- **建议**: 创建页面 ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14.md 或修正链接
+
+### 🔴 [高] #14
+- **文件**: `concepts/filesystem-as-knowledge-graph.md`
+- **link_target**: `raw/articles/ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14.md`
+- **link_basename**: `ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14`
+- **建议**: 创建页面 ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14.md 或修正链接
+
+### 🔴 [高] #15
+- **文件**: `concepts/hermes-android-deployment.md`
+- **link_target**: `hermes-security-setup`
+- **link_basename**: `hermes-security-setup`
+- **建议**: 创建页面 hermes-security-setup.md 或修正链接
+
+### 🔴 [高] #16
+- **文件**: `concepts/hermes-android-deployment.md`
+- **link_target**: `termux-api-reference`
+- **link_basename**: `termux-api-reference`
+- **建议**: 创建页面 termux-api-reference.md 或修正链接
+
+### 🔴 [高] #17
+- **文件**: `concepts/hermes-best-practices.md`
+- **link_target**: `ksimback-hermes-beginners-guide-2026-04`
+- **link_basename**: `ksimback-hermes-beginners-guide-2026-04`
+- **建议**: 创建页面 ksimback-hermes-beginners-guide-2026-04.md 或修正链接
+
+### 🔴 [高] #18
+- **文件**: `concepts/hermes-best-practices.md`
+- **link_target**: `startup-ideas-pod-hermes-imran-2026-04`
+- **link_basename**: `startup-ideas-pod-hermes-imran-2026-04`
+- **建议**: 创建页面 startup-ideas-pod-hermes-imran-2026-04.md 或修正链接
+
+### 🔴 [高] #19
+- **文件**: `concepts/hermes-system-prompt-structure.md`
+- **link_target**: `raw/articles/lufzzliz-hermes-system-prompt-analysis-2026.md`
+- **link_basename**: `lufzzliz-hermes-system-prompt-analysis-2026`
+- **建议**: 创建页面 lufzzliz-hermes-system-prompt-analysis-2026.md 或修正链接
+
+### 🔴 [高] #20
+- **文件**: `concepts/hermes-system-prompt-structure.md`
+- **link_target**: `raw/articles/lufzzliz-hermes-system-prompt-analysis-2026.md`
+- **link_basename**: `lufzzliz-hermes-system-prompt-analysis-2026`
+- **建议**: 创建页面 lufzzliz-hermes-system-prompt-analysis-2026.md 或修正链接
+
+### 🔴 [高] #21
+- **文件**: `concepts/hermes-token-optimization.md`
+- **link_target**: `openrouter-model-pricing`
+- **link_basename**: `openrouter-model-pricing`
+- **建议**: 创建页面 openrouter-model-pricing.md 或修正链接
+
+### 🔴 [高] #22
+- **文件**: `concepts/knowledge-base-vs-memory.md`
+- **link_target**: `raw/articles/ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14.md`
+- **link_basename**: `ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14`
+- **建议**: 创建页面 ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14.md 或修正链接
+
+### 🔴 [高] #23
+- **文件**: `concepts/memory-utility-function.md`
+- **link_target**: `raw/articles/ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14.md`
+- **link_basename**: `ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14`
+- **建议**: 创建页面 ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14.md 或修正链接
+
+### 🔴 [高] #24
+- **文件**: `concepts/second-brain-karpathy-style.md`
+- **link_target**: `raw/articles/second-brain-part2-system.md`
+- **link_basename**: `second-brain-part2-system`
+- **建议**: 创建页面 second-brain-part2-system.md 或修正链接
+
+### 🔴 [高] #25
+- **文件**: `concepts/smf-semantic-memory-framework.md`
+- **link_target**: `raw/articles/ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14.md`
+- **link_basename**: `ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14`
+- **建议**: 创建页面 ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14.md 或修正链接
+
+### 🔴 [高] #26
+- **文件**: `entities/imran-hermes-power-user.md`
+- **link_target**: `startup-ideas-pod-hermes-imran-2026-04`
+- **link_basename**: `startup-ideas-pod-hermes-imran-2026-04`
+- **建议**: 创建页面 startup-ideas-pod-hermes-imran-2026-04.md 或修正链接
+
+### 🔴 [高] #27
+- **文件**: `queries/kilroy-cdn-migration-plan.md`
+- **link_target**: ` `
+- **link_basename**: ` `
+- **建议**: 创建页面  .md 或修正链接
+
+### 🔴 [高] #28
+- **文件**: `queries/kilroy-cdn-migration-plan.md`
+- **link_target**: ` `
+- **link_basename**: ` `
+- **建议**: 创建页面  .md 或修正链接
+
+## ✅ 缺少 frontmatter
+
+无问题。
+
+## ❌ 超过 200 行的页面 (21 个问题)
+
+### 🟡 [中] #1
+- **文件**: `concepts/12-agentic-harness-patterns.md`
+- **line_count**: `338`
+- **建议**: 页面超过 200 行，建议拆分为子主题并添加交叉链接
+
+### 🟡 [中] #2
+- **文件**: `concepts/agent-memory-architecture.md`
+- **line_count**: `330`
+- **建议**: 页面超过 200 行，建议拆分为子主题并添加交叉链接
+
+### 🟡 [中] #3
+- **文件**: `concepts/agentmemory-persistent-memory.md`
+- **line_count**: `248`
+- **建议**: 页面超过 200 行，建议拆分为子主题并添加交叉链接
+
+### 🟡 [中] #4
+- **文件**: `concepts/ai-engineering-from-scratch.md`
+- **line_count**: `223`
+- **建议**: 页面超过 200 行，建议拆分为子主题并添加交叉链接
+
+### 🟡 [中] #5
+- **文件**: `concepts/ai-knowledge-layer-two-tier.md`
+- **line_count**: `396`
+- **建议**: 页面超过 200 行，建议拆分为子主题并添加交叉链接
+
+### 🟡 [中] #6
+- **文件**: `concepts/awesome-openclaw-tips.md`
+- **line_count**: `474`
+- **建议**: 页面超过 200 行，建议拆分为子主题并添加交叉链接
+
+### 🟡 [中] #7
+- **文件**: `concepts/claude-alternatives-guide.md`
+- **line_count**: `307`
+- **建议**: 页面超过 200 行，建议拆分为子主题并添加交叉链接
+
+### 🟡 [中] #8
+- **文件**: `concepts/claude-md-three-blocks-learning-system.md`
+- **line_count**: `348`
+- **建议**: 页面超过 200 行，建议拆分为子主题并添加交叉链接
+
+### 🟡 [中] #9
+- **文件**: `concepts/cli-design-for-agents-and-humans.md`
+- **line_count**: `356`
+- **建议**: 页面超过 200 行，建议拆分为子主题并添加交叉链接
+
+### 🟡 [中] #10
+- **文件**: `concepts/dario-amodei-ai-career-predictions.md`
+- **line_count**: `412`
+- **建议**: 页面超过 200 行，建议拆分为子主题并添加交叉链接
+
+### 🟡 [中] #11
+- **文件**: `concepts/hermes-best-practices.md`
+- **line_count**: `224`
+- **建议**: 页面超过 200 行，建议拆分为子主题并添加交叉链接
+
+### 🟡 [中] #12
+- **文件**: `concepts/how-to-make-money-with-claude-code.md`
+- **line_count**: `333`
+- **建议**: 页面超过 200 行，建议拆分为子主题并添加交叉链接
+
+### 🟡 [中] #13
+- **文件**: `concepts/llm-council-method-karpathy.md`
+- **line_count**: `294`
+- **建议**: 页面超过 200 行，建议拆分为子主题并添加交叉链接
+
+### 🟡 [中] #14
+- **文件**: `concepts/llm-knowledge-base-complete-guide.md`
+- **line_count**: `402`
+- **建议**: 页面超过 200 行，建议拆分为子主题并添加交叉链接
+
+### 🟡 [中] #15
+- **文件**: `concepts/llm-wiki-karpathy.md`
+- **line_count**: `267`
+- **建议**: 页面超过 200 行，建议拆分为子主题并添加交叉链接
+
+### 🟡 [中] #16
+- **文件**: `concepts/most-capable-agent-system-prompt.md`
+- **line_count**: `402`
+- **建议**: 页面超过 200 行，建议拆分为子主题并添加交叉链接
+
+### 🟡 [中] #17
+- **文件**: `concepts/notebooklm-content-factory-workflow.md`
+- **line_count**: `254`
+- **建议**: 页面超过 200 行，建议拆分为子主题并添加交叉链接
+
+### 🟡 [中] #18
+- **文件**: `concepts/openclaw-complete-guide.md`
+- **line_count**: `306`
+- **建议**: 页面超过 200 行，建议拆分为子主题并添加交叉链接
+
+### 🟡 [中] #19
+- **文件**: `concepts/second-brain-karpathy-style.md`
+- **line_count**: `301`
+- **建议**: 页面超过 200 行，建议拆分为子主题并添加交叉链接
+
+### 🟡 [中] #20
+- **文件**: `concepts/visual-explainer.md`
+- **line_count**: `242`
+- **建议**: 页面超过 200 行，建议拆分为子主题并添加交叉链接
+
+### 🟡 [中] #21
+- **文件**: `queries/wiki-health-check-improvements.md`
+- **line_count**: `212`
+- **建议**: 页面超过 200 行，建议拆分为子主题并添加交叉链接
+
+## ❌ 少于 2 个出站 wikilinks 的页面 (4 个问题)
+
+### 🟡 [中] #1
+- **文件**: `concepts/ai-influence-weekly-digest.md`
+- **link_count**: `0`
+- **建议**: 每页至少需要 2 个出站 wikilinks，请添加相关页面链接
+
+### 🟡 [中] #2
+- **文件**: `concepts/ai-influence-weekly-report-18-2026-04-27.md`
+- **link_count**: `1`
+- **建议**: 每页至少需要 2 个出站 wikilinks，请添加相关页面链接
+
+### 🟡 [中] #3
+- **文件**: `entities/ai-influence-accounts-65.md`
+- **link_count**: `1`
+- **建议**: 每页至少需要 2 个出站 wikilinks，请添加相关页面链接
+
+### 🟡 [中] #4
+- **文件**: `queries/kilroy-cdn-batch-migration-complete.md`
+- **link_count**: `1`
+- **建议**: 每页至少需要 2 个出站 wikilinks，请添加相关页面链接
+
+## ✅ 标签不在 SCHEMA 分类法中
+
+无问题。
+
+## ❌ 未审查页面（reviewed: false） (40 个问题)
+
+### 🟢 [低] #1
+- **文件**: `concepts/12-agentic-harness-patterns.md`
+- **建议**: 页面标记为 reviewed: false，建议人工审查后更新为 true
+
+### 🟢 [低] #2
+- **文件**: `concepts/agent-browser-sessions.md`
+- **建议**: 页面标记为 reviewed: false，建议人工审查后更新为 true
+
+### 🟢 [低] #3
+- **文件**: `concepts/agent-harness.md`
+- **建议**: 页面标记为 reviewed: false，建议人工审查后更新为 true
+
+### 🟢 [低] #4
+- **文件**: `concepts/agent-memory-architecture.md`
+- **建议**: 页面标记为 reviewed: false，建议人工审查后更新为 true
+
+### 🟢 [低] #5
+- **文件**: `concepts/agentmemory-persistent-memory.md`
+- **建议**: 页面标记为 reviewed: false，建议人工审查后更新为 true
+
+### 🟢 [低] #6
+- **文件**: `concepts/ai-engineering-from-scratch.md`
+- **建议**: 页面标记为 reviewed: false，建议人工审查后更新为 true
+
+### 🟢 [低] #7
+- **文件**: `concepts/ai-ide-productivity-funnel.md`
+- **建议**: 页面标记为 reviewed: false，建议人工审查后更新为 true
+
+### 🟢 [低] #8
+- **文件**: `concepts/ai-influence-weekly-digest.md`
+- **建议**: 页面标记为 reviewed: false，建议人工审查后更新为 true
+
+### 🟢 [低] #9
+- **文件**: `concepts/ai-knowledge-layer-two-tier.md`
+- **建议**: 页面标记为 reviewed: false，建议人工审查后更新为 true
+
+### 🟢 [低] #10
+- **文件**: `concepts/awesome-openclaw-tips.md`
+- **建议**: 页面标记为 reviewed: false，建议人工审查后更新为 true
+
+### 🟢 [低] #11
+- **文件**: `concepts/bjork-disuse-theory.md`
+- **建议**: 页面标记为 reviewed: false，建议人工审查后更新为 true
+
+### 🟢 [低] #12
+- **文件**: `concepts/claude-alternatives-guide.md`
+- **建议**: 页面标记为 reviewed: false，建议人工审查后更新为 true
+
+### 🟢 [低] #13
+- **文件**: `concepts/claude-code-best-practices.md`
+- **建议**: 页面标记为 reviewed: false，建议人工审查后更新为 true
+
+### 🟢 [低] #14
+- **文件**: `concepts/claude-md-three-blocks-learning-system.md`
+- **建议**: 页面标记为 reviewed: false，建议人工审查后更新为 true
+
+### 🟢 [低] #15
+- **文件**: `concepts/cli-design-for-agents-and-humans.md`
+- **建议**: 页面标记为 reviewed: false，建议人工审查后更新为 true
+
+### 🟢 [低] #16
+- **文件**: `concepts/dario-amodei-ai-career-predictions.md`
+- **建议**: 页面标记为 reviewed: false，建议人工审查后更新为 true
+
+### 🟢 [低] #17
+- **文件**: `concepts/filesystem-as-knowledge-graph.md`
+- **建议**: 页面标记为 reviewed: false，建议人工审查后更新为 true
+
+### 🟢 [低] #18
+- **文件**: `concepts/hermes-android-deployment.md`
+- **建议**: 页面标记为 reviewed: false，建议人工审查后更新为 true
+
+### 🟢 [低] #19
+- **文件**: `concepts/hermes-best-practices.md`
+- **建议**: 页面标记为 reviewed: false，建议人工审查后更新为 true
+
+### 🟢 [低] #20
+- **文件**: `concepts/hermes-system-prompt-structure.md`
+- **建议**: 页面标记为 reviewed: false，建议人工审查后更新为 true
+
+### 🟢 [低] #21
+- **文件**: `concepts/hermes-token-optimization.md`
+- **建议**: 页面标记为 reviewed: false，建议人工审查后更新为 true
+
+### 🟢 [低] #22
+- **文件**: `concepts/how-to-make-money-with-claude-code.md`
+- **建议**: 页面标记为 reviewed: false，建议人工审查后更新为 true
+
+### 🟢 [低] #23
+- **文件**: `concepts/knowledge-base-vs-memory.md`
+- **建议**: 页面标记为 reviewed: false，建议人工审查后更新为 true
+
+### 🟢 [低] #24
+- **文件**: `concepts/llm-council-method-karpathy.md`
+- **建议**: 页面标记为 reviewed: false，建议人工审查后更新为 true
+
+### 🟢 [低] #25
+- **文件**: `concepts/llm-knowledge-base-complete-guide.md`
+- **建议**: 页面标记为 reviewed: false，建议人工审查后更新为 true
+
+### 🟢 [低] #26
+- **文件**: `concepts/llm-wiki-karpathy.md`
+- **建议**: 页面标记为 reviewed: false，建议人工审查后更新为 true
+
+### 🟢 [低] #27
+- **文件**: `concepts/memory-utility-function.md`
+- **建议**: 页面标记为 reviewed: false，建议人工审查后更新为 true
+
+### 🟢 [低] #28
+- **文件**: `concepts/most-capable-agent-system-prompt.md`
+- **建议**: 页面标记为 reviewed: false，建议人工审查后更新为 true
+
+### 🟢 [低] #29
+- **文件**: `concepts/notebooklm-content-factory-workflow.md`
+- **建议**: 页面标记为 reviewed: false，建议人工审查后更新为 true
+
+### 🟢 [低] #30
+- **文件**: `concepts/openclaw-complete-guide.md`
+- **建议**: 页面标记为 reviewed: false，建议人工审查后更新为 true
+
+### 🟢 [低] #31
+- **文件**: `concepts/second-brain-karpathy-style.md`
+- **建议**: 页面标记为 reviewed: false，建议人工审查后更新为 true
+
+### 🟢 [低] #32
+- **文件**: `concepts/self-improving-agent-system-prompt.md`
+- **建议**: 页面标记为 reviewed: false，建议人工审查后更新为 true
+
+### 🟢 [低] #33
+- **文件**: `concepts/smf-semantic-memory-framework.md`
+- **建议**: 页面标记为 reviewed: false，建议人工审查后更新为 true
+
+### 🟢 [低] #34
+- **文件**: `concepts/visual-explainer.md`
+- **建议**: 页面标记为 reviewed: false，建议人工审查后更新为 true
+
+### 🟢 [低] #35
+- **文件**: `entities/ai-influence-accounts-65.md`
+- **建议**: 页面标记为 reviewed: false，建议人工审查后更新为 true
+
+### 🟢 [低] #36
+- **文件**: `entities/imran-hermes-power-user.md`
+- **建议**: 页面标记为 reviewed: false，建议人工审查后更新为 true
+
+### 🟢 [低] #37
+- **文件**: `entities/karpathy-ai-engineering.md`
+- **建议**: 页面标记为 reviewed: false，建议人工审查后更新为 true
+
+### 🟢 [低] #38
+- **文件**: `queries/ai-evening-brief-2026-04-18.md`
+- **建议**: 页面标记为 reviewed: false，建议人工审查后更新为 true
+
+### 🟢 [低] #39
+- **文件**: `queries/kilroy-cdn-batch-migration-complete.md`
+- **建议**: 页面标记为 reviewed: false，建议人工审查后更新为 true
+
+### 🟢 [低] #40
+- **文件**: `queries/kilroy-cdn-migration-plan.md`
+- **建议**: 页面标记为 reviewed: false，建议人工审查后更新为 true
+
+## 📋 index.md 同步检查
+
+✅ 所有页面均在 index.md 中有引用。
+
+## 🔧 自动修复
+
+✅ index.md 同步正常，无需修复。
+
+
+**操作**: 自动 lint 扫描，无手动修复执行（index.md 已同步）
+**下次检查**: 待用户触发或下次 cron
+
+## [2026-04-28] ingest | AI影响力周报第 18 期
+- 来源：~/.hermes/output/ai-influence-digest/weekly_report_2026-04-28.md
+- 保存到：raw/articles/ai-influence-weekly-18-2026-04-28.md
+- 扫描账号：65 个 AI 领域影响力账号
+- 候选推文：约 80+ 条（Google 搜索 + 公开抓取）
+- 精选数量：8 条
+- 核心话题：AI 平民化、Agent 工作流设计、企业 AI 预算、开源 AI 崛起
+- 更新：index.md, log.md
