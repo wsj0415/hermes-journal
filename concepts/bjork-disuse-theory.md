@@ -89,5 +89,5 @@ for entity in memory:
 
 ## 时间线
 
-- 2026-04-15: 初始创建，来源 [[raw/articles/ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14.md]]
+- 2026-04-15: 初始创建，来源 [[raw/articles/ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]]
 - 2026-04-15: 关联 [[smf-semantic-memory-framework]], [[knowledge-base-vs-memory]]

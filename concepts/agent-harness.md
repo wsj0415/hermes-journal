@@ -55,11 +55,11 @@ Agent Harness 可以理解为围绕 LLM 的“操作系统”。它不只是 pro
 
 ## 时间线
 
-- 2026-04-18: 初始创建，来源 [[raw/articles/akshay-pachaar-agent-harness-2026.md]]
+- 2026-04-18: 初始创建，来源 [[raw/articles/akshay-pachaar-agent-harness-2026]]
 
 ---
 
-> 完整中文翻译见：[[raw/articles/akshay-pachaar-agent-harness-2026.md]]
+> 完整中文翻译见：[[raw/articles/akshay-pachaar-agent-harness-2026]]
 
 ---
 
@@ -88,4 +88,4 @@ Agent Harness 可以理解为围绕 LLM 的“操作系统”。它不只是 pro
 ## 来源
 
 - [The Anatomy of an Agent Harness - Akshay Pachaar](https://x.com/akshay_pachaar/status/2041146899319971922?s=52)
-- [[raw/articles/akshay-pachaar-agent-harness-2026.md]]
+- [[raw/articles/akshay-pachaar-agent-harness-2026]]

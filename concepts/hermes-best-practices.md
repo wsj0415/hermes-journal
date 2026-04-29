@@ -209,8 +209,8 @@ Imran 的经验：
 
 ## 时间线
 
-- **2026-04-20**: Kevin Simback 发布官方新手指南 [[ksimback-hermes-beginners-guide-2026-04]]
-- **2026-04-20**: Imran 在 The Startup Ideas Podcast 分享实证经验 [[startup-ideas-pod-hermes-imran-2026-04]]
+- **2026-04-20**: Kevin Simback 发布官方新手指南 [[raw/articles/ksimback-hermes-beginners-guide-2026-04]]
+- **2026-04-20**: Imran 在 The Startup Ideas Podcast 分享实证经验 [[raw/articles/startup-ideas-pod-hermes-imran-2026-04]]
 - **2026-04-23**: 本页面创建，综合两来源
 
 ---

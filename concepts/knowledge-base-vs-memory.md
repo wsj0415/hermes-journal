@@ -84,5 +84,5 @@ confidence_reason: 来自 SMF 官方文档的核心区分
 
 ## 时间线
 
-- 2026-04-15: 初始创建，来源 [[raw/articles/ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14.md]]
+- 2026-04-15: 初始创建，来源 [[raw/articles/ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]]
 - 2026-04-15: 关联 [[smf-semantic-memory-framework]], [[llm-wiki-karpathy]], [[bjork-disuse-theory]]

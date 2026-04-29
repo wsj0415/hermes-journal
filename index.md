@@ -1,17 +1,18 @@
-     1|# Wiki Index
-     2|
-     3|> 内容目录。每个 wiki 页面在其类型下列出，附带一行摘要。
-     4|> 先读这里找到相关页面。
-     5|> Last updated: 2026-04-28 | Total pages: 65
-     6|
-     7|### 📰 最新周报
+# Wiki Index
+
+> 内容目录。每个 wiki 页面在其类型下列出，附带一行摘要。
+> 先读这里找到相关页面。
+> Last updated: 2026-04-29 | Total pages: 44
+
+### 📰 最新周报
+- [[ai-influence-weekly-report-19-2026-04-29|AI影响力周报 第 19 期]] (2026-04-29)
 - [[ai-influence-weekly-report-18-2026-04-27|AI影响力周报 第 18 期]] (2026-04-27)
 - [[ai-influence-weekly-18-2026-04-28|AI影响力周报 第 18 期]] (2026-04-28)
 
      8|
      9|- [[ai-influence-weekly-report-17-2026-04-26|AI影响力周报 第 17 期]] (2026-04-26)
     10|- [[ai-influence-weekly-report-017-2026-04-25|AI影响力周报 第 017 期]] (2026-04-25)
-    11|- [[ai-influence-weekly-report-017-2026-04-24|AI影响力周报 第 017 期]] (2026-04-24)
+    11|- [[ai-influence-weekly-report-17-2026-04-24|AI影响力周报 第 017 期]] (2026-04-24)
     12|- [[ai-influence-weekly-report-018-2026-04-22|AI影响力周报 第 018 期]] (2026-04-22)
     13|- [[ai-influence-weekly-report-003-2026-04-20|AI影响力周报 第 003 期]] (2026-04-20)
     14|

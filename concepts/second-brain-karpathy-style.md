@@ -294,7 +294,7 @@ AI 写稍错内容 → 你保存回去
 
 ## 相关链接
 
-- [[raw/articles/second-brain-part2-system.md]] - 第二大脑完整系统（三层设计 + 四操作循环）
+- [[raw/articles/second-brain-part2-system]] - 第二大脑完整系统（三层设计 + 四操作循环）
 - [[llm-knowledge-base-complete-guide]] - LLM 知识库完整教程（3 级别）
 - [[ai-knowledge-layer-two-tier]] - AI Knowledge Layer 两层系统
 - [原文推文](https://x.com/nickspisak_/status/2040448463540830705)

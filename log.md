@@ -1,12 +1,21 @@
-     1|
-     2|### 2026-04-23 AI影响力周报 第17期
-     3|- 生成周报：/root/.hermes/output/ai-influence-digest/weekly_report_2026-04-23.md
-     4|- 同步到知识库：/root/hermes-journal/raw/articles/ai-influence-digest-week17-2026-04-23.md
-     5|- 扫描账号：50 个
-     6|- 精选推文：8 条
-     7|
-     8|
-     9|## 2026-04-20
+|
+|### 2026-04-29 AI影响力周报 第19期
+|- 生成周报：/root/.hermes/output/ai-influence-digest/weekly_report_2026-04-29.md
+|- 同步到知识库：/root/hermes-journal/raw/articles/ai-influence-weekly-19-2026-04-29.md
+|- 创建 wiki 总结：/root/hermes-journal/concepts/ai-influence-weekly-report-19-2026-04-29.md
+|- 扫描账号：65 个
+|- 精选推文：8 条
+|- 核心洞察：AI 编程从"辅助"走向"委托" — Karpathy 确认 Agentic Engineering 范式，Andrew Ng 推出 Spec-Driven Development 课程
+|
+|
+|### 2026-04-23 AI影响力周报 第17期
+|- 生成周报：/root/.hermes/output/ai-influence-digest/weekly_report_2026-04-23.md
+|- 同步到知识库：/root/hermes-journal/raw/articles/ai-influence-digest-week17-2026-04-23.md
+|- 扫描账号：50 个
+|- 精选推文：8 条
+|
+|
+|## 2026-04-20
     10|
     11|- 📰 发布 AI 影响力周报 第 003 期
     12|  - 扫描 30 个核心 AI 账号
@@ -1088,3 +1097,179 @@ Directories: concepts, entities, comparisons, queries
 - 精选数量：8 条
 - 核心话题：AI 平民化、Agent 工作流设计、企业 AI 预算、开源 AI 崛起
 - 更新：index.md, log.md
+
+
+---
+
+# Wiki Health Check Report
+**Date**: 2026-04-29
+**Total pages scanned**: 43
+**Directories**: concepts, entities, comparisons, queries
+**SCHEMA tags**: 65
+**Total issues**: 84
+
+## 1. 孤立页面（无入链） — 严重程度: 高
+发现 **13** 个页面
+
+- ❌ `concepts/agent-browser-sessions.md` — 建议：在 index.md 或其他相关页面添加入链
+- ❌ `concepts/ai-ide-productivity-funnel.md` — 建议：在 index.md 或其他相关页面添加入链
+- ❌ `concepts/awesome-openclaw-tips.md` — 建议：在 index.md 或其他相关页面添加入链
+- ❌ `concepts/dario-amodei-ai-career-predictions.md` — 建议：在 index.md 或其他相关页面添加入链
+- ❌ `concepts/llm-council-method-karpathy.md` — 建议：在 index.md 或其他相关页面添加入链
+- ❌ `concepts/memory-utility-function.md` — 建议：在 index.md 或其他相关页面添加入链
+- ❌ `concepts/refrag-rag-decoding.md` — 建议：在 index.md 或其他相关页面添加入链
+- ❌ `concepts/self-improving-agent-system-prompt.md` — 建议：在 index.md 或其他相关页面添加入链
+- ❌ `concepts/visual-explainer.md` — 建议：在 index.md 或其他相关页面添加入链
+- ❌ `entities/ai-influence-accounts-65.md` — 建议：在 index.md 或其他相关页面添加入链
+- ❌ `entities/karpathy-ai-engineering.md` — 建议：在 index.md 或其他相关页面添加入链
+- ❌ `queries/ai-evening-brief-2026-04-18.md` — 建议：在 index.md 或其他相关页面添加入链
+- ❌ `queries/kilroy-cdn-batch-migration-complete.md` — 建议：在 index.md 或其他相关页面添加入链
+
+## 2. 损坏的 wikilinks — 严重程度: 高
+发现 **4** 个真正损坏的链接 + **2** 个空链接
+
+- ❌ `concepts/agent-browser-sessions.md` → `[[hermes-browser-automation]]` — 目标不存在
+- ❌ `concepts/hermes-android-deployment.md` → `[[hermes-security-setup]]` — 目标不存在
+- ❌ `concepts/hermes-android-deployment.md` → `[[termux-api-reference]]` — 目标不存在
+- ❌ `concepts/hermes-token-optimization.md` → `[[openrouter-model-pricing]]` — 目标不存在
+- ⚠️  `queries/kilroy-cdn-migration-plan.md` → `[[]]` — 空链接（需检查是否为代码示例）
+- ⚠️  `queries/kilroy-cdn-migration-plan.md` → `[[]]` — 空链接（需检查是否为代码示例）
+
+## 3. 缺少 frontmatter — 严重程度: 低
+
+- ✅ 所有页面都有 frontmatter
+
+## 4. 超过 200 行的页面 — 严重程度: 高
+发现 **21** 个页面
+
+- ⚠️  `concepts/12-agentic-harness-patterns.md` (338 行)
+- ⚠️  `concepts/agent-memory-architecture.md` (330 行)
+- ⚠️  `concepts/agentmemory-persistent-memory.md` (248 行)
+- ⚠️  `concepts/ai-engineering-from-scratch.md` (223 行)
+- ⚠️  `concepts/ai-knowledge-layer-two-tier.md` (396 行)
+- ⚠️  `concepts/awesome-openclaw-tips.md` (474 行)
+- ⚠️  `concepts/claude-alternatives-guide.md` (307 行)
+- ⚠️  `concepts/claude-md-three-blocks-learning-system.md` (348 行)
+- ⚠️  `concepts/cli-design-for-agents-and-humans.md` (356 行)
+- ⚠️  `concepts/dario-amodei-ai-career-predictions.md` (412 行)
+- ⚠️  `concepts/hermes-best-practices.md` (224 行)
+- ⚠️  `concepts/how-to-make-money-with-claude-code.md` (333 行)
+- ⚠️  `concepts/llm-council-method-karpathy.md` (294 行)
+- ⚠️  `concepts/llm-knowledge-base-complete-guide.md` (402 行)
+- ⚠️  `concepts/llm-wiki-karpathy.md` (267 行)
+- ⚠️  `concepts/most-capable-agent-system-prompt.md` (402 行)
+- ⚠️  `concepts/notebooklm-content-factory-workflow.md` (254 行)
+- ⚠️  `concepts/openclaw-complete-guide.md` (306 行)
+- ⚠️  `concepts/second-brain-karpathy-style.md` (301 行)
+- ⚠️  `concepts/visual-explainer.md` (242 行)
+- ⚠️  `queries/wiki-health-check-improvements.md` (212 行)
+
+## 5. 少于 2 个 wikilinks 的页面 — 严重程度: 高
+发现 **4** 个页面
+
+- ⚠️  `concepts/ai-influence-weekly-digest.md` (0 个链接: (无))
+- ⚠️  `concepts/ai-influence-weekly-report-18-2026-04-27.md` (1 个链接: ai-influence-weekly-report-18-2026-04-27)
+- ⚠️  `entities/ai-influence-accounts-65.md` (1 个链接: ai-influence-weekly-digest)
+- ⚠️  `queries/kilroy-cdn-batch-migration-complete.md` (1 个链接: kilroy-cdn-migration-plan)
+
+## 6. 标签不在 SCHEMA 分类法中 — 严重程度: 低
+
+- ✅ 所有标签都在 SCHEMA 分类法中
+
+## 7. 未审查页面（reviewed: false） — 严重程度: 高
+发现 **40** 个未审查页面
+
+- ⚠️  `concepts/12-agentic-harness-patterns.md`
+- ⚠️  `concepts/agent-browser-sessions.md`
+- ⚠️  `concepts/agent-harness.md`
+- ⚠️  `concepts/agent-memory-architecture.md`
+- ⚠️  `concepts/agentmemory-persistent-memory.md`
+- ⚠️  `concepts/ai-engineering-from-scratch.md`
+- ⚠️  `concepts/ai-ide-productivity-funnel.md`
+- ⚠️  `concepts/ai-influence-weekly-digest.md`
+- ⚠️  `concepts/ai-knowledge-layer-two-tier.md`
+- ⚠️  `concepts/awesome-openclaw-tips.md`
+- ⚠️  `concepts/bjork-disuse-theory.md`
+- ⚠️  `concepts/claude-alternatives-guide.md`
+- ⚠️  `concepts/claude-code-best-practices.md`
+- ⚠️  `concepts/claude-md-three-blocks-learning-system.md`
+- ⚠️  `concepts/cli-design-for-agents-and-humans.md`
+- ⚠️  `concepts/dario-amodei-ai-career-predictions.md`
+- ⚠️  `concepts/filesystem-as-knowledge-graph.md`
+- ⚠️  `concepts/hermes-android-deployment.md`
+- ⚠️  `concepts/hermes-best-practices.md`
+- ⚠️  `concepts/hermes-system-prompt-structure.md`
+- ⚠️  `concepts/hermes-token-optimization.md`
+- ⚠️  `concepts/how-to-make-money-with-claude-code.md`
+- ⚠️  `concepts/knowledge-base-vs-memory.md`
+- ⚠️  `concepts/llm-council-method-karpathy.md`
+- ⚠️  `concepts/llm-knowledge-base-complete-guide.md`
+- ⚠️  `concepts/llm-wiki-karpathy.md`
+- ⚠️  `concepts/memory-utility-function.md`
+- ⚠️  `concepts/most-capable-agent-system-prompt.md`
+- ⚠️  `concepts/notebooklm-content-factory-workflow.md`
+- ⚠️  `concepts/openclaw-complete-guide.md`
+- ⚠️  `concepts/second-brain-karpathy-style.md`
+- ⚠️  `concepts/self-improving-agent-system-prompt.md`
+- ⚠️  `concepts/smf-semantic-memory-framework.md`
+- ⚠️  `concepts/visual-explainer.md`
+- ⚠️  `entities/ai-influence-accounts-65.md`
+- ⚠️  `entities/imran-hermes-power-user.md`
+- ⚠️  `entities/karpathy-ai-engineering.md`
+- ⚠️  `queries/ai-evening-brief-2026-04-18.md`
+- ⚠️  `queries/kilroy-cdn-batch-migration-complete.md`
+- ⚠️  `queries/kilroy-cdn-migration-plan.md`
+
+## 总结
+
+| 类别 | 数量 | 严重程度 |
+|------|------|----------|
+| 孤立页面 | 13 | 高 |
+| 损坏链接 | 6 | 高 |
+| 缺少 frontmatter | 0 | 低 |
+| 页面过长 | 21 | 高 |
+| 链接不足 | 4 | 高 |
+| 无效标签 | 0 | 低 |
+| 未审查 | 40 | 高 |
+
+**总计**: 84 个问题
+## 2026-04-29: Wiki Health Check — Auto-Fixes Applied
+
+### Auto-Fixes
+1. **Fixed 4 inconsistent raw/article wikilinks** (bare name → full path):
+   - `concepts/hermes-best-practices.md`: `[[ksimback-hermes-beginners-guide-2026-04]]` → `[[raw/articles/ksimback-hermes-beginners-guide-2026-04]]`
+   - `concepts/hermes-best-practices.md`: `[[startup-ideas-pod-hermes-imran-2026-04]]` → `[[raw/articles/startup-ideas-pod-hermes-imran-2026-04]]`
+   - `entities/imran-hermes-power-user.md`: `[[startup-ideas-pod-hermes-imran-2026-04]]` → `[[raw/articles/startup-ideas-pod-hermes-imran-2026-04]]`
+   - `concepts/agent-browser-sessions.md`: `[[nottelabs-session-profiles-2026-02]]` → `[[raw/articles/nottelabs-session-profiles-2026-02]]`
+
+2. **Fixed 14 raw/article wikilinks** (removed `.md` extension):
+   - `hermes-system-prompt-structure.md`, `filesystem-as-knowledge-graph.md`, `memory-utility-function.md`, `smf-semantic-memory-framework.md`, `knowledge-base-vs-memory.md`, `bjork-disuse-theory.md`, `agent-harness.md`, `second-brain-karpathy-style.md`, `agent-memory-architecture.md`, `ai-knowledge-layer-two-tier.md`
+
+3. **Fixed index.md**:
+   - Corrected `ai-influence-weekly-report-017-2026-04-24` → `ai-influence-weekly-report-17-2026-04-24`
+   - Updated last updated date to 2026-04-29
+   - Updated total pages count to 43
+
+### Remaining Issues (Manual Action Required)
+- **4 truly broken links** (targets don't exist anywhere):
+  - `hermes-browser-automation`
+  - `hermes-security-setup`
+  - `termux-api-reference`
+  - `openrouter-model-pricing`
+- **2 empty wikilinks** in `kilroy-cdn-migration-plan.md` (inline code examples, not actual links)
+- **13 isolated pages** (no inbound links from other wiki pages)
+- **21 pages over 200 lines** (recommend splitting)
+- **4 pages with fewer than 2 wikilinks**
+- **40 unreviewed pages** (reviewed: false)
+
+### Stats After Fixes
+| 类别 | 修复前 | 修复后 |
+|------|--------|--------|
+| 孤立页面 | 13 | 13 |
+| 损坏链接 | 28 | 6 |
+| 缺少 frontmatter | 0 | 0 |
+| 页面过长 | 21 | 21 |
+| 链接不足 | 4 | 4 |
+| 无效标签 | 0 | 0 |
+| 未审查 | 40 | 40 |
+| **总计** | **106** | **84** |

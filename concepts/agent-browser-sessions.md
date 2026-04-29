@@ -14,7 +14,7 @@ confidence_reason: 基于 agent-browser.dev 文档
 
 **来源**: agent-browser.dev  
 **链接**: https://agent-browser.dev/sessions  
-**相关**: [[nottelabs-session-profiles-2026-02]]
+**相关**: [[raw/articles/nottelabs-session-profiles-2026-02]]
 
 ---
 
@@ -155,6 +155,6 @@ Hermes 有 browser 工具，但 session 持久化需要额外配置。可以：
 
 ## 相关工作
 
-- [[nottelabs-session-profiles-2026-02]] — Session Profiles 概念说明
+- [[raw/articles/nottelabs-session-profiles-2026-02]] — Session Profiles 概念说明
 - [[hermes-browser-automation]] — Hermes 浏览器自动化（待创建）
 - [[hermes-android-deployment]] — Android 部署（Termux 中也可用 agent-browser）

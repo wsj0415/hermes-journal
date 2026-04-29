@@ -87,5 +87,5 @@ SMF 为组织记忆设计，编码了以下问题类型：
 
 ## 时间线
 
-- 2026-04-15: 初始创建，来源 [[raw/articles/ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14.md]]
+- 2026-04-15: 初始创建，来源 [[raw/articles/ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14]]
 - 2026-04-15: 关联 [[knowledge-base-vs-memory]], [[smf-semantic-memory-framework]], [[bjork-disuse-theory]]
