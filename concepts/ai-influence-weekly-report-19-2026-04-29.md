@@ -1,6 +1,19 @@
+---
+title: AI影响力周报 第 19 期 (2026-04-29)
+created: 2026-04-29
+updated: 2026-04-29
+type: concept
+tags: [ai-trends, content-creation, workflow]
+sources: []
+reviewed: false
+reviewed_at:
+confidence: medium
+confidence_reason: AI 生成的周报摘要
+---
+
 # AI影响力周报 第 19 期 — 核心洞察 (2026-04-29)
 
-> 汇总自 [[ai-influence-weekly-19-2026-04-29|AI影响力周报 第 19 期]]
+> 汇总自 [[ai-influence-weekly-report-19-2026-04-29|AI影响力周报 第 19 期]]
 
 ## 核心趋势：AI 编程从"辅助"走向"委托"
 

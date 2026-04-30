@@ -1,4 +1,10 @@
 |
+|### 2026-04-30 AI影响力周报 第18期
+|- 生成周报：/root/.hermes/output/ai-influence-digest/weekly_report_2026-04-30.md
+|- 同步到知识库：/root/hermes-journal/raw/articles/ai-influence-weekly-18-2026-04-30.md
+|- 创建 wiki 总结：/root/hermes-journal/concepts/ai-influence-weekly-18-2026-04-30.md
+|- 核心洞察：Agent 推理效率竞争、本地化部署需求、中文模型生态成熟
+
 |### 2026-04-29 AI影响力周报 第19期
 |- 生成周报：/root/.hermes/output/ai-influence-digest/weekly_report_2026-04-29.md
 |- 同步到知识库：/root/hermes-journal/raw/articles/ai-influence-weekly-19-2026-04-29.md
@@ -1273,3 +1279,251 @@ Directories: concepts, entities, comparisons, queries
 | 无效标签 | 0 | 0 |
 | 未审查 | 40 | 40 |
 | **总计** | **106** | **84** |
+
+---
+
+## 2026-04-30 — Wiki 健康检查 (Lint)
+
+### 扫描范围
+- concepts/ (36 页面)
+- entities/ (3 页面)
+- comparisons/ (0 页面)
+- queries/ (4 页面)
+- **总计: 44 页面**
+
+### 自动修复
+1. ✅ 为 `concepts/ai-influence-weekly-report-19-2026-04-29.md` 添加缺失的 YAML frontmatter
+2. ✅ 修复该文件中的损坏自引用链接 (`ai-influence-weekly-19-2026-04-29` → `ai-influence-weekly-report-19-2026-04-29`)
+
+### 待手动处理
+- **16 个 index.md 引用指向不存在的页面**：周报历史版本引用 (ai-influence-weekly-report-003, -017, -018 等) 和模板/品牌页面 (banned-words, voice-profile 等)
+- **5 个真正的损坏 wikilinks**：hermes-browser-automation, hermes-security-setup, termux-api-reference, openrouter-model-pricing
+- **21 个超长页面**：建议拆分（最高 474 行）
+- **40 个未审查页面**：reviewed: false
+
+### 详细报告
+```
+======================================================================
+  WIKI HEALTH CHECK REPORT
+  Date: 2026-04-30
+  Pages scanned: 44
+======================================================================
+
+────────────────────────────────────────────────────────────
+🔴 孤立页面 (无入链): 15  [HIGH]
+────────────────────────────────────────────────────────────
+  [HIGH] concepts/agent-browser-sessions.md
+         → 建议: 在 index.md 和相关页面中添加指向此页面的 [[wikilink]]
+  [HIGH] concepts/ai-ide-productivity-funnel.md
+         → 建议: 在 index.md 和相关页面中添加指向此页面的 [[wikilink]]
+  [HIGH] concepts/ai-influence-weekly-report-18-2026-04-27.md
+         → 建议: 在 index.md 和相关页面中添加指向此页面的 [[wikilink]]
+  [HIGH] concepts/ai-influence-weekly-report-19-2026-04-29.md
+         → 建议: 在 index.md 和相关页面中添加指向此页面的 [[wikilink]]
+  [HIGH] concepts/awesome-openclaw-tips.md
+         → 建议: 在 index.md 和相关页面中添加指向此页面的 [[wikilink]]
+  [HIGH] concepts/dario-amodei-ai-career-predictions.md
+         → 建议: 在 index.md 和相关页面中添加指向此页面的 [[wikilink]]
+  [HIGH] concepts/llm-council-method-karpathy.md
+         → 建议: 在 index.md 和相关页面中添加指向此页面的 [[wikilink]]
+  [HIGH] concepts/memory-utility-function.md
+         → 建议: 在 index.md 和相关页面中添加指向此页面的 [[wikilink]]
+  [HIGH] concepts/refrag-rag-decoding.md
+         → 建议: 在 index.md 和相关页面中添加指向此页面的 [[wikilink]]
+  [HIGH] concepts/self-improving-agent-system-prompt.md
+         → 建议: 在 index.md 和相关页面中添加指向此页面的 [[wikilink]]
+  [HIGH] concepts/visual-explainer.md
+         → 建议: 在 index.md 和相关页面中添加指向此页面的 [[wikilink]]
+  [HIGH] entities/ai-influence-accounts-65.md
+         → 建议: 在 index.md 和相关页面中添加指向此页面的 [[wikilink]]
+  [HIGH] entities/karpathy-ai-engineering.md
+         → 建议: 在 index.md 和相关页面中添加指向此页面的 [[wikilink]]
+  [HIGH] queries/ai-evening-brief-2026-04-18.md
+         → 建议: 在 index.md 和相关页面中添加指向此页面的 [[wikilink]]
+  [HIGH] queries/kilroy-cdn-batch-migration-complete.md
+         → 建议: 在 index.md 和相关页面中添加指向此页面的 [[wikilink]]
+
+────────────────────────────────────────────────────────────
+🔴 损坏的 Wikilinks: 19  [HIGH]
+────────────────────────────────────────────────────────────
+  [HIGH] concepts/agent-browser-sessions.md
+         → 指向: [raw/articles/nottelabs-session-profiles-2026-02] (不存在)
+         → 建议: 创建目标页面或移除/修正链接
+  [HIGH] concepts/agent-browser-sessions.md
+         → 指向: [hermes-browser-automation] (不存在)
+         → 建议: 创建目标页面或移除/修正链接
+  [HIGH] concepts/agent-harness.md
+         → 指向: [raw/articles/akshay-pachaar-agent-harness-2026] (不存在)
+         → 建议: 创建目标页面或移除/修正链接
+  [HIGH] concepts/agent-memory-architecture.md
+         → 指向: [raw/articles/akshay-pachaar-agent-memory-2026] (不存在)
+         → 建议: 创建目标页面或移除/修正链接
+  [HIGH] concepts/ai-influence-weekly-report-19-2026-04-29.md
+         → 指向: [ai-influence-weekly-19-2026-04-29] (不存在)
+         → 建议: 创建目标页面或移除/修正链接
+  [HIGH] concepts/ai-knowledge-layer-two-tier.md
+         → 指向: [raw/articles/shannholmberg-ai-knowledge-layer-2026] (不存在)
+         → 建议: 创建目标页面或移除/修正链接
+  [HIGH] concepts/bjork-disuse-theory.md
+         → 指向: [raw/articles/ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14] (不存在)
+         → 建议: 创建目标页面或移除/修正链接
+  [HIGH] concepts/filesystem-as-knowledge-graph.md
+         → 指向: [raw/articles/ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14] (不存在)
+         → 建议: 创建目标页面或移除/修正链接
+  [HIGH] concepts/hermes-android-deployment.md
+         → 指向: [hermes-security-setup] (不存在)
+         → 建议: 创建目标页面或移除/修正链接
+  [HIGH] concepts/hermes-android-deployment.md
+         → 指向: [termux-api-reference] (不存在)
+         → 建议: 创建目标页面或移除/修正链接
+  [HIGH] concepts/hermes-best-practices.md
+         → 指向: [raw/articles/ksimback-hermes-beginners-guide-2026-04] (不存在)
+         → 建议: 创建目标页面或移除/修正链接
+  [HIGH] concepts/hermes-best-practices.md
+         → 指向: [raw/articles/startup-ideas-pod-hermes-imran-2026-04] (不存在)
+         → 建议: 创建目标页面或移除/修正链接
+  [HIGH] concepts/hermes-system-prompt-structure.md
+         → 指向: [raw/articles/lufzzliz-hermes-system-prompt-analysis-2026] (不存在)
+         → 建议: 创建目标页面或移除/修正链接
+  [HIGH] concepts/hermes-token-optimization.md
+         → 指向: [openrouter-model-pricing] (不存在)
+         → 建议: 创建目标页面或移除/修正链接
+  [HIGH] concepts/knowledge-base-vs-memory.md
+         → 指向: [raw/articles/ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14] (不存在)
+         → 建议: 创建目标页面或移除/修正链接
+  [HIGH] concepts/memory-utility-function.md
+         → 指向: [raw/articles/ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14] (不存在)
+         → 建议: 创建目标页面或移除/修正链接
+  [HIGH] concepts/second-brain-karpathy-style.md
+         → 指向: [raw/articles/second-brain-part2-system] (不存在)
+         → 建议: 创建目标页面或移除/修正链接
+  [HIGH] concepts/smf-semantic-memory-framework.md
+         → 指向: [raw/articles/ashwin-gopinath-smf-skeleton-of-remembering-2026-04-14] (不存在)
+         → 建议: 创建目标页面或移除/修正链接
+  [HIGH] entities/imran-hermes-power-user.md
+         → 指向: [raw/articles/startup-ideas-pod-hermes-imran-2026-04] (不存在)
+         → 建议: 创建目标页面或移除/修正链接
+
+────────────────────────────────────────────────────────────
+🔴 缺少 Frontmatter: 1  [HIGH]
+────────────────────────────────────────────────────────────
+  [HIGH] concepts/ai-influence-weekly-report-19-2026-04-29.md
+         → 建议: 添加 YAML frontmatter (title, created, type, tags, reviewed)
+
+────────────────────────────────────────────────────────────
+🟡 超长页面 (>200行): 21  [MEDIUM]
+────────────────────────────────────────────────────────────
+  [MEDIUM] concepts/awesome-openclaw-tips.md (474 行)
+         → 建议: 拆分为子主题页面并添加交叉链接
+  [MEDIUM] concepts/dario-amodei-ai-career-predictions.md (412 行)
+         → 建议: 拆分为子主题页面并添加交叉链接
+  [MEDIUM] concepts/llm-knowledge-base-complete-guide.md (402 行)
+         → 建议: 拆分为子主题页面并添加交叉链接
+  [MEDIUM] concepts/most-capable-agent-system-prompt.md (402 行)
+         → 建议: 拆分为子主题页面并添加交叉链接
+  [MEDIUM] concepts/ai-knowledge-layer-two-tier.md (396 行)
+         → 建议: 拆分为子主题页面并添加交叉链接
+  [MEDIUM] concepts/cli-design-for-agents-and-humans.md (356 行)
+         → 建议: 拆分为子主题页面并添加交叉链接
+  [MEDIUM] concepts/claude-md-three-blocks-learning-system.md (348 行)
+         → 建议: 拆分为子主题页面并添加交叉链接
+  [MEDIUM] concepts/12-agentic-harness-patterns.md (338 行)
+         → 建议: 拆分为子主题页面并添加交叉链接
+  [MEDIUM] concepts/how-to-make-money-with-claude-code.md (333 行)
+         → 建议: 拆分为子主题页面并添加交叉链接
+  [MEDIUM] concepts/agent-memory-architecture.md (330 行)
+         → 建议: 拆分为子主题页面并添加交叉链接
+  [MEDIUM] concepts/claude-alternatives-guide.md (307 行)
+         → 建议: 拆分为子主题页面并添加交叉链接
+  [MEDIUM] concepts/openclaw-complete-guide.md (306 行)
+         → 建议: 拆分为子主题页面并添加交叉链接
+  [MEDIUM] concepts/second-brain-karpathy-style.md (301 行)
+         → 建议: 拆分为子主题页面并添加交叉链接
+  [MEDIUM] concepts/llm-council-method-karpathy.md (294 行)
+         → 建议: 拆分为子主题页面并添加交叉链接
+  [MEDIUM] concepts/llm-wiki-karpathy.md (267 行)
+         → 建议: 拆分为子主题页面并添加交叉链接
+  [MEDIUM] concepts/notebooklm-content-factory-workflow.md (254 行)
+         → 建议: 拆分为子主题页面并添加交叉链接
+  [MEDIUM] concepts/agentmemory-persistent-memory.md (248 行)
+         → 建议: 拆分为子主题页面并添加交叉链接
+  [MEDIUM] concepts/visual-explainer.md (242 行)
+         → 建议: 拆分为子主题页面并添加交叉链接
+  [MEDIUM] concepts/hermes-best-practices.md (224 行)
+         → 建议: 拆分为子主题页面并添加交叉链接
+  [MEDIUM] concepts/ai-engineering-from-scratch.md (223 行)
+         → 建议: 拆分为子主题页面并添加交叉链接
+  [MEDIUM] queries/wiki-health-check-improvements.md (212 行)
+         → 建议: 拆分为子主题页面并添加交叉链接
+
+────────────────────────────────────────────────────────────
+🟡 链接不足 (<2个): 5  [MEDIUM]
+────────────────────────────────────────────────────────────
+  [MEDIUM] concepts/ai-influence-weekly-digest.md (0 个链接)
+         → 建议: 添加至少 2 个 [[wikilink]] 指向其他相关页面
+  [MEDIUM] concepts/ai-influence-weekly-report-18-2026-04-27.md (1 个链接)
+         → 建议: 添加至少 2 个 [[wikilink]] 指向其他相关页面
+  [MEDIUM] concepts/ai-influence-weekly-report-19-2026-04-29.md (1 个链接)
+         → 建议: 添加至少 2 个 [[wikilink]] 指向其他相关页面
+  [MEDIUM] entities/ai-influence-accounts-65.md (1 个链接)
+         → 建议: 添加至少 2 个 [[wikilink]] 指向其他相关页面
+  [MEDIUM] queries/kilroy-cdn-batch-migration-complete.md (1 个链接)
+         → 建议: 添加至少 2 个 [[wikilink]] 指向其他相关页面
+
+────────────────────────────────────────────────────────────
+🟡 无效标签 (不在 SCHEMA 中): 0  [MEDIUM]
+────────────────────────────────────────────────────────────
+  ✅ 所有标签均在 SCHEMA 分类法中
+
+────────────────────────────────────────────────────────────
+🟢 未审查页面: 40  [LOW]
+────────────────────────────────────────────────────────────
+  [LOW] concepts/12-agentic-harness-patterns.md
+  [LOW] concepts/agent-browser-sessions.md
+  [LOW] concepts/agent-harness.md
+  [LOW] concepts/agent-memory-architecture.md
+  [LOW] concepts/agentmemory-persistent-memory.md
+  [LOW] concepts/ai-engineering-from-scratch.md
+  [LOW] concepts/ai-ide-productivity-funnel.md
+  [LOW] concepts/ai-influence-weekly-digest.md
+  [LOW] concepts/ai-knowledge-layer-two-tier.md
+  [LOW] concepts/awesome-openclaw-tips.md
+  [LOW] concepts/bjork-disuse-theory.md
+  [LOW] concepts/claude-alternatives-guide.md
+  [LOW] concepts/claude-code-best-practices.md
+  [LOW] concepts/claude-md-three-blocks-learning-system.md
+  [LOW] concepts/cli-design-for-agents-and-humans.md
+  [LOW] concepts/dario-amodei-ai-career-predictions.md
+  [LOW] concepts/filesystem-as-knowledge-graph.md
+  [LOW] concepts/hermes-android-deployment.md
+  [LOW] concepts/hermes-best-practices.md
+  [LOW] concepts/hermes-system-prompt-structure.md
+  [LOW] concepts/hermes-token-optimization.md
+  [LOW] concepts/how-to-make-money-with-claude-code.md
+  [LOW] concepts/knowledge-base-vs-memory.md
+  [LOW] concepts/llm-council-method-karpathy.md
+  [LOW] concepts/llm-knowledge-base-complete-guide.md
+  [LOW] concepts/llm-wiki-karpathy.md
+  [LOW] concepts/memory-utility-function.md
+  [LOW] concepts/most-capable-agent-system-prompt.md
+  [LOW] concepts/notebooklm-content-factory-workflow.md
+  [LOW] concepts/openclaw-complete-guide.md
+  [LOW] concepts/second-brain-karpathy-style.md
+  [LOW] concepts/self-improving-agent-system-prompt.md
+  [LOW] concepts/smf-semantic-memory-framework.md
+  [LOW] concepts/visual-explainer.md
+  [LOW] entities/ai-influence-accounts-65.md
+  [LOW] entities/imran-hermes-power-user.md
+  [LOW] entities/karpathy-ai-engineering.md
+  [LOW] queries/ai-evening-brief-2026-04-18.md
+  [LOW] queries/kilroy-cdn-batch-migration-complete.md
+  [LOW] queries/kilroy-cdn-migration-plan.md
+
+======================================================================
+  汇总
+======================================================================
+  🔴 HIGH:   35 个问题
+  🟡 MEDIUM: 26 个问题
+  🟢 LOW:    40 个问题
+  总计:      101 个问题
+```

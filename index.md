@@ -2,9 +2,10 @@
 
 > 内容目录。每个 wiki 页面在其类型下列出，附带一行摘要。
 > 先读这里找到相关页面。
-> Last updated: 2026-04-29 | Total pages: 44
+> Last updated: 2026-04-30 | Total pages: 45
 
 ### 📰 最新周报
+- [[ai-influence-weekly-18-2026-04-30|AI影响力周报 第 18 期]] (2026-04-30)
 - [[ai-influence-weekly-report-19-2026-04-29|AI影响力周报 第 19 期]] (2026-04-29)
 - [[ai-influence-weekly-report-18-2026-04-27|AI影响力周报 第 18 期]] (2026-04-27)
 - [[ai-influence-weekly-18-2026-04-28|AI影响力周报 第 18 期]] (2026-04-28)
